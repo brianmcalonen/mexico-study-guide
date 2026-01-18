@@ -40,7 +40,8 @@ export default function App() {
     async function load() {
       try {
         setLoading(true);
-        const res = await fetch("/naturalizacion_qa_en.json");
+        const base = process.env.PUBLIC_URL || "";
+        const res = await fetch(`${base}/naturalizacion_qa_en.json`);
         const json = await res.json();
 
         const normalized = (Array.isArray(json) ? json : [])
