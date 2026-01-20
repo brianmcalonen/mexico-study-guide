@@ -31,6 +31,20 @@ export default function App() {
   const [deck, setDeck] = useState([]);
   const [idx, setIdx] = useState(0);
   const [showAnswer, setShowAnswer] = useState(false);
+  const [dark, setDark] = useState(() =>
+    (typeof window !== "undefined" && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) ?? false
+  );
+  const [isDesktop, setIsDesktop] = useState(() =>
+    typeof window !== "undefined" ? window.innerWidth >= 900 : true
+  );
+
+  useEffect(() => {
+    function onResize() {
+      setIsDesktop(window.innerWidth >= 900);
+    }
+    window.addEventListener("resize", onResize);
+    return () => window.removeEventListener("resize", onResize);
+  }, []);
 
   // results[qid] = { right: number, wrong: number, last: "right"|"wrong" }
   const [results, setResults] = useState({});
@@ -179,6 +193,160 @@ export default function App() {
 
   const curStats = current ? results[String(current.qid)] : null;
 
+  const theme = dark
+    ? {
+        pageBg: "#071028",
+        cardBg: "#071226",
+        text: "#e6eef8",
+        muted: "rgba(230,238,248,0.75)",
+        border: "#1f2937",
+        hr: "#0f1724",
+      }
+    : {
+        pageBg: "#ffffff",
+        cardBg: "#ffffff",
+        text: "#111827",
+        muted: "rgba(17,24,39,0.6)",
+        border: "#e5e7eb",
+        hr: "#e5e7eb",
+      };
+
+  const styles = {
+    page: {
+      fontFamily:
+        'ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial',
+      padding: isDesktop ? 28 : 14,
+      maxWidth: isDesktop ? 1100 : 900,
+      margin: "0 auto",
+      lineHeight: 1.35,
+      background: theme.pageBg,
+      color: theme.text,
+      minHeight: "100vh",
+    },
+    header: {
+      display: "flex",
+      gap: isDesktop ? 20 : 12,
+      justifyContent: "space-between",
+      alignItems: "flex-start",
+      flexWrap: "wrap",
+      marginBottom: isDesktop ? 16 : 12,
+    },
+    title: { fontSize: isDesktop ? 24 : 20, fontWeight: 800 },
+    subtitle: { opacity: 0.75, marginTop: 4 },
+    stats: {
+      border: `1px solid ${theme.border}`,
+      borderRadius: 12,
+      padding: isDesktop ? "10px 24px" : "8px 16px",
+      minWidth: isDesktop ? 260 : 180,
+      fontSize: 13,
+      width: !isDesktop ? "100%" : "auto",
+    },
+    controls: {
+      display: "flex",
+      gap: 8,
+      flexWrap: "wrap",
+      alignItems: "center",
+      marginBottom: 12,
+    },
+    control: { fontSize: 13, display: "flex", alignItems: "center" },
+    select: {
+      padding: "6px 8px",
+      borderRadius: 10,
+      border: `1px solid ${theme.border}`,
+      background: theme.cardBg,
+      color: theme.text,
+    },
+    button: {
+      padding: "8px 10px",
+      borderRadius: 12,
+      border: `1px solid ${theme.border}`,
+      background: theme.cardBg,
+      color: theme.text,
+      cursor: "pointer",
+    },
+    buttonDanger: {
+      padding: "8px 10px",
+      borderRadius: 12,
+      border: `1px solid #fecaca`,
+      background: theme.cardBg,
+      cursor: "pointer",
+      color: theme.text,
+    },
+    cardWrap: { marginTop: 8 },
+    card: {
+      border: `1px solid ${theme.border}`,
+      borderRadius: 16,
+      padding: isDesktop ? 18 : 12,
+      cursor: "pointer",
+      userSelect: "none",
+      boxShadow: dark ? "0 6px 24px rgba(0,0,0,0.45)" : "0 1px 12px rgba(0,0,0,0.04)",
+      background: theme.cardBg,
+    },
+    cardTop: {
+      display: "flex",
+      justifyContent: "space-between",
+      fontSize: 13,
+      opacity: 0.85,
+      marginBottom: 8,
+    },
+    cardTopRight: { fontVariantNumeric: "tabular-nums" },
+    cardBody: { padding: "4px 2px 10px 2px" },
+    qLabel: { fontSize: 12, opacity: 0.6, marginBottom: 6 },
+    qText: { fontSize: isDesktop ? 20 : 18, fontWeight: 650 },
+    aLabel: { fontSize: 12, opacity: 0.6, marginBottom: 6 },
+    aText: { fontSize: 17 },
+    revealHint: { opacity: 0.7, fontStyle: "italic" },
+    hr: { height: 1, background: theme.hr, margin: "12px 0" },
+    cardFooter: {
+      display: "flex",
+      justifyContent: "space-between",
+      gap: 10,
+      flexWrap: "wrap",
+      borderTop: `1px dashed ${theme.border}`,
+      paddingTop: 10,
+      marginTop: 10,
+    },
+    small: { fontSize: 12, opacity: 0.85 },
+    smallMuted: { fontSize: 12, color: theme.muted },
+    actions: {
+      display: "flex",
+      gap: 8,
+      justifyContent: "center",
+      marginTop: 12,
+      flexWrap: "wrap",
+    },
+    buttonSecondary: {
+      padding: "10px 12px",
+      borderRadius: 14,
+      border: `1px solid ${theme.border}`,
+      background: theme.cardBg,
+      color: theme.text,
+      cursor: "pointer",
+      minWidth: 80,
+      flex: !isDesktop ? 1 : "unset",
+    },
+    buttonGood: {
+      padding: "10px 12px",
+      borderRadius: 14,
+      border: `1px solid #bbf7d0`,
+      background: theme.cardBg,
+      cursor: "pointer",
+      minWidth: isDesktop ? 110 : "unset",
+      color: theme.text,
+      flex: !isDesktop ? 1 : "unset",
+    },
+    buttonBad: {
+      padding: "10px 12px",
+      borderRadius: 14,
+      border: `1px solid #fecaca`,
+      background: theme.cardBg,
+      cursor: "pointer",
+      minWidth: isDesktop ? 110 : "unset",
+      color: theme.text,
+      flex: !isDesktop ? 1 : "unset",
+    },
+  };
+
   if (loading) {
     return (
       <div style={styles.page}>
@@ -198,16 +366,22 @@ export default function App() {
           </div>
         </div>
 
-        <div style={styles.stats}>
+        <div style={{ ...styles.stats, display: "flex", justifyContent: "space-between" }}>
           <div>
-            <strong>Deck:</strong> {deck.length} cards
+            <div>
+              <strong>Deck:</strong> {deck.length} cards
+            </div>
+            <div>
+              <strong>Seen:</strong> {totals.seen}/{totals.total}
+            </div>
           </div>
           <div>
-            <strong>Seen:</strong> {totals.seen}/{totals.total}
-          </div>
-          <div>
-            <strong>Right:</strong> {totals.right} &nbsp; <strong>Wrong:</strong>{" "}
-            {totals.wrong}
+            <div>
+              <strong>Right:</strong> {totals.right}
+            </div>
+            <div>
+              <strong>Wrong:</strong> {totals.wrong}
+            </div>
           </div>
         </div>
       </div>
@@ -241,6 +415,10 @@ export default function App() {
             <option value="IN_ORDER">In order</option>
           </select>
         </label>
+
+        <button onClick={() => setDark((d) => !d)} style={styles.button} aria-pressed={dark}>
+          {dark ? "Light Mode" : "Dark Mode"}
+        </button>
 
         <button onClick={reshuffle} style={styles.button}>
           Reshuffle
@@ -349,123 +527,4 @@ export default function App() {
   );
 }
 
-const styles = {
-  page: {
-    fontFamily:
-      'ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial',
-    padding: 18,
-    maxWidth: 900,
-    margin: "0 auto",
-    lineHeight: 1.35,
-  },
-  header: {
-    display: "flex",
-    gap: 16,
-    justifyContent: "space-between",
-    alignItems: "flex-start",
-    flexWrap: "wrap",
-    marginBottom: 14,
-  },
-  title: { fontSize: 22, fontWeight: 800 },
-  subtitle: { opacity: 0.7, marginTop: 4 },
-  stats: {
-    border: "1px solid #e5e7eb",
-    borderRadius: 12,
-    padding: "10px 12px",
-    minWidth: 220,
-    fontSize: 13,
-  },
-  controls: {
-    display: "flex",
-    gap: 10,
-    flexWrap: "wrap",
-    alignItems: "center",
-    marginBottom: 14,
-  },
-  control: { fontSize: 13, display: "flex", alignItems: "center" },
-  select: {
-    padding: "6px 8px",
-    borderRadius: 10,
-    border: "1px solid #e5e7eb",
-  },
-  button: {
-    padding: "8px 10px",
-    borderRadius: 12,
-    border: "1px solid #e5e7eb",
-    background: "white",
-    cursor: "pointer",
-  },
-  buttonDanger: {
-    padding: "8px 10px",
-    borderRadius: 12,
-    border: "1px solid #fecaca",
-    background: "white",
-    cursor: "pointer",
-  },
-  cardWrap: { marginTop: 8 },
-  card: {
-    border: "1px solid #e5e7eb",
-    borderRadius: 18,
-    padding: 14,
-    cursor: "pointer",
-    userSelect: "none",
-    boxShadow: "0 1px 12px rgba(0,0,0,0.04)",
-  },
-  cardTop: {
-    display: "flex",
-    justifyContent: "space-between",
-    fontSize: 13,
-    opacity: 0.85,
-    marginBottom: 10,
-  },
-  cardTopRight: { fontVariantNumeric: "tabular-nums" },
-  cardBody: { padding: "4px 2px 10px 2px" },
-  qLabel: { fontSize: 12, opacity: 0.6, marginBottom: 6 },
-  qText: { fontSize: 18, fontWeight: 650 },
-  aLabel: { fontSize: 12, opacity: 0.6, marginBottom: 6 },
-  aText: { fontSize: 17 },
-  revealHint: { opacity: 0.6, fontStyle: "italic" },
-  hr: { height: 1, background: "#e5e7eb", margin: "12px 0" },
-  cardFooter: {
-    display: "flex",
-    justifyContent: "space-between",
-    gap: 10,
-    flexWrap: "wrap",
-    borderTop: "1px dashed #e5e7eb",
-    paddingTop: 10,
-    marginTop: 10,
-  },
-  small: { fontSize: 12, opacity: 0.8 },
-  smallMuted: { fontSize: 12, opacity: 0.55 },
-  actions: {
-    display: "flex",
-    gap: 10,
-    justifyContent: "center",
-    marginTop: 14,
-    flexWrap: "wrap",
-  },
-  buttonSecondary: {
-    padding: "10px 12px",
-    borderRadius: 14,
-    border: "1px solid #e5e7eb",
-    background: "white",
-    cursor: "pointer",
-    minWidth: 95,
-  },
-  buttonGood: {
-    padding: "10px 12px",
-    borderRadius: 14,
-    border: "1px solid #bbf7d0",
-    background: "white",
-    cursor: "pointer",
-    minWidth: 110,
-  },
-  buttonBad: {
-    padding: "10px 12px",
-    borderRadius: 14,
-    border: "1px solid #fecaca",
-    background: "white",
-    cursor: "pointer",
-    minWidth: 110,
-  },
-};
+// (styles moved into component to support theme/dark mode)
