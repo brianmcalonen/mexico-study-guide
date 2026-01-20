@@ -73,7 +73,7 @@
   },
   {
     "qid": 10,
-    "category": "Geography",
+    "category": "General",
     "question": "En el habla popular de México, el término \"marchante(a)\":",
     "answer": "Se aplica de igual manera al comprador y al vendedor",
     "question_en": "In the popular speech of Mexico, the term 'marchante(a)':",
@@ -105,23 +105,15 @@
   },
   {
     "qid": 14,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "Lugar donde se come a precios bajos",
     "answer": "Fonda",
     "question_en": "Place where food is eaten at low prices",
     "answer_en": "Fonda"
   },
   {
-    "qid": 15,
-    "category": "General",
-    "question": "A qué se le llama Fonda",
-    "answer": "Es un pequeño restaurante económico",
-    "question_en": "What is a Fonda?",
-    "answer_en": "It is a small, inexpensive restaurant."
-  },
-  {
     "qid": 16,
-    "category": "Geography",
+    "category": "General",
     "question": "Perro Originario de México o Nombre de raza de perro prehispánico de poco pelo",
     "answer": "Xoloitzcuintle",
     "question_en": "Dog native to Mexico or name of a pre-Hispanic dog breed with little hair",
@@ -161,7 +153,7 @@
   },
   {
     "qid": 23,
-    "category": "General",
+    "category": "Geography",
     "question": "¿Cuántas zonas Arqueológicas existen en México?",
     "answer": "189 abiertas al público pero existen más de 2000",
     "question_en": "How many archaeological zones exist in Mexico?",
@@ -177,7 +169,7 @@
   },
   {
     "qid": 26,
-    "category": "Geography",
+    "category": "General",
     "question": "¿Qué significa papalote?",
     "answer": "Mariposa o Cometa",
     "question_en": "What does papalote mean?",
@@ -185,7 +177,7 @@
   },
   {
     "qid": 27,
-    "category": "General",
+    "category": "Geography",
     "question": "Famoso callejón de Guanajuato",
     "answer": "Callejón del beso",
     "question_en": "Famous alley in Guanajuato",
@@ -193,7 +185,7 @@
   },
   {
     "qid": 28,
-    "category": "Geography",
+    "category": "Arts & Literature",
     "question": "Extranjero con que tuvo amoríos Frida Khalo",
     "answer": "Leon Trostsky",
     "question_en": "Foreigner with whom Frida Kahlo had affairs",
@@ -209,7 +201,7 @@
   },
   {
     "qid": 30,
-    "category": "General",
+    "category": "Geography",
     "question": "¿De dónde es la guelaguetza?",
     "answer": "De Oaxaca",
     "question_en": "Where is the Guelaguetza from?",
@@ -217,7 +209,7 @@
   },
   {
     "qid": 31,
-    "category": "General",
+    "category": "Geography",
     "question": "¿De dónde es el baile de los viejitos?",
     "answer": "Michoacán",
     "question_en": "Where is the dance of the old men from?",
@@ -298,22 +290,22 @@
   {
     "qid": 41,
     "category": "Geography",
-    "question": "¿Como se llama dónde van a parar los fiesteros? (¿A dónde te mandan cuándo",
-    "answer": "manejas ebrio?) Al torito",
+    "question": "¿Como se llama dónde van a parar los fiesteros? (¿A dónde te mandan cuándomanejas ebrio?)",
+    "answer": "Al torito",
     "question_en": "What is the name of where party-goers end up? (Where do they send you when you drive drunk?)",
     "answer_en": "To the little bull"
   },
   {
     "qid": 42,
-    "category": "Geography",
-    "question": "¿Cómo se le llama popularmente al periodo de celebraciones y fiestas que va desde",
-    "answer": "el doce de diciembre hasta día de reyes? Maratón Guadalupe- Reyes",
+    "category": "Culture & Symbols",
+    "question": "¿Cómo se le llama popularmente al periodo de celebraciones y fiestas que va desde el doce de diciembre hasta día de reyes?",
+    "answer": "Maratón Guadalupe-Reyes",
     "question_en": "What is the popular name for the period of celebrations and festivities that runs from December 12 to Three Kings Day?",
     "answer_en": "Guadalupe-Reyes Marathon"
   },
   {
     "qid": 43,
-    "category": "General",
+    "category": "Culture & Symbols",
     "question": "¿Qué se celebra el 10 de mayo?",
     "answer": "El día de las madres",
     "question_en": "What is celebrated on May 10th?",
@@ -321,7 +313,7 @@
   },
   {
     "qid": 45,
-    "category": "Government & Civics",
+    "category": "Geography",
     "question": "¿A que se conoce como la bella airosa?",
     "answer": "La ciudad de Pachuca (Estado de Hidalgo)",
     "question_en": "What is known as the beautiful windy city?",
@@ -329,7 +321,7 @@
   },
   {
     "qid": 46,
-    "category": "Geography",
+    "category": "Culture & Symbols",
     "question": "¿Qué son losVoladores de Papantla?",
     "answer": "A) Danza Indígna de Veracruz B) Este ritual está asociado a la fertilidad, se ejecuta con cuatro danzantes que representan los cuatro puntos cardinales y el caporal, pero se observaron danzas con sólo dos danzantes. La fertilidad se representa mediante el descenso de los danzantes, que simbolizan la caída de la lluvia. Se utiliza un tronco o \"palo volador\" de más de 20 metros. En lo alto de la estructura, se sitúa el caporal, personaje que toca un tambor y una flauta, y coordina el ritual.",
     "question_en": "What are the Voladores de Papantla?",
@@ -345,7 +337,7 @@
   },
   {
     "qid": 48,
-    "category": "History",
+    "category": "Culture & Symbols",
     "question": "Primera miss universo mexicana",
     "answer": "Maria Guadalupe (Lupita) Jones",
     "question_en": "First Mexican Miss Universe",
@@ -353,7 +345,7 @@
   },
   {
     "qid": 49,
-    "category": "History",
+    "category": "General",
     "question": "¿Quiénes fueron las mexicanas ganadoras del Miss Universo?",
     "answer": "Maria Guadalupe (Lupita) Jones y Jimena Navarrete",
     "question_en": "Who were the Mexican winners of Miss Universe?",
@@ -361,7 +353,7 @@
   },
   {
     "qid": 50,
-    "category": "Government & Civics",
+    "category": "Culture & Symbols",
     "question": "¿Cuántos museos hay en México?",
     "answer": "1370 según la secretaria de la cultura",
     "question_en": "How many museums are there in Mexico?",
@@ -369,7 +361,7 @@
   },
   {
     "qid": 51,
-    "category": "Government & Civics",
+    "category": "Culture & Symbols",
     "question": "¿Cuántos museos hay en la CDMX?",
     "answer": "155 según la secretaria de la cultura",
     "question_en": "How many museums are there in Mexico City?",
@@ -377,7 +369,7 @@
   },
   {
     "qid": 52,
-    "category": "Government & Civics",
+    "category": "General",
     "question": "¿Qué es la Guelaguetza?",
     "answer": "Es una fiesta conocida como los lunes del cerro que se celebra dos lunes de julio cercanos al día de la virgen del Carmen en Oaxaca. Guelaguetza es una palabra zapoteca que denota el acto de participar cooperando; es un don gratuito que no lleva consigo más obligación que la de la reciprocidad. Se refiere a la cortesía y atención con que se debe tratar a los demás, se relaciona con el compartir, la cortesia, cooperar y los presentes o regalos.",
     "question_en": "What is the Guelaguetza?",
@@ -401,7 +393,7 @@
   },
   {
     "qid": 55,
-    "category": "General",
+    "category": "Music & Entertainment",
     "question": "Es costumbre cantar \"Las golondrinas\" para:",
     "answer": "Despedir a alguien",
     "question_en": "It is customary to sing 'Las golondrinas' to:",
@@ -409,7 +401,7 @@
   },
   {
     "qid": 56,
-    "category": "Geography",
+    "category": "Music & Entertainment",
     "question": "En los cumpleaños se suele cantar en homenaje al festejado:",
     "answer": "Las mañanitas",
     "question_en": "On birthdays, it is customary to sing in honor of the celebrant:",
@@ -425,7 +417,7 @@
   },
   {
     "qid": 58,
-    "category": "General",
+    "category": "Geography",
     "question": "Cuál es la ciudad conocida como la puerta de oro del Bajío",
     "answer": "Celaya (Guanajuato).",
     "question_en": "What is the city known as the golden gate of the Bajío?",
@@ -433,7 +425,7 @@
   },
   {
     "qid": 59,
-    "category": "General",
+    "category": "Geography",
     "question": "Cuál es la Ciudad conocida como la perla del Bajio",
     "answer": "Leon, Guanajuato",
     "question_en": "What is the city known as the pearl of Bajio?",
@@ -449,7 +441,7 @@
   },
   {
     "qid": 61,
-    "category": "Geography",
+    "category": "Culture & Symbols",
     "question": "Flor amarilla que se usa durante Día de muertos",
     "answer": "Cempasúchil (Damasquina o Tagete)",
     "question_en": "Yellow flower used during Day of the Dead",
@@ -457,7 +449,7 @@
   },
   {
     "qid": 62,
-    "category": "General",
+    "category": "Culture & Symbols",
     "question": "¿Cuántos Patrimonios culturales Unesco tiene México?",
     "answer": "27 patrimonios Actualización-35",
     "question_en": "How many UNESCO cultural heritage sites does Mexico have?",
@@ -465,7 +457,7 @@
   },
   {
     "qid": 63,
-    "category": "General",
+    "category": "Arts & Literature",
     "question": "Biblioteca considerada patrimonio cultural por la UNESCO",
     "answer": "Biblioteca Central de la UNAM",
     "question_en": "Library considered a cultural heritage by UNESCO",
@@ -482,14 +474,14 @@
   {
     "qid": 65,
     "category": "Culture & Symbols",
-    "question": "Una festividad que es patrimonio intangible de la humanidad o fiesta inscrita en el",
-    "answer": "patrimonio cultural -Día de muertos",
-    "question_en": "A festivity that is intangible cultural heritage of humanity or a festival inscribed in the",
-    "answer_en": "cultural heritage - Day of the Dead"
+    "question": "Una festividad que es patrimonio intangible de la humanidad o fiesta inscrita en el patrimonio cultural",
+    "answer": "Día de muertos",
+    "question_en": "A festivity that is intangible cultural heritage of humanity or a festival inscribed in the cultural heritage",
+    "answer_en": "Day of the Dead"
   },
   {
     "qid": 66,
-    "category": "Government & Civics",
+    "category": "Culture & Symbols",
     "question": "Ciudades y monumentos patrimonio de humanidad (UNESCO)",
     "answer": "1. - Centro Histórico de México y Xochimilco, CDMX (1987) 2. Centro Histórico de Oaxaca y zona arqueológica de Monte Albán, Oaxaca (1987) 3. Centro Histórico de Puebla, Puebla (1987) 4. Ciudad prehispánica de Teotihuacan, Estado de México (1987) 5. Ciudad prehispánica y parque nacional de Palenque, Chiapas (1987) 6. Ciudad histórica de Guanajuato y minas adyacentes, Guanajuato (1988) 7. Ciudad prehispánica de Chichén Itzá, Yucatán (1988) 8. Centro Histórico de Morelia, Michoacán (1991) 9. Ciudad prehispánica de El Tajín, Veracruz (1992) 10. Centro Histórico de Zacatecas, Zacatecas (1993)",
     "question_en": "Cities and monuments that are UNESCO World Heritage Sites",
@@ -497,7 +489,7 @@
   },
   {
     "qid": 67,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Mexicanos ganadores de premios Oscar",
     "answer": "Alejandro González iñárritu (4) Emmanuel Lubezki (3) Alfonso Cuarón (2) Anthony Quinn (2) Guillermo del Toro (2) Emile Kuri (2)",
     "question_en": "Mexicans who have won Oscar awards",
@@ -505,7 +497,7 @@
   },
   {
     "qid": 68,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Que actor mexicano ha ganado dos oscars como mejor actor?",
     "answer": "Anthony Quinn en 1952 y 1956",
     "question_en": "Which Mexican actor has won two Oscars for Best Actor?",
@@ -513,7 +505,7 @@
   },
   {
     "qid": 69,
-    "category": "General",
+    "category": "Arts & Literature",
     "question": "Ganador del Globo de Oro como mejor director?",
     "answer": "Guillermo del Toro",
     "question_en": "Winner of the Golden Globe for Best Director?",
@@ -521,7 +513,7 @@
   },
   {
     "qid": 70,
-    "category": "General",
+    "category": "Arts & Literature",
     "question": "¿Quién gano 2 Oscar a Mejor Director?",
     "answer": "Alejandro Gonzalez Iñarritu",
     "question_en": "Who won 2 Oscars for Best Director?",
@@ -529,7 +521,7 @@
   },
   {
     "qid": 71,
-    "category": "Government & Civics",
+    "category": "Music & Entertainment",
     "question": "Máximo galardón de la academia mexicana de cinematográfica",
     "answer": "Ariel",
     "question_en": "Maximum award of the Mexican Academy of Cinematographic Arts and Sciences",
@@ -537,7 +529,7 @@
   },
   {
     "qid": 72,
-    "category": "Geography",
+    "category": "Music & Entertainment",
     "question": "Son actores de la época dorada del Cine Mexicano",
     "answer": "Pedro Infante, Jorge Negrete, Luis Aguilar, Sarita Garcia (abuela), Abel Salazar, Antonio Badu, Pedro Armendáriz, Joaquín Pardave, María Félix, Blanca Estela Pavón y Dolores del Río",
     "question_en": "Who are actors from the golden age of Mexican cinema?",
@@ -545,7 +537,7 @@
   },
   {
     "qid": 73,
-    "category": "Geography",
+    "category": "Music & Entertainment",
     "question": "Cómico que representó al mexicano de las clases populares en el cine:",
     "answer": "Mario Moreno Cantinflas el más reconocido comediante mexicano, conocido como Cantinflas",
     "question_en": "Comedian who represented the Mexican working class in cinema:",
@@ -553,7 +545,7 @@
   },
   {
     "qid": 74,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "¿Cuándo empezó la época de oro del cine mexicano?",
     "answer": "En 1935. Comenzó simbólicamente con la película Vámonos con Pancho Villa",
     "question_en": "When did the golden age of Mexican cinema begin?",
@@ -561,7 +553,7 @@
   },
   {
     "qid": 76,
-    "category": "Government & Civics",
+    "category": "Music & Entertainment",
     "question": "¿Cuál fue la Primera Película en México?",
     "answer": "El entonces Presidente de la República (Porfirio Díaz) Paseando a Caballo en el Bosque de Chapultepec en 1896",
     "question_en": "What was the first movie in Mexico?",
@@ -569,7 +561,7 @@
   },
   {
     "qid": 78,
-    "category": "General",
+    "category": "Music & Entertainment",
     "question": "¿Cuál fue Primera película a color?",
     "answer": "Así se quiere en Jalisco, en 1942",
     "question_en": "What was the first color movie?",
@@ -578,14 +570,14 @@
   {
     "qid": 79,
     "category": "History",
-    "question": "Película mexicana basada en una novela escrita por un extranjero /",
-    "answer": "cuál es la película mexicana que ha ganado más premios Macario, escritor B. Traven, se trata de la relación de un indígena con la muerte durante la víspera del día de muertos en la Nueva España",
+    "question": "Película mexicana basada en una novela escrita por un extranjero.",
+    "answer": "Macario. Escritor B. Traven, se trata de la relación de un indígena con la muerte durante la víspera del día de muertos en la Nueva España",
     "question_en": "Mexican movie based on a novel written by a foreigner?",
-    "answer_en": "What is the Mexican movie that has won the most Macario awards? It is written by B. Traven and deals with the relationship of an indigenous person with death during the eve of the Day of the Dead in New Spain."
+    "answer_en": "Macario. It is written by B. Traven and deals with the relationship of an indigenous person with death during the eve of the Day of the Dead in New Spain."
   },
   {
     "qid": 80,
-    "category": "General",
+    "category": "Music & Entertainment",
     "question": "Que actor interpreto el chavo del ocho",
     "answer": "Roberto Gomez Bolaños alias Chespirito",
     "question_en": "Which actor played El Chavo del Ocho?",
@@ -593,7 +585,7 @@
   },
   {
     "qid": 81,
-    "category": "History",
+    "category": "Music & Entertainment",
     "question": "Actriz mexicana que actuaba siempre de abuelita",
     "answer": "Sara Gracia",
     "question_en": "Mexican actress who always played the grandmother",
@@ -601,7 +593,7 @@
   },
   {
     "qid": 82,
-    "category": "Government & Civics",
+    "category": "Music & Entertainment",
     "question": "Épocas del cine mexicano:",
     "answer": "Cine Mudo 1896 - 1931 Industrialización 1930 - 1940 Época de Oro 1940 - 1952 Crisis Recurrente 1952 - 1970 Apertura del Nuevo Cine Mexicano 1970 - 1976 Desmantalamiento, Agonía y Muerte 1976 - 1994 Retorno a las Orígenes 1994 – 2006 Mexicanos sobresalientes",
     "question_en": "Periods of Mexican cinema:",
@@ -609,7 +601,7 @@
   },
   {
     "qid": 83,
-    "category": "Geography",
+    "category": "General",
     "question": "Cuáles son los mexicanos ganadores del premio Nobel",
     "answer": "-Alfonso García Robles, Premio Nobel de la Paz en 1982 -Octavio Paz, Premio Nobel de Literatura en 1990 -José Mario Molina Henríquez, Premio Nobel de Química en 1995",
     "question_en": "Who are the Mexican Nobel Prize winners?",
@@ -617,7 +609,7 @@
   },
   {
     "qid": 84,
-    "category": "Geography",
+    "category": "General",
     "question": "Químico mexicano que gano premio nobel por sus investigaciones sobre la capa de",
     "answer": "Ozono Jose Mario Molina (15 Oct 1995)",
     "question_en": "Mexican chemist who won the Nobel Prize for his research on the ozone layer",
@@ -633,7 +625,7 @@
   },
   {
     "qid": 87,
-    "category": "General",
+    "category": "Culture & Symbols",
     "question": "El teatro de mayor prestigio en la ciudad de México es el:",
     "answer": "Palacio de Bellas Artes",
     "question_en": "The most prestigious theater in Mexico City is the:",
@@ -641,7 +633,7 @@
   },
   {
     "qid": 88,
-    "category": "Geography",
+    "category": "History",
     "question": "¿Qué se inauguró durante el periodo presidencial de Abelardo Rodríguez Lujan?",
     "answer": "El Palacio de Bellas Artes",
     "question_en": "What was inaugurated during the presidential term of Abelardo Rodríguez Lujan?",
@@ -649,7 +641,7 @@
   },
   {
     "qid": 89,
-    "category": "History",
+    "category": "General",
     "question": "¿Donde se ubica el Teatro Juárez?",
     "answer": "En Guanajuato, es uno de los teatros históricos más reconocidos de México, sede del Festival Cervantino.",
     "question_en": "Where is the Juárez Theater located?",
@@ -657,7 +649,7 @@
   },
   {
     "qid": 90,
-    "category": "Geography",
+    "category": "Arts & Literature",
     "question": "Como se llama el premio que entrega el Instituto Nacional de Bellas Artes",
     "answer": "Premio Bellas Artes, fundado en 1945. Son varios galardones por categorias.",
     "question_en": "What is the name of the award given by the National Institute of Fine Arts?",
@@ -665,7 +657,7 @@
   },
   {
     "qid": 91,
-    "category": "History",
+    "category": "General",
     "question": "Mexicano que ganó el premio Pritzker (Premio Nobel de la Arquitectura)",
     "answer": "Luis Barragán",
     "question_en": "Mexican who won the Pritzker Prize (Nobel Prize of Architecture)",
@@ -673,7 +665,7 @@
   },
   {
     "qid": 92,
-    "category": "History",
+    "category": "General",
     "question": "¿Quién es Luis Barragán?",
     "answer": "Ingeniero y Arquitecto Mexicano, autor de las torres de salitre y la casa Luis barragán. Gano en 1980 el premio Pritzker",
     "question_en": "Who is Luis Barragán?",
@@ -681,7 +673,7 @@
   },
   {
     "qid": 93,
-    "category": "Culture & Symbols",
+    "category": "Music & Entertainment",
     "question": "El arpa es un instrumento musical de",
     "answer": "Veracruz",
     "question_en": "The harp is a musical instrument from",
@@ -689,7 +681,7 @@
   },
   {
     "qid": 94,
-    "category": "Geography",
+    "category": "Arts & Literature",
     "question": "¿Cómo se llama el premio que entrega Bellas Artes de cuento o literario?",
     "answer": "Amparo Dávila",
     "question_en": "What is the name of the award given by Bellas Artes for a short story or literary work?",
@@ -697,7 +689,7 @@
   },
   {
     "qid": 95,
-    "category": "Geography",
+    "category": "Arts & Literature",
     "question": "¿Quiénes han ganados el premio Amparo Dávila?",
     "answer": "Damián Alcázar, Ana Ofelia Gurría y Mario Rojo",
     "question_en": "Who has won the Amparo Dávila award?",
@@ -705,7 +697,7 @@
   },
   {
     "qid": 96,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Premios Cervantes ganado por mexicanos",
     "answer": "6 Escritores: -Octavio Paz -Carlos Fuentes -Sergio Pitol -Jose Emilio Pacheco -Fernando del Paso -Elena Poniatowska",
     "question_en": "Cervantes Prizes won by Mexicans",
@@ -713,7 +705,7 @@
   },
   {
     "qid": 97,
-    "category": "General",
+    "category": "Arts & Literature",
     "question": "¿Quién es Juan Rulfo?",
     "answer": "Escritor de narrativa, reconocido como uno de los grandes maestros de la narrativa hispanoamericana del siglo XX. Escritor del llano en llamas",
     "question_en": "Who is Juan Rulfo?",
@@ -721,7 +713,7 @@
   },
   {
     "qid": 98,
-    "category": "General",
+    "category": "Arts & Literature",
     "question": "La muerte de Artemio Cruz es una novela de:",
     "answer": "Carlos Fuentes",
     "question_en": "The Death of Artemio Cruz is a novel by:",
@@ -729,7 +721,7 @@
   },
   {
     "qid": 99,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "En 1950 que obra escribió Carlos Fuentes sobre la vida mexicana",
     "answer": "La Región más Transparente",
     "question_en": "What work did Carlos Fuentes write about Mexican life in 1950?",
@@ -737,7 +729,7 @@
   },
   {
     "qid": 100,
-    "category": "General",
+    "category": "Arts & Literature",
     "question": "¿Quién escribió los cinco soles?",
     "answer": "Carlos Fuentes",
     "question_en": "Who wrote The Five Suns?",
@@ -745,7 +737,7 @@
   },
   {
     "qid": 101,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Exponente de la narrativa mexicana (literatura de la revolución) /",
     "answer": "Escritor que revoluciono la literatura mexicana Mariano Azuela González, médico y escritor",
     "question_en": "Exponent of Mexican narrative (literature of the revolution)",
@@ -753,7 +745,7 @@
   },
   {
     "qid": 102,
-    "category": "General",
+    "category": "Arts & Literature",
     "question": "¿Quién escribo La Noche de Tlatelolco?",
     "answer": "Elena Poniatowska",
     "question_en": "Who wrote La Noche de Tlatelolco?",
@@ -761,7 +753,7 @@
   },
   {
     "qid": 103,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "La Temporada de Zopilotes que es una narrativa de la decena trágica, ¿quién es su",
     "answer": "autor? Paco Ignacio Taibo II, igualmente el escribe acerca de Francisco I Madero",
     "question_en": "The Season of Vultures, which is a narrative of the tragic ten days, who is its author?",
@@ -769,7 +761,7 @@
   },
   {
     "qid": 104,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Libro escrito por Francisco I. Madero",
     "answer": "La sucesión presidencial",
     "question_en": "Book written by Francisco I. Madero",
@@ -777,7 +769,7 @@
   },
   {
     "qid": 105,
-    "category": "General",
+    "category": "Arts & Literature",
     "question": "¿Quién escribió Relámpagos de Agosto?",
     "answer": "Jorge Ibargüengoitia",
     "question_en": "Who wrote Relámpagos de Agosto?",
@@ -785,7 +777,7 @@
   },
   {
     "qid": 106,
-    "category": "Government & Civics",
+    "category": "Arts & Literature",
     "question": "Nombra algunos poetas mexicanos",
     "answer": "Octavio Paz, Amado Nervo, Jose Emilio Pacheco, Jaime Sabines y Rosario Castellanos",
     "question_en": "Name some Mexican poets",
@@ -793,7 +785,7 @@
   },
   {
     "qid": 107,
-    "category": "Geography",
+    "category": "Arts & Literature",
     "question": "Obras de Rosario Castellanos",
     "answer": "-Balun Canan -Ciudad Real -Album de Familia",
     "question_en": "Works of Rosario Castellanos",
@@ -801,7 +793,7 @@
   },
   {
     "qid": 108,
-    "category": "Geography",
+    "category": "Arts & Literature",
     "question": "¿Quién es Sor Juana Inés de la Cruz?",
     "answer": "Escritora más importante del periodo novo-hispánico, la décima musa, conocida por el soneto que versa \"Hombres necios que acusáis a la mujer sin razón, sin ver que vos sois la ocasión de lo mismo que culpáis\" Obras más conocidas de Sor Juana Inés de la Cruz: Primero sueño Redondillas Los empeños de una casa Amor es más laberinto",
     "question_en": "Who is Sor Juana Inés de la Cruz?",
@@ -809,7 +801,7 @@
   },
   {
     "qid": 109,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Poema que escribió Bernardo Balbuena sobre la Nueva España en 1604",
     "answer": "La Grandeza Mexicana",
     "question_en": "Poem written by Bernardo Balbuena about New Spain in 1604",
@@ -817,7 +809,7 @@
   },
   {
     "qid": 110,
-    "category": "Geography",
+    "category": "Arts & Literature",
     "question": "Mencionar algunos escritores de narrativa en México",
     "answer": "-Jual Rulfo (El Llano en Llamas), -Jose Emilio Pacheco (las voces de Tlatelolco) -Carlos Monsiváis, -Carlos Fuentes (La Region Mas transparente) -Paco Taibo II (Temporada de Zopilotes), -Juan Villoro -Jorge Ibargüengoitia (Relampagos de Agosto) - murio en un avion que se estrello en Madrid",
     "question_en": "Name some narrative writers in Mexico",
@@ -825,7 +817,7 @@
   },
   {
     "qid": 111,
-    "category": "Geography",
+    "category": "Arts & Literature",
     "question": "¿Qué géneros escribían los siguientes autores?",
     "answer": "-Juan Rulfo narrativa y novela -Mario Bellatin (esta en la lista de los mejores 100 escritores en castellano) -Jorge Volpi (profesor actual de la UNAM)",
     "question_en": "What genres did the following authors write?",
@@ -833,7 +825,7 @@
   },
   {
     "qid": 112,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Pintores mexicanos reconocidos:",
     "answer": "- Jose Maria Velazco Paisajista Diego Rivera Murailista, esposo de Frida Kalho Autor del mural de Palacio Nacional Rufino Tamayo Pintor Modernista Autor del mural que se encuentra en el Museo de Antropología e Historia sobre la serpiente emplumada David Alfaro Siqueiros Muralista y militar",
     "question_en": "Recognized Mexican painters:",
@@ -841,7 +833,7 @@
   },
   {
     "qid": 113,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Artista Plástico Mexicano del Movimiento Estridente autor del hombre corriendo.",
     "answer": "También titiritero y actor de teatro. Germán Cueto",
     "question_en": "Mexican Plastic Artist of the Estridentista Movement, author of the running man.",
@@ -849,7 +841,7 @@
   },
   {
     "qid": 114,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Famoso escultor mexicano especializado en escultura monumental, figuras",
     "answer": "geométricas de gran tamaño Enrique Carbajal González Santiván mejor conocido como Sebastián, el del caballito de reforma, artista plástico 114.- Música",
     "question_en": "Famous Mexican sculptor specialized in monumental sculpture, large geometric figures",
@@ -865,7 +857,7 @@
   },
   {
     "qid": 116,
-    "category": "Culture & Symbols",
+    "category": "Music & Entertainment",
     "question": "Himno popular de la ciudad de Veracruz o canción popular de Veracruz o Son",
     "answer": "veracruzano o Baile Folklorico de Veracruz La Bamba",
     "question_en": "Popular anthem of the city of Veracruz or popular song of Veracruz or Son",
@@ -873,7 +865,7 @@
   },
   {
     "qid": 117,
-    "category": "Culture & Symbols",
+    "category": "Arts & Literature",
     "question": "Cuál es el nombre del escritor de música de niños",
     "answer": "Francisco Gabilondo Soler, conocido como Cri Cri, escribió canciones como el ratón vaquero",
     "question_en": "What is the name of the children's music writer?",
@@ -881,7 +873,7 @@
   },
   {
     "qid": 118,
-    "category": "History",
+    "category": "Music & Entertainment",
     "question": "¿Cuáles el nombre de Juan Gabriel (El Divo de Juarez)?",
     "answer": "Alberto Aguilera Valadez",
     "question_en": "What is the name of Juan Gabriel (El Divo de Juarez)?",
@@ -889,7 +881,7 @@
   },
   {
     "qid": 119,
-    "category": "Government & Civics",
+    "category": "Sports",
     "question": "¿Cuál de los siguientes fue decretado deporte nacional en 1933?",
     "answer": "La charreria, con la creación ese día de la Federación Nacional de Charros.",
     "question_en": "Which of the following was declared the national sport in 1933?",
@@ -897,7 +889,7 @@
   },
   {
     "qid": 120,
-    "category": "History",
+    "category": "Sports",
     "question": "¿Cuál es el sobrenombre del futbolista mexicano Javier Hernández?",
     "answer": "Chicharito",
     "question_en": "What is the nickname of the Mexican soccer player Javier Hernández?",
@@ -905,7 +897,7 @@
   },
   {
     "qid": 121,
-    "category": "History",
+    "category": "Sports",
     "question": "Apodo de la boxeadora mexicana actualmente considerada como la campeona",
     "answer": "mundial en la categoría de peso supermosca del consejo mundial de boxeo La guerrera, Ana Maria Torre Ramirez",
     "question_en": "Nickname of the Mexican boxer currently considered the world champion in the super flyweight category of the World Boxing Council",
@@ -913,7 +905,7 @@
   },
   {
     "qid": 122,
-    "category": "Government & Civics",
+    "category": "Sports",
     "question": "Apodo de la boxeadora mexicana reconocida como la mejor boxeadora del año",
     "answer": "por la federación internacional de boxeo (FIB) La Rusita, Yazmin Rivas Hernandez",
     "question_en": "Nickname of the Mexican boxer recognized as the best boxer of the year",
@@ -921,7 +913,7 @@
   },
   {
     "qid": 123,
-    "category": "General",
+    "category": "Sports",
     "question": "Cuál es el récord de carrera de Ana Gabriela Guevara Espinoza en 2003 (Conocida",
     "answer": "con Ana Guevara) 300 metros planos en 35.30 segundos",
     "question_en": "What is Ana Gabriela Guevara Espinoza's career record in 2003 (Known for)",
@@ -929,7 +921,7 @@
   },
   {
     "qid": 124,
-    "category": "General",
+    "category": "Sports",
     "question": "¿Cuál récord de carrera ganó Ana Guevara en las Olimpíadas 2004?",
     "answer": "Atenas 2004, medalla de plata en 400m en 48.89 segundos",
     "question_en": "What race record did Ana Guevara win at the 2004 Olympics?",
@@ -937,7 +929,7 @@
   },
   {
     "qid": 125,
-    "category": "General",
+    "category": "Sports",
     "question": "Quien ganó en el 2000 El Oro en pesas por las olimpiadas en Sídney por",
     "answer": "Halterofilia Soraya Jiménez Mendivil",
     "question_en": "Who won the gold medal in weightlifting at the 2000 Sydney Olympics?",
@@ -945,7 +937,7 @@
   },
   {
     "qid": 126,
-    "category": "History",
+    "category": "Sports",
     "question": "¿En qué se destacaron los Deportistas Mexicanos en las Olimpiadas del 2012?",
     "answer": "Futbol, Tiro al Arco, Clavado y taekwondo",
     "question_en": "What did Mexican athletes excel in at the 2012 Olympics?",
@@ -953,15 +945,15 @@
   },
   {
     "qid": 127,
-    "category": "General",
+    "category": "Sports",
     "question": "¿Cuándo fue México sede de las Olimpiadas?",
-    "answer": "México1968",
+    "answer": "México 1968",
     "question_en": "When was Mexico the host of the Olympics?",
     "answer_en": "Mexico 1968"
   },
   {
     "qid": 128,
-    "category": "General",
+    "category": "Sports",
     "question": "¿En qué años fue sede de la Copa Mundial de Futbol México?",
     "answer": "1970 y 1986",
     "question_en": "In which years did Mexico host the FIFA World Cup?",
@@ -969,7 +961,7 @@
   },
   {
     "qid": 129,
-    "category": "History",
+    "category": "Sports",
     "question": "Nombre de un famoso boxeador mexicano",
     "answer": "-Julio Cesar Chávez -Rubén \"el puas\" Olivares -Saúl \"canelo\" Álvarez",
     "question_en": "Name of a famous Mexican boxer",
@@ -977,7 +969,7 @@
   },
   {
     "qid": 130,
-    "category": "History",
+    "category": "Sports",
     "question": "¿Cómo se llama el futbolista Mexicano famoso en España en los 90s conocido",
     "answer": "como el pentapichichi? Hugo Sánchez",
     "question_en": "What is the name of the famous Mexican soccer player in Spain in the 90s known as the pentapichichi?",
@@ -985,7 +977,7 @@
   },
   {
     "qid": 131,
-    "category": "History",
+    "category": "Sports",
     "question": "Nombrar algunos de los medallistas olímpicos mexicanos",
     "answer": "-Humberto Marilles Cortés -Joaquín Capilla -Felipe el tibio Muñoz -María Teresa Ramírez -Ricardo Delgado -Antonio Roldán y Ana Guevara Deportista Medallas Deporte Humberto Mariles Ecuestres Joaquín Capilla Clavados",
     "question_en": "Name some of the Mexican Olympic medalists",
@@ -993,7 +985,7 @@
   },
   {
     "qid": 132,
-    "category": "History",
+    "category": "Sports",
     "question": "La mejor Golfista profesional mexicana de todos los tiempos",
     "answer": "Lorena Ochoa Cultura- Gastronomía",
     "question_en": "The best professional female golfer from Mexico of all time",
@@ -1001,7 +993,7 @@
   },
   {
     "qid": 133,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "Postre típico de Guadalajara",
     "answer": "Jericalla (es similar al flan o creme brulee)",
     "question_en": "Typical dessert of Guadalajara",
@@ -1009,7 +1001,7 @@
   },
   {
     "qid": 134,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "Postre típico a base de tortillas de maíz",
     "answer": "Buñuelos (masa de harina que se fríe en forma circular)",
     "question_en": "Typical dessert made with corn tortillas",
@@ -1017,7 +1009,7 @@
   },
   {
     "qid": 135,
-    "category": "History",
+    "category": "Food & Drinks",
     "question": "Dulce típico de Pachuca, Hidalgo",
     "answer": "Palanquetas (barras/turron de cacahuate)",
     "question_en": "Typical sweet from Pachuca, Hidalgo",
@@ -1025,7 +1017,7 @@
   },
   {
     "qid": 136,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "Dulce tipico de Guanajuato",
     "answer": "Charamuscas",
     "question_en": "Typical sweet from Guanajuato",
@@ -1033,15 +1025,14 @@
   },
   {
     "qid": 138,
-    "category": "Geography",
-    "question": "Dulce típico de Xochimilco hecho de amaranto",
+    "category": "Food & Drinks",
     "answer": "Alegrias",
     "question_en": "Typical sweet from Xochimilco made of amaranth",
     "answer_en": "Alegrias"
   },
   {
     "qid": 139,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "¿De dónde es originaria la ensalada de noche buena?",
     "answer": "Michoacan",
     "question_en": "Where is the Christmas Eve salad originally from?",
@@ -1049,7 +1040,7 @@
   },
   {
     "qid": 140,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "¿Qué son los escamoles?",
     "answer": "Platillo a base de huevos de hormiga",
     "question_en": "What are escamoles?",
@@ -1057,7 +1048,7 @@
   },
   {
     "qid": 141,
-    "category": "Government & Civics",
+    "category": "Food & Drinks",
     "question": "¿Qué insectos se comen en México?",
     "answer": "Chapulines, Escamoles, jumiles y Gusanos de Maguey",
     "question_en": "What insects are eaten in Mexico?",
@@ -1065,7 +1056,7 @@
   },
   {
     "qid": 142,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "Bebida prehispánica que puede prepararse como curado y que se saca del",
     "answer": "Maguey El Pulque",
     "question_en": "Pre-Hispanic drink that can be prepared as a cure and is made from",
@@ -1073,7 +1064,7 @@
   },
   {
     "qid": 143,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "Mencione tres productos que los teotihuacanos obtenían del maguey",
     "answer": "Pulque, cordajes y fibras textiles",
     "question_en": "Name three products that the Teotihuacans obtained from the maguey.",
@@ -1081,23 +1072,15 @@
   },
   {
     "qid": 144,
-    "category": "Culture & Symbols",
+    "category": "Food & Drinks",
     "question": "¿ Qué bebidas se sacan del Agave?",
     "answer": "Tequila, Mezcal y Aguamiel",
     "question_en": "What drinks are made from Agave?",
     "answer_en": "Tequila, Mezcal, and Aguamiel"
   },
   {
-    "qid": 145,
-    "category": "Geography",
-    "question": "¿Cuál es el ingrediente principal del mole?",
-    "answer": "Mezcla de varios chiles y Chocolate Amargo",
-    "question_en": "What is the main ingredient of mole?",
-    "answer_en": "A mixture of various chiles and dark chocolate."
-  },
-  {
     "qid": 146,
-    "category": "Geography",
+    "category": "Food & Drinks",
     "question": "Ingredientes del mole",
     "answer": "Chocolate amargo, chiles ancho, chiles mulato, chiles pasilla, chipotle, jitomates, almendras, plátano, nueces, pasas, ajonjolí, clavo, canela, perejil, pimienta, cebolla, ajo y tortillas",
     "question_en": "Ingredients of mole",
@@ -1105,7 +1088,7 @@
   },
   {
     "qid": 147,
-    "category": "History",
+    "category": "Food & Drinks",
     "question": "Platillos mexicanos a base de tortilla de maíz",
     "answer": "Sopes, Tlacoyos, memelas, flautas, huaraches, pellizcadas",
     "question_en": "Mexican dishes made with corn tortilla",
@@ -1113,7 +1096,7 @@
   },
   {
     "qid": 148,
-    "category": "History",
+    "category": "Food & Drinks",
     "question": "¿Qué son las memelas?",
     "answer": "Es un platillo de comida rápida mexicana hecho a base de tortilla de maíz en forma oval que puede ir acompañado de varios guisados",
     "question_en": "What are memelas?",
@@ -1121,7 +1104,7 @@
   },
   {
     "qid": 149,
-    "category": "Geography",
+    "category": "Food & Drinks",
     "question": "El Cabrito y la Machaca son platos originarios de",
     "answer": "Nuevo León",
     "question_en": "El Cabrito and Machaca are dishes originating from",
@@ -1137,7 +1120,7 @@
   },
   {
     "qid": 151,
-    "category": "Geography",
+    "category": "Food & Drinks",
     "question": "¿Cuáles de las siguientes opciones corresponde a productos originarios de",
     "answer": "México? Chocolate, aguacate, tomate y pavo (guajolote)",
     "question_en": "Which of the following options corresponds to products originating from Mexico?",
@@ -1145,7 +1128,7 @@
   },
   {
     "qid": 152,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "La guanábana es una fruta:",
     "answer": "De cáscara verde y pulpa blanca",
     "question_en": "The soursop is a fruit:",
@@ -1153,7 +1136,7 @@
   },
   {
     "qid": 153,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "De donde son los tamales de queso que se comen en día de muertos",
     "answer": "San Luis Potosí",
     "question_en": "Where are the cheese tamales eaten on the Day of the Dead from?",
@@ -1161,7 +1144,7 @@
   },
   {
     "qid": 155,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "Plato típico de Monterrey",
     "answer": "El Cabrito",
     "question_en": "Typical dish of Monterrey",
@@ -1169,7 +1152,7 @@
   },
   {
     "qid": 156,
-    "category": "History",
+    "category": "Food & Drinks",
     "question": "Platillo mexicano elaborado con granos de maíz",
     "answer": "Pozole, data desde la época prehispánica",
     "question_en": "Mexican dish made with corn grains",
@@ -1177,7 +1160,7 @@
   },
   {
     "qid": 157,
-    "category": "Geography",
+    "category": "Food & Drinks",
     "question": "¿De dónde son originarios la sopa de lima, los panuchos y la cochinita pibil?",
     "answer": "De Yucatán",
     "question_en": "Where do lime soup, panuchos, and cochinita pibil originate from?",
@@ -1185,7 +1168,7 @@
   },
   {
     "qid": 158,
-    "category": "Geography",
+    "category": "Food & Drinks",
     "question": "¿De dónde es originario el queso Menonita?",
     "answer": "Chihuahua",
     "question_en": "Where is Mennonite cheese originally from?",
@@ -1193,7 +1176,7 @@
   },
   {
     "qid": 159,
-    "category": "Geography",
+    "category": "Food & Drinks",
     "question": "¿De donde es originario el Zacahuil?",
     "answer": "De Veracruz, aunque es un plato que se come en toda la zona de la Huasteca (Huasteca Potosina, Huasteca Hidalguense y Veracruzana)",
     "question_en": "Where is Zacahuil originally from?",
@@ -1201,7 +1184,7 @@
   },
   {
     "qid": 160,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "¿A qué se le llama trompo?",
     "answer": "A un juguete que se lanza con una cuerda o bien a donde se pone la carne para los tacos al pastor.",
     "question_en": "What is a top called?",
@@ -1241,7 +1224,7 @@
   },
   {
     "qid": 137,
-    "category": "Geography",
+    "category": "Culture & Symbols",
     "question": "Cultura indígena que persiste en el norte del país",
     "answer": "Tarahumara, que son originarios de Chihuahua",
     "question_en": "Indigenous culture that persists in the north of the country",
@@ -1249,7 +1232,7 @@
   },
   {
     "qid": 138,
-    "category": "General",
+    "category": "Culture & Symbols",
     "question": "Tribu indigena de Coahuila",
     "answer": "Kikapu",
     "question_en": "Indigenous tribe of Coahuila",
@@ -1257,7 +1240,7 @@
   },
   {
     "qid": 139,
-    "category": "General",
+    "category": "Culture & Symbols",
     "question": "Tribu originaria de Michoacán",
     "answer": "Purépechas",
     "question_en": "Indigenous tribe from Michoacán",
@@ -1265,7 +1248,7 @@
   },
   {
     "qid": 140,
-    "category": "General",
+    "category": "Culture & Symbols",
     "question": "Tribu indígena de Tabasco",
     "answer": "Chontes",
     "question_en": "Indigenous tribe of Tabasco",
@@ -1273,7 +1256,7 @@
   },
   {
     "qid": 141,
-    "category": "History",
+    "category": "Religion & Mythology",
     "question": "¿Quién fue Chalchiuhtlicue?",
     "answer": "Diosa de los lagos y corrientes de agua de los Mexicas, fue considerada también como la más importante protectora de la navegación costera en el México prehispánico",
     "question_en": "Who was Chalchiuhtlicue?",
@@ -1305,7 +1288,7 @@
   },
   {
     "qid": 145,
-    "category": "General",
+    "category": "Culture & Symbols",
     "question": "¿Dónde se encontraron vestigios de cultura Teotihuacana?",
     "answer": "Tikal",
     "question_en": "Where were remnants of Teotihuacan culture found?",
@@ -1314,8 +1297,8 @@
   {
     "qid": 146,
     "category": "General",
-    "question": "¿Qué significa la palabra Altepetl con la que los tlatoanis denominan a sus",
-    "answer": "ciudades? Cerro de agua",
+    "question": "¿Qué significa la palabra Altepetl con la que los tlatoanis denominan a sus ciudades?",
+    "answer": "Cerro de agua",
     "question_en": "What does the word Altepetl mean, which the tlatoanis use to refer to their cities?",
     "answer_en": "Hill of water"
   },
@@ -1329,7 +1312,7 @@
   },
   {
     "qid": 148,
-    "category": "Culture & Symbols",
+    "category": "Geography",
     "question": "¿Dónde se ubicaba la Calzada de los Muertos?",
     "answer": "En Teotihuacán. Era la avenida principal con 2 km de longitud",
     "question_en": "Where was the Avenue of the Dead located?",
@@ -1337,7 +1320,7 @@
   },
   {
     "qid": 149,
-    "category": "General",
+    "category": "Culture & Symbols",
     "question": "¿Cuáles eran los dos grandes grupos étnicos que habitaban en Teotihuacán?",
     "answer": "Nahuas y Otomíes",
     "question_en": "What were the two major ethnic groups that inhabited Teotihuacán?",
@@ -1345,7 +1328,7 @@
   },
   {
     "qid": 150,
-    "category": "General",
+    "category": "Geography",
     "question": "¿Dónde se encuentra la pirámide más alta de México?",
     "answer": "Toniná, Chiapas",
     "question_en": "Where is the tallest pyramid in Mexico located?",
@@ -1353,15 +1336,15 @@
   },
   {
     "qid": 151,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "¿Qué significa Axayácatl/ el palacio de Axcayatl es también conocido como?",
-    "answer": "Casas viejas Era el nombre del padre de Moctezuma. Era la casa de su padre y allí hospedaron los mexicas a Hernán Cortés a su llegada y donde fue asesinado Moctezuma. Posteriormente Antonio Mendoza y la Corona la usaron como palacio de gobierno, por lo que Hernán Cortes se construyo otra casa en las residencia del difunto Moctezuma que serian las \"casas nuevas\" o segunda residencia de Cortes.",
+    "answer": "Casas viejas. Era el nombre del padre de Moctezuma. Era la casa de su padre y allí hospedaron los mexicas a Hernán Cortés a su llegada y donde fue asesinado Moctezuma. Posteriormente Antonio Mendoza y la Corona la usaron como palacio de gobierno, por lo que Hernán Cortes se construyo otra casa en las residencia del difunto Moctezuma que serian las \"casas nuevas\" o segunda residencia de Cortes.",
     "question_en": "What does Axayácatl mean/ the palace of Axcayatl is also known as?",
-    "answer_en": "Old Houses It was the name of Moctezuma's father. It was his father's house, and there the Mexicas hosted Hernán Cortés upon his arrival and where Moctezuma was killed. Later, Antonio Mendoza and the Crown used it as a government palace, so Hernán Cortés built another house in the residence of the late Moctezuma, which would be the 'new houses' or second residence of Cortés."
+    "answer_en": "Old Houses. It was the name of Moctezuma's father. It was his father's house, and there the Mexicas hosted Hernán Cortés upon his arrival and where Moctezuma was killed. Later, Antonio Mendoza and the Crown used it as a government palace, so Hernán Cortés built another house in the residence of the late Moctezuma, which would be the 'new houses' or second residence of Cortés."
   },
   {
     "qid": 152,
-    "category": "General",
+    "category": "Culture & Symbols",
     "question": "¿Cuál es el significado de la palabra Cuauhtémoc?",
     "answer": "El águila que se posa o águila que desciende",
     "question_en": "What is the meaning of the word Cuauhtémoc?",
@@ -1369,7 +1352,7 @@
   },
   {
     "qid": 153,
-    "category": "History",
+    "category": "Culture & Symbols",
     "question": "Principales pueblos indígenas existentes en México",
     "answer": "Náhuatl, Maya, Zapotecos, Mixtecos, Otomí, Totonaca",
     "question_en": "Main indigenous peoples existing in Mexico",
@@ -1377,7 +1360,7 @@
   },
   {
     "qid": 154,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "¿Quién era la intérprete de Hernán Cortés?",
     "answer": "La Malinche (luego la bautizaron los españoles como Marina)",
     "question_en": "Who was the interpreter of Hernán Cortés?",
@@ -1393,15 +1376,15 @@
   },
   {
     "qid": 156,
-    "category": "Culture & Symbols",
-    "question": "¿Cuál es el nombre del árbol Donde lloró Hernán Cortés el día de la Noche Triste?",
+    "category": "History",
+    "question": "¿Cuál es el nombre del árbol donde lloró Hernán Cortés el día de la Noche Triste?",
     "answer": "Árbol de la noche triste, que es un Ahuehuete",
     "question_en": "What is the name of the tree where Hernán Cortés cried on the Night of Sadness?",
     "answer_en": "Tree of the Night of Sadness, which is an Ahuehuete."
   },
   {
     "qid": 157,
-    "category": "General",
+    "category": "Religion & Mythology",
     "question": "¿Quién es Coatlicue?",
     "answer": "Diosa terrestre de la vida y la muerte. Diosa de la Fertilidad Tenía una apariencia horrible. Representada como una mujer usando una falda de serpientes y un collar de corazones que fueron arrancados de las víctimas",
     "question_en": "Who is Coatlicue?",
@@ -1409,7 +1392,7 @@
   },
   {
     "qid": 158,
-    "category": "General",
+    "category": "History",
     "question": "Líder prehispánico que lideró la victoria durante la noche triste",
     "answer": "Cuitláhuac, hermano de Moctezuma",
     "question_en": "Pre-Hispanic leader who led the victory during the Sad Night",
@@ -1433,7 +1416,7 @@
   },
   {
     "qid": 162,
-    "category": "Geography",
+    "category": "History",
     "question": "¿ Cuáles fueron las escuelas donde asistían los indígenas prehispánicos?",
     "answer": "Calmecac y el Telpochcalli -Calmecac: Era la escuela para hijos de nobles (hijos de gobernantes, sacerdotes y guerreros) -Telpochcalli: Se encontraba una escuela de este tipo en cada barrio o calpulli. Se les enseñaba a servir a su comunidad y a la nobleza, pero principalmente se les enseñaban distintas habilidades para la guerra",
     "question_en": "What were the schools that pre-Hispanic indigenous people attended?",
@@ -1441,7 +1424,7 @@
   },
   {
     "qid": 163,
-    "category": "History",
+    "category": "Religion & Mythology",
     "question": "¿Cuál es la deidad de la cultura maya ó deidad Maya de la guerra y el comercio ó",
     "answer": "Sexta deidad maya más comúnmente representada en los códices? Ek Chuah",
     "question_en": "What is the deity of the Maya culture or Maya deity of war and commerce or the sixth most commonly represented Maya deity in the codices?",
@@ -1449,7 +1432,7 @@
   },
   {
     "qid": 164,
-    "category": "History",
+    "category": "Religion & Mythology",
     "question": "Deidades o Dioses mayas",
     "answer": "-Ixchel: diosa de la luna -Ahau Kin: Dios del sol -Chac: Dios de la lluvia -Ah mun: dios del maiz -Buluc Chabtan: Dios de la guerra",
     "question_en": "Mayan deities or gods",
@@ -1457,7 +1440,7 @@
   },
   {
     "qid": 165,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "¿Quiénes integraron la triple alianza?",
     "answer": "Tenochtitlán, Texcoco y Tlacopan Fue acordada por los tres jefes indígenas del valle de México en 1427 con fines económicos.",
     "question_en": "Who were the members of the Triple Alliance?",
@@ -1465,7 +1448,7 @@
   },
   {
     "qid": 167,
-    "category": "General",
+    "category": "Religion & Mythology",
     "question": "Que significa Aztlán",
     "answer": "\"Lugar de las garzas\" Se presume era una isla",
     "question_en": "What does Aztlán mean?",
@@ -1473,7 +1456,7 @@
   },
   {
     "qid": 168,
-    "category": "Government & Civics",
+    "category": "Religion & Mythology",
     "question": "Deidad del México antiguo conocida como la “Serpiente Emplumada\"",
     "answer": "Quetzalcóatl deidad suprema para los teotihuacanos, en Teotihuacán se encuentra el templo de Quetzalcóatl o el templo de la serpiente emplumada. Representa la dualidad humana: cuerpo y espíritu.",
     "question_en": "Deity of ancient Mexico known as the 'Feathered Serpent'",
@@ -1489,7 +1472,7 @@
   },
   {
     "qid": 172,
-    "category": "Geography",
+    "category": "History",
     "question": "Periodo en que se desarrolló la cultura mesoamericana",
     "answer": "Entre 2,500 AC y 1,519 DC / XV y XII a. C.,",
     "question_en": "Period in which Mesoamerican culture developed",
@@ -1497,7 +1480,7 @@
   },
   {
     "qid": 173,
-    "category": "History",
+    "category": "Religion & Mythology",
     "question": "¿Quién era el dios de la guerra de los Aztecas (mexicas)?",
     "answer": "Huitzilopochtli",
     "question_en": "Who was the god of war of the Aztecs (Mexicas)?",
@@ -1505,7 +1488,7 @@
   },
   {
     "qid": 174,
-    "category": "History",
+    "category": "Religion & Mythology",
     "question": "¿cuál es el nombre de la deidad azteca relacionada con el sol?",
     "answer": "Tonatiuh",
     "question_en": "What is the name of the Aztec deity related to the sun?",
@@ -1514,10 +1497,10 @@
   {
     "qid": 175,
     "category": "General",
-    "question": "Terreno construido sobre las lagunas del valle de México que sirvió de base al",
-    "answer": "sistema productivo del altiplano central. En la actualidad, puede encontrarse en Xochimilco Chinampa",
-    "question_en": "Land built over the lagoons of the Valley of Mexico that served as the basis for the",
-    "answer_en": "productive system of the central highlands. Today, it can be found in Xochimilco Chinampa."
+    "question": "Terreno construido sobre las lagunas del valle de México que sirvió de base al sistema productivo del altiplano central.",
+    "answer": "En la actualidad, puede encontrarse en Xochimilco Chinampa",
+    "question_en": "Land built over the lagoons of the Valley of Mexico that served as the basis for the productive system of the central highlands.",
+    "answer_en": " Today, it can be found in Xochimilco Chinampa."
   },
   {
     "qid": 176,
@@ -1529,7 +1512,7 @@
   },
   {
     "qid": 177,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Edificio público de Monte Alban y por qué se le denomina de esa manera",
     "answer": "Edificio de los Danzantes. A que las figuras esculpidas en sus lápidas parecen moverse o contorsionarse. Están desnudas, con las vísceras expuestas y representan los cautivos de guerra. Estas esculturas representan una exaltación pública de la victoria militar.",
     "question_en": "Public building of Monte Alban and why it is called that way",
@@ -1537,15 +1520,15 @@
   },
   {
     "qid": 178,
-    "category": "History",
-    "question": "¿Donde se ubica la zona arqueológica de El Tajin en la cual se encuentra la",
-    "answer": "pirámide de los nichos? Papantla, Veracruz. El Tajín fue decrlarado patrimonio por la UNESCO en 1992 CULTURA MAYA",
+    "category": "Geography",
+    "question": "¿Donde se ubica la zona arqueológica de El Tajin en la cual se encuentra la pirámide de los nichos?",
+    "answer": "Papantla, Veracruz. El Tajín fue decrlarado patrimonio por la UNESCO en 1992 CULTURA MAYA",
     "question_en": "Where is the archaeological zone of El Tajin located, where the Pyramid of the Niches is found?",
     "answer_en": "Papantla, Veracruz. El Tajín was declared a heritage site by UNESCO in 1992."
   },
   {
     "qid": 179,
-    "category": "History",
+    "category": "Religion & Mythology",
     "question": "¿Qué era la cuenta larga?",
     "answer": "Un calendario de origen maya que permitia fechar un evento a partir de un evento anterior de fecha conocida. Calendario Vigesimal Mesoamericano",
     "question_en": "What was the long count?",
@@ -1553,7 +1536,7 @@
   },
   {
     "qid": 180,
-    "category": "Government & Civics",
+    "category": "Culture & Symbols",
     "question": "¿Chichén Itzá fue una poderosa ciudad de cual cultura?",
     "answer": "De la cultura Maya",
     "question_en": "What culture was Chichén Itzá a powerful city of?",
@@ -1577,7 +1560,7 @@
   },
   {
     "qid": 183,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "¿Cuándo se fundó Villa Rica de la Vera Cruz?",
     "answer": "22 de abril de 1519, Primer Ayuntamiento de América continental y la primera ciudad fundada por europeos en toda América Continental. Sus primeros alcaldes fueron Francisco de Montejo y Alonso Hernández de Portocarrero",
     "question_en": "When was Villa Rica de la Vera Cruz founded?",
@@ -1594,8 +1577,8 @@
   {
     "qid": 186,
     "category": "History",
-    "question": "¿Qué civilización se asentó en Chiapas, Veracruz y Yucatán, Quinta Roo y",
-    "answer": "Campeche? Cultura Maya",
+    "question": "¿Qué civilización se asentó en Chiapas, Veracruz y Yucatán, Quinta Roo y Campeche?",
+    "answer": "Cultura Maya",
     "question_en": "Which civilization settled in Chiapas, Veracruz, Yucatán, Quintana Roo, and Campeche?",
     "answer_en": "Maya Culture"
   },
@@ -1609,7 +1592,7 @@
   },
   {
     "qid": 188,
-    "category": "General",
+    "category": "History",
     "question": "Razones que promovieron el descubrimiento de América",
     "answer": "Descubrir nuevas rutas comerciales inicialmente se buscaba llegar a la India",
     "question_en": "Reasons that promoted the discovery of America",
@@ -1642,22 +1625,22 @@
   {
     "qid": 192,
     "category": "History",
-    "question": "Centro ceremonial sagrado más importante de la",
-    "answer": "cultura Olmeca La Venta. Se levanta sobre una isla del rio Tonala en Tabasco y fue planificado",
+    "question": "Centro ceremonial sagrado más importante de la cultura Olmeca",
+    "answer": "La Venta. Se levanta sobre una isla del rio Tonala en Tabasco y fue planificado",
     "question_en": "Most important sacred ceremonial center of the Olmec culture",
     "answer_en": "La Venta. It is located on an island in the Tonala River in Tabasco and was planned."
   },
   {
     "qid": 193,
     "category": "General",
-    "question": "Manuscrito en papel amate o sobre cuero con representaciones",
-    "answer": "pictóricas que relataba asuntos históricos y religiosos del México antiguo Códice",
-    "question_en": "Manuscript on amate paper or leather with pictorial representations that narrated historical and religious matters of ancient Mexico Codex",
-    "answer_en": ""
+    "question": "Manuscrito en papel amate o sobre cuero con representaciones pictóricas que relataba asuntos históricos y religiosos del México antiguo",
+    "answer": "Códice",
+    "question_en": "Manuscript on amate paper or leather with pictorial representations that narrated historical and religious matters of ancient Mexico",
+    "answer_en": "Codex"
   },
   {
     "qid": 194,
-    "category": "General",
+    "category": "Food & Drinks",
     "question": "La base alimenticia de los pueblos mesoamericanos fue",
     "answer": "El maíz",
     "question_en": "The staple food of Mesoamerican peoples was",
@@ -1681,7 +1664,7 @@
   },
   {
     "qid": 197,
-    "category": "History",
+    "category": "Geography",
     "question": "¿DÓnde se asentaron los Toltecas?",
     "answer": "Tula de Allende, Hidalgo",
     "question_en": "Where did the Toltecs settle?",
@@ -1689,7 +1672,7 @@
   },
   {
     "qid": 198,
-    "category": "General",
+    "category": "Culture & Symbols",
     "question": "¿Qué significa Tula en Náhuatl?",
     "answer": "Juncal, o junto al tular",
     "question_en": "What does Tula mean in Nahuatl?",
@@ -1699,13 +1682,13 @@
     "qid": 199,
     "category": "History",
     "question": "Periodos de la cultura mesoamericanas",
-    "answer": "Preclásico (Olmecas) Clásico (Mayas) Posclásico (Zapoteca y Azteca)",
+    "answer": "Preclásico (Olmecas), Clásico (Mayas), Posclásico (Zapoteca y Azteca)",
     "question_en": "Periods of Mesoamerican cultures",
-    "answer_en": "Preclassic (Olmecs) Classic (Mayans) Postclassic (Zapotec and Aztec)"
+    "answer_en": "Preclassic (Olmecs), Classic (Mayans), Postclassic (Zapotec and Aztec)"
   },
   {
     "qid": 200,
-    "category": "Geography",
+    "category": "History",
     "question": "El mayor desarrollo de la cultura mesoamericana se dio durante el período",
     "answer": "Clásico",
     "question_en": "The greatest development of Mesoamerican culture occurred during the period",
@@ -1713,7 +1696,7 @@
   },
   {
     "qid": 201,
-    "category": "General",
+    "category": "History",
     "question": "Época prehispánica que hubo más desarrollo en su cultura",
     "answer": "pos-clásico Época de la Nueva España",
     "question_en": "Pre-Hispanic era that had the most development in its culture",
@@ -1729,7 +1712,7 @@
   },
   {
     "qid": 203,
-    "category": "General",
+    "category": "History",
     "question": "¿Quién era la máxima autoridad en la nueva España?",
     "answer": "El Virrey",
     "question_en": "Who was the highest authority in New Spain?",
@@ -1737,7 +1720,7 @@
   },
   {
     "qid": 204,
-    "category": "General",
+    "category": "History",
     "question": "Primer Virrey De Nueva España",
     "answer": "Antonio de Mendoza y Pacheco o don Antonio de Mendoza",
     "question_en": "First Viceroy of New Spain",
@@ -1745,7 +1728,7 @@
   },
   {
     "qid": 205,
-    "category": "Geography",
+    "category": "History",
     "question": "¿Quién fue el ultimo Virrey de la Nueva España?",
     "answer": "Juan O¨donoju (Aunque se le llamo Jefe Politico Superior de la Nueva España) Juan Ruiz de Apodaca fue el ultimo Virrey llamado Virrey.",
     "question_en": "Who was the last Viceroy of New Spain?",
@@ -1753,7 +1736,7 @@
   },
   {
     "qid": 206,
-    "category": "Geography",
+    "category": "History",
     "question": "Primera intendencia u oficialía de la Nueva España fundada en 1770",
     "answer": "Intendencia de Arizpe (hoy territorios de Sonora y Sinaloa)",
     "question_en": "First intendancy or official office of New Spain founded in 1770",
@@ -1761,7 +1744,7 @@
   },
   {
     "qid": 207,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "¿Qué fue la Nueva Vizcaya?",
     "answer": "Fue la primera provincia en ser explorada y fundada en el Norte de México durante el Virreinato de la Nueva España. Ocupó el área actual de los estados mexicanos de Durango, Chihuahua, Sinaloa, parte del estado de Coahuila.",
     "question_en": "What was New Vizcaya?",
@@ -1769,7 +1752,7 @@
   },
   {
     "qid": 208,
-    "category": "Geography",
+    "category": "Culture & Symbols",
     "question": "¿Cómo se denominaban a los hijos de los españoles en la Nueva España?",
     "answer": "Criollos",
     "question_en": "What were the children of the Spaniards in New Spain called?",
@@ -1777,7 +1760,7 @@
   },
   {
     "qid": 209,
-    "category": "General",
+    "category": "Culture & Symbols",
     "question": "¿Cómo se les llamaba a los hijos de Españoles e indígenas en la Nueva España?",
     "answer": "Mestizos",
     "question_en": "What were the children of Spaniards and indigenous people called in New Spain?",
@@ -1801,23 +1784,23 @@
   },
   {
     "qid": 213,
-    "category": "Government & Civics",
-    "question": "El Palacio Nacional, sede del poder ejecutivo federal, inicialmente fue construido",
-    "answer": "como: Segunda Casa de Hernán Cortes o casa nuevas.",
+    "category": "History",
+    "question": "El Palacio Nacional, sede del poder ejecutivo federal, inicialmente fue construido como:",
+    "answer": "Segunda Casa de Hernán Cortes o casa nuevas.",
     "question_en": "The National Palace, the seat of the federal executive power, was initially built as:",
-    "answer_en": "the Second House of Hernán Cortés or new house."
+    "answer_en": "The Second House of Hernán Cortés or new house."
   },
   {
     "qid": 214,
     "category": "History",
-    "question": "Periodo de tiempo donde fue el periodo fundacional o consolidación de la",
-    "answer": "conquista EL PERIODO FUNDACIONAL, 1519-1610 La irrupción de los conquistadores, 1519-1530 La consolidación de la conquista 1530-1560 La conclusión del proceso fundacional 1560-1610 EL PERIODO DE MADUREZ Y AUTONOMÍA, 1610-1760 El encuentro con el mundo exterior, 1610-1650 El florecimiento y sus limites 1650-1715 Los atisbos del periodo final 1715-1760)",
+    "question": "Periodo de tiempo donde fue el periodo fundacional o consolidación de la conquista",
+    "answer": "EL PERIODO FUNDACIONAL, 1519-1610 La irrupción de los conquistadores, 1519-1530 La consolidación de la conquista 1530-1560 La conclusión del proceso fundacional 1560-1610 EL PERIODO DE MADUREZ Y AUTONOMÍA, 1610-1760 El encuentro con el mundo exterior, 1610-1650 El florecimiento y sus limites 1650-1715 Los atisbos del periodo final 1715-1760)",
     "question_en": "Time period when the foundational or consolidation period occurred",
     "answer_en": "THE FOUNDATIONAL PERIOD, 1519-1610 The arrival of the conquerors, 1519-1530 The consolidation of the conquest 1530-1560 The conclusion of the foundational process 1560-1610 THE MATURITY AND AUTONOMY PERIOD, 1610-1760 The encounter with the outside world, 1610-1650 The flourishing and its limits 1650-1715 The glimpses of the final period 1715-1760"
   },
   {
     "qid": 215,
-    "category": "General",
+    "category": "History",
     "question": "En la época de la Nueva España a que se le llamaba obrajes?",
     "answer": "Eran centros artesanales que existieron a mediados del siglo XVI, con 50 trabajadores en promedio, en los cuales se producían textiles, hilos y lana de calidad burda. Estos productos se vendían a indios y mulatos, los cuales no podían pagar el precio del mismo producto importado de Europa. Los trabajadores eran indios y delincuentes condenados por delitos que eran explotados por los obrajeros.",
     "question_en": "What were obrajes called during the time of New Spain?",
@@ -1834,10 +1817,10 @@
   {
     "qid": 217,
     "category": "Government & Civics",
-    "question": "Nombre de la ley que se promulgó en 1542 y que mejoraba las condiciones de los",
-    "answer": "indígenas. Las leyes nuevas originalmente \"Leyes y ordenanzas nuevamente hechas por su majestad para la gobernación de las indias y buen tratamiento y conservación de los indios\"",
-    "question_en": "Name of the law that was enacted in 1542 and that improved the conditions of the",
-    "answer_en": "indigenous people. The new laws were originally \"Laws and ordinances newly made by His Majesty for the governance of the Indies and the good treatment and preservation of the Indians.\""
+    "question": "Nombre de la ley que se promulgó en 1542 y que mejoraba las condiciones de los indígenas.",
+    "answer": "Las leyes nuevas hechas por su majestad para la gobernación de las indias y buen tratamiento y conservación de los indios\"",
+    "question_en": "Name of the law that was enacted in 1542 and that improved the conditions of the indigenous people.",
+    "answer_en": "New Laws of the Indies for the Good Treatment and Preservation of the Indians."
   },
   {
     "qid": 218,
@@ -1851,9 +1834,9 @@
     "qid": 219,
     "category": "Government & Civics",
     "question": "Nombre del sistema financiero en donde se exigía a los grandes consorcios",
-    "answer": "contribuir al mantenimiento de la colonia. La Junta Superior de Real Hacienda fue un tribunal colegiado encargado de la administración de la Hacienda novohispana",
-    "question_en": "Name of the financial system where large consortia were required",
-    "answer_en": "to contribute to the maintenance of the colony. The Superior Board of Royal Treasury was a collegiate court responsible for the administration of the New Spanish Treasury."
+    "answer": "La Junta Superior de Real Hacienda fue un tribunal colegiado encargado de la administración de la Hacienda novohispana contribuir al mantenimiento de la colonia.",
+    "question_en": "Name of the financial system where large consortia were required to contribute to the maintenance of the colony.",
+    "answer_en": "The Superior Board of Royal Treasury was a collegiate court responsible for the administration of the New Spanish Treasury."
   },
   {
     "qid": 220,
@@ -1874,18 +1857,18 @@
   {
     "qid": 222,
     "category": "Government & Civics",
-    "question": "Es un tribunal judicial de naturaleza sumaria creado en 1719 en Nueva España para",
-    "answer": "compensar las falencias del sistema judicial ordinario. Podía: 1) Autorizar el uso de penas corporales nuevamente 2) El virrey nombraría a una persona para actuar como juez, asesorado por abogados y aprender y proceder contra todo delincuente en despoblado o poblado. Estos dos sin que se tuviera que consultar a la Sala del Crimen. Tribunal de la Acordada",
-    "question_en": "It is a judicial court of summary nature created in 1719 in New Spain to",
-    "answer_en": "compensate for the shortcomings of the ordinary judicial system. It could: 1) Authorize the use of corporal punishment again 2) The viceroy would appoint a person to act as a judge, advised by lawyers, to learn and proceed against any offender in unpopulated or populated areas. These two without having to consult the Criminal Chamber. Court of the Acordada."
+    "question": "Es un tribunal judicial de naturaleza sumaria creado en 1719 en Nueva España para compensar las falencias del sistema judicial ordinario.",
+    "answer": "Podía: 1) Autorizar el uso de penas corporales nuevamente 2) El virrey nombraría a una persona para actuar como juez, asesorado por abogados y aprender y proceder contra todo delincuente en despoblado o poblado. Estos dos sin que se tuviera que consultar a la Sala del Crimen. Tribunal de la Acordada",
+    "question_en": "It is a judicial court of summary nature created in 1719 in New Spain to compensate for the shortcomings of the ordinary judicial system.",
+    "answer_en": "It could: 1) Authorize the use of corporal punishment again 2) The viceroy would appoint a person to act as a judge, advised by lawyers, to learn and proceed against any offender in unpopulated or populated areas. These two without having to consult the Criminal Chamber. Court of the Acordada."
   },
   {
     "qid": 223,
-    "category": "General",
+    "category": "History",
     "question": "En qué consistió La Conspiración o Conjura de Valladolid",
-    "answer": "https://www.youtube.com/watch?v=GHockFWyTi4",
+    "answer": "Fue un movimiento criollo en la Nueva España que buscaba establecer una junta soberana para gobernar en nombre del rey Fernando VII ante la invasión napoleónica de España",
     "question_en": "What was the Conspiracy or Conjuration of Valladolid?",
-    "answer_en": "https://www.youtube.com/watch?v=GHockFWyTi4"
+    "answer_en": "It was a criollo movement in New Spain that sought to establish a sovereign junta to govern in the name of King Ferdinand VII before the Napoleonic invasion of Spain."
   },
   {
     "qid": 224,
@@ -1915,9 +1898,9 @@
     "qid": 228,
     "category": "History",
     "question": "¿Cuál es el lugar en que se dio el grito de Independencia?",
-    "answer": "Dolores Hidalgo – Guanajuato",
+    "answer": "Dolores Hidalgo - Guanajuato",
     "question_en": "What is the place where the cry of Independence was given?",
-    "answer_en": "Dolores Hidalgo – Guanajuato"
+    "answer_en": "Dolores Hidalgo - Guanajuato"
   },
   {
     "qid": 229,
@@ -1938,14 +1921,14 @@
   {
     "qid": 231,
     "category": "History",
-    "question": "Quien dijo la frase: “¿El Indulto es para los criminales, no para los defensores de la",
-    "answer": "patria”? Miguel Hidalgo y Costilla",
+    "question": "Quien dijo la frase: “¿El Indulto es para los criminales, no para los defensores de la patria”?",
+    "answer": "Miguel Hidalgo y Costilla",
     "question_en": "Who said the phrase: 'The pardon is for criminals, not for the defenders of the homeland'?",
     "answer_en": "Miguel Hidalgo y Costilla"
   },
   {
     "qid": 233,
-    "category": "General",
+    "category": "Arts & Literature",
     "question": "¿Cuál fue la Primera institución educativa destinada a las ciencias y artes?",
     "answer": "El Instituto de Ciencias y Artes se fundó en Oaxaca en 1826 El Instituto de Ciencias y Artes se fundó en Oaxaca en 1826",
     "question_en": "What was the first educational institution dedicated to sciences and arts?",
@@ -1954,22 +1937,22 @@
   {
     "qid": 243,
     "category": "History",
-    "question": "Quien dijo la frase: \"Sin importar el tamaño de la ciudad o pueblo en donde nacen los",
-    "answer": "hombres o mujeres, ellos son finalmente del tamaño de su obra, del tamaño de su voluntad de engrandecer y enriquecer a sus hermanos” Ignacio Allende (Líder de en el movimiento de la Independencia de México)",
+    "question": "Quien dijo la frase: \"Sin importar el tamaño de la ciudad o pueblo en donde nacen loshombres o mujeres, ellos son finalmente del tamaño de su obra, del tamaño de su voluntad de engrandecer y enriquecer a sus hermanos",
+    "answer": "Ignacio Allende (Líder de en el movimiento de la Independencia de México)",
     "question_en": "Who said the phrase: \"Regardless of the size of the city or town where they are born, men or women are ultimately the size of their work, the size of their will to enhance and enrich their brothers\"?",
     "answer_en": "Ignacio Allende (Leader in the movement for the Independence of Mexico)"
   },
   {
     "qid": 244,
     "category": "Government & Civics",
-    "question": "Texto en el que aparecen la separación de poderes y los derechos de los indígenas.",
-    "answer": "Documento que manifiesta que América debe ser libre y proclama la división de poderes e igualdad de los ciudadanos Sentimientos de la Nación",
-    "question_en": "Text in which the separation of powers and the rights of indigenous people appear.",
-    "answer_en": "Document that states that America must be free and proclaims the division of powers and equality of citizens: Sentiments of the Nation."
+    "question": "Texto en el que aparecen la separación de poderes y los derechos de los indígenas. Documento que manifiesta que América debe ser libre y proclama la división de poderes e igualdad de los ciudadanos",
+    "answer": "Sentimientos de la Nación",
+    "question_en": "Text in which the separation of powers and the rights of indigenous people appear. Document that states that America must be free and proclaims the division of powers and equality of citizens:",
+    "answer_en": "Sentiments of the Nation."
   },
   {
     "qid": 245,
-    "category": "History",
+    "category": "Government & Civics",
     "question": "¿Quien escribió el Documento de Sentimientos de la Nación y en qué año?",
     "answer": "José María Morelos en 1813",
     "question_en": "Who wrote the Document of the Sentiments of the Nation and in what year?",
@@ -1977,7 +1960,7 @@
   },
   {
     "qid": 246,
-    "category": "History",
+    "category": "Government & Civics",
     "question": "¿Cuál fue la frase célebre de José María Morelos?",
     "answer": "“Morir es nada cuando se trata de la Patria”",
     "question_en": "What was the famous phrase of José María Morelos?",
@@ -1986,16 +1969,16 @@
   {
     "qid": 247,
     "category": "Government & Civics",
-    "question": "Puntos importantes del Texto “Sentimientos de la Nación”",
-    "answer": "https://www.youtube.com/watch?v=C1TU7WQoiec 248. ¿Cuál fue la primera Constitución de México como estado Independiente? Constitución de Apatzingán, 22 de octubre de 1814",
-    "question_en": "Important points from the text 'Sentimientos de la Nación'",
-    "answer_en": "https://www.youtube.com/watch?v=C1TU7WQoiec 248. What was the first Constitution of Mexico as an Independent state? Constitution of Apatzingán, October 22, 1814"
+    "question": "¿Cuál fue la primera Constitución de México como estado Independiente?”",
+    "answer": "Constitución de Apatzingán, 22 de octubre de 1814",
+    "question_en": "What was the first Constitution of Mexico as an Independent state?",
+    "answer_en": "Constitution of Apatzingán, October 22, 1814"
   },
   {
     "qid": 249,
     "category": "History",
     "question": "¿En qué consistió el Plan de Iguala?",
-    "answer": "Declaraba a la Nueva España como país soberano e independiente Recomendamos: https://www.youtube.com/watch?v=mdWLL4soLY4",
+    "answer": "Declaraba a la Nueva España como país soberano e independiente.",
     "question_en": "What did the Plan of Iguala consist of?",
     "answer_en": "It declared New Spain as a sovereign and independent country."
   },
@@ -2058,18 +2041,18 @@
   {
     "qid": 267,
     "category": "Government & Civics",
-    "question": "Personaje histórico que ascendió al poder 11 veces (cinco como liberal y seis como",
-    "answer": "conservador) Gral. Antonio López de Santa Anna (su alteza serenísima)",
+    "question": "Personaje histórico que ascendió al poder 11 veces (cinco como liberal y seis como conservador)",
+    "answer": "Gral. Antonio López de Santa Anna (su alteza serenísima)",
     "question_en": "Historical figure who rose to power 11 times (five as a liberal and six as a conservative)",
     "answer_en": "General Antonio López de Santa Anna (his serene highness)"
   },
   {
     "qid": 268,
-    "category": "History",
-    "question": "El Plan de Ayutla Pronunciamiento político proclamado por Adrian Florencio Villareal, con apoyo de",
-    "answer": "los liberales Juan N. Álvarez e Ignacio Comonfortt, el 1 de marzo de 1854 en Ayutla, Guerrero. Tuvo como objetivo dar fin a la dictadura de Antonio López de Santa Anna Recomendamos: https://www.youtube.com/watch?v=4l0RR68JWjU",
-    "question_en": "The Ayutla Plan Political proclamation proclaimed by Adrian Florencio Villareal, with the support of",
-    "answer_en": "the liberals Juan N. Álvarez and Ignacio Comonfort, on March 1, 1854 in Ayutla, Guerrero. Its objective was to end the dictatorship of Antonio López de Santa Anna."
+    "category": "Government & Civics",
+    "question": "El Plan de Ayutla Pronunciamiento político proclamado por Adrian Florencio Villareal, con apoyo de los liberales",
+    "answer": "Juan N. Álvarez e Ignacio Comonfortt, el 1 de marzo de 1854 en Ayutla, Guerrero. Tuvo como objetivo dar fin a la dictadura de Antonio López de Santa Anna Recomendamos: https://www.youtube.com/watch?v=4l0RR68JWjU",
+    "question_en": "The Ayutla Plan Political proclamation proclaimed by Adrian Florencio Villareal, with the support of the liberals",
+    "answer_en": "Juan N. Álvarez and Ignacio Comonfort, on March 1, 1854 in Ayutla, Guerrero. Its objective was to end the dictatorship of Antonio López de Santa Anna."
   },
   {
     "qid": 269,
@@ -2081,7 +2064,7 @@
   },
   {
     "qid": 270,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "Tras las 4 batallas ¿Qué sobrenombre se le dio al Puerto de Veracruz?",
     "answer": "Uno de los sobrenombres por los que se ha conocido a Veracruz es la denominación de 4 veces heroica, misma que le fue concedida por el entonces presidente Miguel Alemán Valdés",
     "question_en": "After the 4 battles, what nickname was given to the Port of Veracruz?",
@@ -2105,7 +2088,7 @@
   },
   {
     "qid": 275,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "México perdió la mitad de su territorio a mediados del siglo XIX, como consecuencia",
     "answer": "del enfrentamiento con Estados Unidos",
     "question_en": "Mexico lost half of its territory in the mid-19th century as a consequence",
@@ -2121,15 +2104,15 @@
   },
   {
     "qid": 278,
-    "category": "Geography",
-    "question": "Cadetes militares que defendieron el Castillo de Chapultepec de la invasión",
-    "answer": "norteamericana en 1847: Niños héroes (6)",
-    "question_en": "Military cadets who defended Chapultepec Castle from the American invasion in 1847: Child heroes (6)",
-    "answer_en": ""
+    "category": "History",
+    "question": "Cadetes militares que defendieron el Castillo de Chapultepec de la invasión norteamericana en 1847: ",
+    "answer": "Niños héroes (6)",
+    "question_en": "Military cadets who defended Chapultepec Castle from the American invasion in 1847:",
+    "answer_en": "Child heroes (6)"
   },
   {
     "qid": 280,
-    "category": "General",
+    "category": "History",
     "question": "¿Quién era el niño héroe más pequeño?",
     "answer": "Francisco Márquez",
     "question_en": "Who was the smallest boy hero?",
@@ -2146,8 +2129,8 @@
   {
     "qid": 283,
     "category": "History",
-    "question": "presidente mexicano al que se le atribuye la frase “Entre los individuos como entre las",
-    "answer": "Naciones, el respeto al derecho ajeno es la paz\" Benito Juárez",
+    "question": "presidente mexicano al que se le atribuye la frase “Entre los individuos como entre las Naciones, el respeto al derecho ajeno es la paz\" ",
+    "answer": "Benito Juárez",
     "question_en": "Mexican president attributed with the phrase 'Among individuals, as among nations, respect for the rights of others is peace.'",
     "answer_en": "Benito Juárez"
   },
@@ -2155,7 +2138,7 @@
     "qid": 284,
     "category": "History",
     "question": "¿A quién le nombran el benemérito de las américas?",
-    "answer": "Bebito Juárez",
+    "answer": "Benito Juárez",
     "question_en": "Who is named the benefactor of the Americas?",
     "answer_en": "Benito Juárez"
   },
@@ -2177,7 +2160,7 @@
   },
   {
     "qid": 287,
-    "category": "History",
+    "category": "Government & Civics",
     "question": "Fecha en que se fundó el primer Registro Civil",
     "answer": "Establecimiento formal en 1859 con las Leyes de Reforma (Benito Juárez)",
     "question_en": "Date when the first Civil Registry was founded",
@@ -2185,7 +2168,7 @@
   },
   {
     "qid": 288,
-    "category": "General",
+    "category": "Government & Civics",
     "question": "Fecha en que se expidió la primera acta de nacimiento en Nuevo León",
     "answer": "10 de noviembre de 1859",
     "question_en": "Date when the first birth certificate was issued in Nuevo León",
@@ -2193,7 +2176,7 @@
   },
   {
     "qid": 289,
-    "category": "General",
+    "category": "Government & Civics",
     "question": "Fecha en que se expidió la primera acta de nacimiento implementada",
     "answer": "28 de julio de 1859",
     "question_en": "Date when the first birth certificate was issued",
@@ -2209,7 +2192,7 @@
   },
   {
     "qid": 292,
-    "category": "General",
+    "category": "History",
     "question": "¿Quién hizo el trazo de Paseo de la Reforma y como se llamó?",
     "answer": "Maximiliano de Habsburgo, se llamó el paseo de la emperatriz",
     "question_en": "Who designed Paseo de la Reforma and what was it called?",
@@ -2217,15 +2200,15 @@
   },
   {
     "qid": 293,
-    "category": "General",
-    "question": "¿Dónde y cuándo murió Maximiliano de H.?",
+    "category": "History",
+    "question": "¿Dónde y cuándo murió Maximiliano de Habsburg?",
     "answer": "19 de junio de 1867 en Querétaro.",
-    "question_en": "Where and when did Maximilian of H. die?",
+    "question_en": "Where and when did Maximilian of Habsburg die?",
     "answer_en": "June 19, 1867 in Querétaro."
   },
   {
     "qid": 294,
-    "category": "General",
+    "category": "History",
     "question": "¿Cuáles fueron los generales apresados y fusilados con Maximiliano de Habsburgo?",
     "answer": "Miguel Miramón y Tomas Mejía",
     "question_en": "Which generals were captured and executed with Maximilian of Habsburg?",
@@ -2257,7 +2240,7 @@
   },
   {
     "qid": 299,
-    "category": "History",
+    "category": "Government & Civics",
     "question": "¿Cuál fue el Plan De Tuxtepec?",
     "answer": "Declaración que buscaba destituir al gobierno de Sebastián Lerdo de Tejada. Fue elaborado por Porfirio Díaz https://www.youtube.com/watch?v=R2U0P5ExpT8",
     "question_en": "What was the Tuxtepec Plan?",
@@ -2273,7 +2256,7 @@
   },
   {
     "qid": 301,
-    "category": "History",
+    "category": "Government & Civics",
     "question": "¿En qué consistió el Plan de San Luis?",
     "answer": "Fue el llamado a las armas para evitar la reelección de Porfirio Diaz y derrocar el porfiriato. Se buscaba levantarse en armas para lograr elecciones libres y democráticas y devolver las tierras a los campesinos. Fue promulgado por Francisco I. Madero estando preso en SLP en 1910 y se llevó a cabo estando el exiliado en EEUU.",
     "question_en": "What did the Plan of San Luis consist of?",
@@ -2281,7 +2264,7 @@
   },
   {
     "qid": 302,
-    "category": "History",
+    "category": "Government & Civics",
     "question": "¿De qué se trató el plan de Ayala?",
     "answer": "Fue una proclamación política, promulgada y firmada por el jefe revolucionario mexicano Emiliano Zapata, dentro de la Revolución mexicana el 28 de noviembre de 1911, en el que desconoció el gobierno del presidente Francisco I. Madero, a quien acusó de traicionar las causas campesinas",
     "question_en": "What was the Ayala Plan about?",
@@ -2289,7 +2272,7 @@
   },
   {
     "qid": 303,
-    "category": "History",
+    "category": "Government & Civics",
     "question": "¿Cuál fue el Plan de Guadalupe?",
     "answer": "Plan para desconocer el gobierno de Victoriano Huerta por traición a Francisco I. Madero. Fue creado por Venustiano Carranza y firmado en la Hacienda Guadalupe en Coahuila en 1913.",
     "question_en": "What was the Plan of Guadalupe?",
@@ -2297,7 +2280,7 @@
   },
   {
     "qid": 304,
-    "category": "General",
+    "category": "Government & Civics",
     "question": "Grupo que promovió el desarrollo económico sin afectar la iglesia y los militares",
     "answer": "Conservadores",
     "question_en": "Group that promoted economic development without affecting the church and the military",
@@ -2305,7 +2288,7 @@
   },
   {
     "qid": 305,
-    "category": "Geography",
+    "category": "Government & Civics",
     "question": "Grupo que promovió la integración nacional y abrió camino al capitalismo",
     "answer": "Liberales",
     "question_en": "Group that promoted national integration and paved the way for capitalism",
@@ -2313,15 +2296,15 @@
   },
   {
     "qid": 306,
-    "category": "General",
-    "question": "El principal culto religioso de la sociedad novohispana y que perdura en la actualidad",
-    "answer": "es. El catolicismo",
-    "question_en": "The main religious cult of New Spanish society that endures to this day",
-    "answer_en": "is Catholicism."
+    "category": "Religion & Mythology",
+    "question": "El principal culto religioso de la sociedad novohispana y que perdura en la actualidad es.",
+    "answer": "El catolicismo",
+    "question_en": "The main religious cult of New Spanish society that endures to this day is",
+    "answer_en": "Catholicism."
   },
   {
     "qid": 307,
-    "category": "General",
+    "category": "Religion & Mythology",
     "question": "Imagen más venerada en México",
     "answer": "La Virgen de Guadalupe",
     "question_en": "Most venerated image in Mexico",
@@ -2329,7 +2312,7 @@
   },
   {
     "qid": 308,
-    "category": "History",
+    "category": "Religion & Mythology",
     "question": "Imagen presente en el Estandarte de Hidalgo (Blasón de Hidalgo)",
     "answer": "La Virgen de Guadalupe",
     "question_en": "Image present on the Standard of Hidalgo (Coat of Arms of Hidalgo)",
@@ -2337,7 +2320,7 @@
   },
   {
     "qid": 309,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Autor de la traición de Francisco I. Madero",
     "answer": "Victoriano Huerta",
     "question_en": "Author of the betrayal of Francisco I. Madero",
@@ -2369,7 +2352,7 @@
   },
   {
     "qid": 314,
-    "category": "History",
+    "category": "General",
     "question": "Obras más importantes del porfiriato",
     "answer": "El teléfono, el sistema ferroviario, el teatro de bellas artes, el ángel de la independencia y el palacio postal",
     "question_en": "Most important works of the Porfirio Díaz era",
@@ -2377,7 +2360,7 @@
   },
   {
     "qid": 315,
-    "category": "History",
+    "category": "General",
     "question": "Escuela en la época Colonial 1ra escuela elemental:",
     "answer": "San Francisco en Texcoco",
     "question_en": "School in the Colonial era 1st elementary school:",
@@ -2417,7 +2400,7 @@
   },
   {
     "qid": 321,
-    "category": "Geography",
+    "category": "General",
     "question": "Qué avance tecnológico inauguró Porfirio Díaz en México",
     "answer": "El teléfono, el 13 de marzo de 1878. En un tendido que iba desde el Castillo Chapultepec hasta Palacio Nacional.",
     "question_en": "What technological advancement did Porfirio Díaz inaugurate in Mexico?",
@@ -2434,22 +2417,22 @@
   {
     "qid": 323,
     "category": "Government & Civics",
-    "question": "Según las estructuras construidas entre el siglo XVI y principios del siglo XX que",
-    "answer": "actualmente se usan como museos o edificios de gobierno, El Zócalo de Ciudad de México es conocido como: La Ciudad de los Palacios",
+    "question": "Según las estructuras construidas entre el siglo XVI y principios del siglo XX que actualmente se usan como museos o edificios de gobierno, El Zócalo de Ciudad de México es conocido como: ",
+    "answer": "La Ciudad de los Palacios",
     "question_en": "According to the structures built between the 16th century and the early 20th century that are currently used as museums or government buildings, El Zócalo in Mexico City is known as: The City of Palaces",
     "answer_en": "The City of Palaces"
   },
   {
     "qid": 324,
-    "category": "Geography",
-    "question": "¿Cuál fue el primer periódico de México o primer periódico impreso en la Nueva",
-    "answer": "España? La Gaceta de México (Gaceta de México) Se titulaba \"Gaceta de México y Noticias de Nueva España\", el primer número que salió a la luz fue el 1 de enero de 1722 y su fundador fue el periodista y religioso Juan Ignacio María de Castorena Ursúa.",
+    "category": "General",
+    "question": "¿Cuál fue el primer periódico de México o primer periódico impreso en la Nueva España?",
+    "answer": "La Gaceta de México (Gaceta de México) Se titulaba \"Gaceta de México y Noticias de Nueva España\", el primer número que salió a la luz fue el 1 de enero de 1722 y su fundador fue el periodista y religioso Juan Ignacio María de Castorena Ursúa.",
     "question_en": "What was the first newspaper in Mexico or the first printed newspaper in New Spain?",
     "answer_en": "The Gaceta de México (Gaceta de México) was titled 'Gaceta de México y Noticias de Nueva España'. The first issue was published on January 1, 1722, and its founder was the journalist and religious figure Juan Ignacio María de Castorena Ursúa."
   },
   {
     "qid": 325,
-    "category": "Geography",
+    "category": "Arts & Literature",
     "question": "Cual fue el primer periódico de los insurgentes",
     "answer": "El despertador americano. 1810, fue sustituido por el ilustrador nacional 1811",
     "question_en": "What was the first newspaper of the insurgents?",
@@ -2457,7 +2440,7 @@
   },
   {
     "qid": 326,
-    "category": "General",
+    "category": "Arts & Literature",
     "question": "Periódico durante el movimiento Independentista",
     "answer": "Despertador Americano",
     "question_en": "Newspaper during the Independence movement",
@@ -2465,7 +2448,7 @@
   },
   {
     "qid": 327,
-    "category": "History",
+    "category": "Arts & Literature",
     "question": "Periódico revolucionario en la época en el Porfiriato",
     "answer": "El hijo de Ahuizote",
     "question_en": "Revolutionary newspaper during the Porfirio Díaz era",
@@ -2483,9 +2466,9 @@
     "qid": 329,
     "category": "History",
     "question": "Organizar en orden cronológico los eventos Revolución, Conquista e Independencia:",
-    "answer": "Conquista 1519 Independencia 1810 Revolución",
+    "answer": "Conquista 1519, Independencia 1810, Revolución",
     "question_en": "Organize the events Conquest, Independence, and Revolution in chronological order:",
-    "answer_en": "Conquest 1519 Independence 1810 Revolution"
+    "answer_en": "Conquest 1519, Independence 1810, Revolution"
   },
   {
     "qid": 330,
@@ -2497,7 +2480,7 @@
   },
   {
     "qid": 331,
-    "category": "Geography",
+    "category": "Government & Civics",
     "question": "¿Quién fue el secretario de Educación Pública y Bellas Artes? de 1901 a 1911",
     "answer": "Justo Sierra",
     "question_en": "Who was the Secretary of Public Education and Fine Arts from 1901 to 1911?",
@@ -2505,7 +2488,7 @@
   },
   {
     "qid": 332,
-    "category": "Geography",
+    "category": "Government & Civics",
     "question": "Primer secretario de Educación Pública de México (1921)",
     "answer": "José Vasconcelos",
     "question_en": "First Secretary of Public Education of Mexico (1921)",
@@ -2521,7 +2504,7 @@
   },
   {
     "qid": 334,
-    "category": "Government & Civics",
+    "category": "General",
     "question": "¿Cuál es la Avenida más importante de CDMX y qué presidente le dio su nombre?",
     "answer": "Av. Reforma / Sebastián Lerdo de Tejada",
     "question_en": "What is the most important avenue in Mexico City and which president gave it its name?",
@@ -2529,7 +2512,7 @@
   },
   {
     "qid": 335,
-    "category": "Geography",
+    "category": "General",
     "question": "¿Cuál fue el monumento construido para conmemorar el Bicentenario de la",
     "answer": "Independencia? Estela de Luz",
     "question_en": "What was the monument built to commemorate the Bicentennial of Independence?",
@@ -2577,7 +2560,7 @@
   },
   {
     "qid": 343,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "Acontecimiento relacionado con la Industria Minera y la Revolución",
     "answer": "Huelga de Cananea Fue una huelga dada en la ciudad minera de cobre de Cananea, Sonora, que sentó precedentes para la revolución, por lo que a la ciudad se le conoce como cuna de la revolución.",
     "question_en": "Event related to the Mining Industry and the Revolution",
@@ -2609,7 +2592,7 @@
   },
   {
     "qid": 348,
-    "category": "History",
+    "category": "Music & Entertainment",
     "question": "Composición musical característica de la época revolucionaria:",
     "answer": "“El corrido” Narrativa popular en forma de canción sobre temas políticos, históricos, etc. Originada en el siglo 18.",
     "question_en": "Musical composition characteristic of the revolutionary era:",
@@ -2617,7 +2600,7 @@
   },
   {
     "qid": 349,
-    "category": "General",
+    "category": "Music & Entertainment",
     "question": "Nombre de un famoso corrido",
     "answer": "La Adelita o Juana Gallo https://www.youtube.com/watch?v=eT4MaS8G-Ss",
     "question_en": "Name of a famous corrido",
@@ -2625,7 +2608,7 @@
   },
   {
     "qid": 350,
-    "category": "Government & Civics",
+    "category": "General",
     "question": "¿A qué se conoce como la Ley de Fuga?",
     "answer": "Simular que un prisionero escapa para asesinarlo por la espalda",
     "question_en": "What is known as the Law of Escape?",
@@ -2633,7 +2616,7 @@
   },
   {
     "qid": 351,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "¿Cuál era la forma de asesinato común en la revolución?",
     "answer": "Ley de Fuga",
     "question_en": "What was the common form of murder during the revolution?",
@@ -2643,9 +2626,9 @@
     "qid": 352,
     "category": "Government & Civics",
     "question": "¿En qué año se firmó la actual constitución que nos rige?",
-    "answer": "5 de febrero de",
+    "answer": "5 de febrero de 1917",
     "question_en": "In what year was the current constitution that governs us signed?",
-    "answer_en": "February 5th"
+    "answer_en": "February 5th, 1917"
   },
   {
     "qid": 353,
@@ -2657,7 +2640,7 @@
   },
   {
     "qid": 354,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "¿Qué fue la Guerra Cristera?",
     "answer": "Fue un conflicto armado de México que se prolongó desde 1926 a 1929 entre el Gobierno y milicias de laicos, presbíteros y religiosos católicos que se resistían a la aplicación de la llamada Ley Calles la cual proponía limitar y controlar el culto católico en la nación Recomendamos: https://www.youtube.com/watch?v=iP0j5_Sya6g",
     "question_en": "What was the Cristero War?",
@@ -2681,7 +2664,7 @@
   },
   {
     "qid": 358,
-    "category": "History",
+    "category": "Government & Civics",
     "question": "Nombre del partido político que gobernó durante siete décadas en el siglo XX:",
     "answer": "Partido Revolucionario Institucional (PRI) 1930-2000",
     "question_en": "Name of the political party that governed for seven decades in the 20th century:",
@@ -2689,7 +2672,7 @@
   },
   {
     "qid": 359,
-    "category": "History",
+    "category": "Government & Civics",
     "question": "¿Quién fundo el Partido Nacional Revolucionario en 1929?",
     "answer": "Plutarco Elías Calles, (PRI DESDE 1946)",
     "question_en": "Who founded the National Revolutionary Party in 1929?",
@@ -2721,7 +2704,7 @@
   },
   {
     "qid": 363,
-    "category": "Geography",
+    "category": "Culture & Symbols",
     "question": "¿Con que otro nombre se le conoce a la Diana Cazadora?",
     "answer": "Flechadora de las Estrellas del Norte",
     "question_en": "What is another name for the Diana Cazadora?",
@@ -2729,7 +2712,7 @@
   },
   {
     "qid": 364,
-    "category": "Government & Civics",
+    "category": "General",
     "question": "¿Quién nacionalizo la banca?",
     "answer": "José López Portillo (ex presidente de México)",
     "question_en": "Who nationalized the banking system?",
@@ -2737,7 +2720,7 @@
   },
   {
     "qid": 365,
-    "category": "History",
+    "category": "Government & Civics",
     "question": "¿Cuándo se creó el IMSS?",
     "answer": "Instituto Mexicano del Seguro Social 19 de enero de 1943, durante la presidencia de Manuel Ávila Camacho",
     "question_en": "When was the IMSS created?",
@@ -2745,7 +2728,7 @@
   },
   {
     "qid": 366,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "¿Como participo México en la segunda guerra mundial?",
     "answer": "\"Mediante la exportación de materias primas para la industria bélica en Estados Unidos y con trabajadores agrícolas y empleados en las industrias y campos de este país. Con el envío de fuerza aérea expedicionaria \"\"Escuadrón 201\".",
     "question_en": "How did Mexico participate in World War II?",
@@ -2769,7 +2752,7 @@
   },
   {
     "qid": 369,
-    "category": "General",
+    "category": "Government & Civics",
     "question": "¿Cuándo votan por primera vez las mujeres?",
     "answer": "3 de julio de 1955",
     "question_en": "When did women vote for the first time?",
@@ -2777,7 +2760,7 @@
   },
   {
     "qid": 370,
-    "category": "General",
+    "category": "Government & Civics",
     "question": "¿A qué edad se puede votar en México?",
     "answer": "18 años",
     "question_en": "At what age can you vote in Mexico?",
@@ -2913,7 +2896,7 @@
   },
   {
     "qid": 390,
-    "category": "Government & Civics",
+    "category": "History",
     "question": "¿Con qué países celebró México el tratado comercial conocido como TLCAN o NAFTA?",
     "answer": "Estados Unidos y Canadá",
     "question_en": "Which countries did Mexico celebrate the trade agreement known as NAFTA?",
