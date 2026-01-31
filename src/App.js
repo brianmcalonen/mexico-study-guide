@@ -309,14 +309,15 @@ export default function App() {
     small: { fontSize: 12, opacity: 0.85 },
     smallMuted: { fontSize: 12, color: theme.muted },
     actions: {
-      display: "flex",
+      display: isDesktop ? "flex" : "grid",
+      gridTemplateColumns: isDesktop ? undefined : "1fr 1fr",
       gap: 8,
       justifyContent: "center",
       marginTop: 12,
       flexWrap: "wrap",
     },
     buttonSecondary: {
-      padding: "10px 12px",
+      padding: "12px 16px",
       borderRadius: 14,
       border: `1px solid ${theme.border}`,
       background: theme.cardBg,
@@ -324,9 +325,10 @@ export default function App() {
       cursor: "pointer",
       minWidth: 80,
       flex: !isDesktop ? 1 : "unset",
+      maxWidth: isDesktop ? "unset" : 200,
     },
     buttonGood: {
-      padding: "10px 12px",
+      padding: "12px 16px",
       borderRadius: 14,
       border: `1px solid #bbf7d0`,
       background: theme.cardBg,
@@ -334,9 +336,10 @@ export default function App() {
       minWidth: isDesktop ? 110 : "unset",
       color: theme.text,
       flex: !isDesktop ? 1 : "unset",
+      maxWidth: isDesktop ? "unset" : 200,
     },
     buttonBad: {
-      padding: "10px 12px",
+      padding: "12px 16px",
       borderRadius: 14,
       border: `1px solid #fecaca`,
       background: theme.cardBg,
@@ -344,6 +347,7 @@ export default function App() {
       minWidth: isDesktop ? 110 : "unset",
       color: theme.text,
       flex: !isDesktop ? 1 : "unset",
+      maxWidth: isDesktop ? "unset" : 200,
     },
   };
 
@@ -499,10 +503,6 @@ export default function App() {
       </div>
 
       <div style={styles.actions}>
-        <button onClick={prevCard} style={styles.buttonSecondary}>
-          ← Prev
-        </button>
-
         <button
           onClick={() => mark(false)}
           style={styles.buttonBad}
@@ -517,6 +517,10 @@ export default function App() {
           disabled={!current}
         >
           ✅ Right
+        </button>
+
+        <button onClick={prevCard} style={styles.buttonSecondary}>
+          ← Prev
         </button>
 
         <button onClick={nextCard} style={styles.buttonSecondary}>
