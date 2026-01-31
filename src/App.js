@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState, useRef } from "react";
 import "./App.css";
 
 const LS_KEY = "mx_naturalizacion_trainer_v1";
@@ -22,15 +22,21 @@ function shuffle(arr) {
 
 export default function App() {
   const [all, setAll] = useState([]);
+  const [allMcq, setAllMcq] = useState([]);
   const [loading, setLoading] = useState(true);
 
   const [category, setCategory] = useState("All");
   // Always show both Spanish and English together (no single-language toggle)
   const [order, setOrder] = useState("SHUFFLE"); // SHUFFLE | IN_ORDER
+  const [mode, setMode] = useState(() => "short"); // short | mcq
+  const [lang, setLang] = useState(() => "both"); // both | en | es
 
   const [deck, setDeck] = useState([]);
   const [idx, setIdx] = useState(0);
   const [showAnswer, setShowAnswer] = useState(false);
+  const [mcqSelection, setMcqSelection] = useState(null); // {index,isRight,qid}
+  const mcqTimerRef = useRef(null);
+  const mcqSelectionRef = useRef(null);
   const [dark, setDark] = useState(() =>
     (typeof window !== "undefined" && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) ?? false
   );
@@ -55,13 +61,16 @@ export default function App() {
       try {
         setLoading(true);
         const base = process.env.PUBLIC_URL || "";
+        // load short-answer QA
         const res = await fetch(`${base}/naturalizacion_qa_en.json`);
         const json = await res.json();
 
         const normalized = (Array.isArray(json) ? json : [])
           .filter((x) => x && (x.question_en || x.question))
           .map((x) => ({
-            qid: x.qid ?? `${Math.random()}`,
+            qid: `qa-${x.qid ?? Math.random()}`,
+            raw_qid: x.qid,
+            source: "qa",
             category: x.category ?? "General",
             question: x.question ?? "",
             answer: x.answer ?? "",
@@ -70,6 +79,31 @@ export default function App() {
           }));
 
         setAll(normalized);
+
+        // load MCQ file (optional)
+        try {
+          const res2 = await fetch(`${base}/naturalizacion_mcq.json`);
+          const json2 = await res2.json();
+          const normalizedMcq = (Array.isArray(json2) ? json2 : []).map((m) => ({
+            qid: `mcq-${m.mcq_id}`,
+            raw_mcq_id: m.mcq_id,
+            source: "mcq",
+            category: m.category ?? "General",
+            stem: m.stem_es ?? m.stem_en ?? "",
+            stem_en: m.stem_en ?? m.stem_es ?? "",
+            stem_es: m.stem_es ?? m.stem_en ?? "",
+            options: Array.isArray(m.options) ? m.options.map((o) => ({
+              es: o.es ?? "",
+              en: o.en ?? "",
+              is_correct: !!o.is_correct,
+            })) : [],
+            answer_index: typeof m.answer_index === 'number' ? m.answer_index : null,
+          }));
+          setAllMcq(normalizedMcq);
+        } catch (e) {
+          // MCQ file optional
+          setAllMcq([]);
+        }
       } catch (e) {
         console.error("Failed to load JSON:", e);
         setAll([]);
@@ -81,18 +115,21 @@ export default function App() {
   }, []);
 
   const categories = useMemo(() => {
-    const set = new Set(all.map((q) => q.category || "General"));
+    const set = new Set([
+      ...all.map((q) => q.category || "General"),
+      ...allMcq.map((q) => q.category || "General"),
+    ]);
     return ["All", ...Array.from(set).sort()];
-  }, [all]);
+  }, [all, allMcq]);
 
   const counts = useMemo(() => {
     const m = {};
-    for (const q of all) {
+    for (const q of [...all, ...allMcq]) {
       const k = q.category ?? "General";
       m[k] = (m[k] || 0) + 1;
     }
     return m;
-  }, [all]);
+  }, [all, allMcq]);
 
   // Load saved state
   useEffect(() => {
@@ -101,19 +138,31 @@ export default function App() {
     if (saved?.prefs) {
       setCategory(saved.prefs.category ?? "All");
       setOrder(saved.prefs.order ?? "SHUFFLE");
+      setMode(saved.prefs.mode ?? "short");
+      setLang(saved.prefs.lang ?? "both");
     }
+  }, []);
+
+  // clear MCQ timer on unmount or when current changes
+  useEffect(() => {
+    return () => {
+      if (mcqTimerRef.current) {
+        clearTimeout(mcqTimerRef.current);
+        mcqTimerRef.current = null;
+      }
+    };
   }, []);
 
   // Build deck whenever prefs change
   useEffect(() => {
-    const filtered =
-      category === "All" ? all : all.filter((q) => q.category === category);
+    const source = mode === "mcq" ? allMcq : all;
+    const filtered = category === "All" ? source : source.filter((q) => q.category === category);
     const built = order === "SHUFFLE" ? shuffle(filtered) : filtered;
 
     setDeck(built);
     setIdx(0);
     setShowAnswer(false);
-  }, [all, category, order]);
+  }, [all, allMcq, category, order, mode]);
 
   // Persist results + prefs
   useEffect(() => {
@@ -121,10 +170,10 @@ export default function App() {
       LS_KEY,
       JSON.stringify({
         results,
-        prefs: { category, order },
+        prefs: { category, order, mode, lang },
       })
     );
-  }, [results, category, order]);
+  }, [results, category, order, mode, lang]);
 
   const current = deck[idx];
 
@@ -140,8 +189,42 @@ export default function App() {
       if ((r?.right ?? 0) + (r?.wrong ?? 0) > 0) seen++;
     }
 
-    return { right, wrong, seen, total: all.length };
-  }, [results, all.length]);
+    const total = mode === "mcq" ? allMcq.length : all.length;
+    return { right, wrong, seen, total };
+  }, [results, all.length, allMcq.length, mode]);
+
+  function handleMcqSelect(index) {
+    if (!current || current.source !== "mcq") return;
+    if (mcqSelectionRef.current) return; // already selected
+
+    const opt = current.options?.[index];
+    const isRight = !!opt?.is_correct || current.answer_index === index;
+    const qid = String(current.qid);
+
+    // set visual selection
+    setMcqSelection({ index, isRight, qid });
+    mcqSelectionRef.current = { index, isRight, qid };
+
+    // after brief feedback, record result and advance
+    mcqTimerRef.current = setTimeout(() => {
+      setResults((prev) => {
+        const prevRow = prev[qid] ?? { right: 0, wrong: 0, last: null };
+        return {
+          ...prev,
+          [qid]: {
+            right: prevRow.right + (isRight ? 1 : 0),
+            wrong: prevRow.wrong + (!isRight ? 1 : 0),
+            last: isRight ? "right" : "wrong",
+          },
+        };
+      });
+
+      setIdx((i) => (i + 1 < deck.length ? i + 1 : i));
+      setShowAnswer(false);
+      setMcqSelection(null);
+      mcqSelectionRef.current = null;
+    }, 800);
+  }
 
   function mark(isRight) {
     if (!current) return;
@@ -182,8 +265,8 @@ export default function App() {
   }
 
   function reshuffle() {
-    const filtered =
-      category === "All" ? all : all.filter((q) => q.category === category);
+    const source = mode === "mcq" ? allMcq : all;
+    const filtered = category === "All" ? source : source.filter((q) => q.category === category);
     setDeck(shuffle(filtered));
     setIdx(0);
     setShowAnswer(false);
@@ -400,7 +483,7 @@ export default function App() {
           >
             {categories.map((c) => (
               <option key={c} value={c}>
-                {`${c} (${c === "All" ? all.length : counts[c] || 0})`}
+                {`${c} (${c === "All" ? (mode === 'mcq' ? allMcq.length : all.length) : counts[c] || 0})`}
               </option>
             ))}
           </select>
@@ -417,6 +500,23 @@ export default function App() {
           >
             <option value="SHUFFLE">Shuffle</option>
             <option value="IN_ORDER">In order</option>
+          </select>
+        </label>
+
+        <label style={styles.control}>
+          Mode&nbsp;
+          <select value={mode} onChange={(e) => setMode(e.target.value)} style={styles.select}>
+            <option value="short">Short answer</option>
+            <option value="mcq">Multiple choice</option>
+          </select>
+        </label>
+
+        <label style={styles.control}>
+          Language&nbsp;
+          <select value={lang} onChange={(e) => setLang(e.target.value)} style={styles.select}>
+            <option value="both">Both</option>
+            <option value="es">Spanish</option>
+            <option value="en">English</option>
           </select>
         </label>
 
@@ -460,27 +560,111 @@ export default function App() {
             </div>
 
             <div style={styles.cardBody}>
-              <div style={styles.qLabel}>Pregunta (ES)</div>
-              <div style={styles.qText}>{current.question}</div>
+              {current.source === "mcq" ? (
+                <>
+                  {(lang === "both" || lang === "es") && (
+                    <>
+                      <div style={styles.qLabel}>Pregunta (ES)</div>
+                      <div style={styles.qText}>{current.stem_es || current.stem}</div>
+                      <div style={{ height: 8 }} />
+                    </>
+                  )}
 
-              <div style={{ height: 8 }} />
+                  {(lang === "both" || lang === "en") && (
+                    <>
+                      <div style={styles.qLabel}>Question (EN)</div>
+                      <div style={styles.qText}>{current.stem_en || current.stem}</div>
+                      <div style={styles.hr} />
+                    </>
+                  )}
 
-              <div style={styles.qLabel}>Question (EN)</div>
-              <div style={styles.qText}>{current.question_en}</div>
+                  <div style={{ display: "grid", gap: 8 }}>
+                    {(current.options || []).map((opt, i) => {
+                      const sel = mcqSelection;
+                      let extra = {};
+                      const disabled = !!sel;
+                      if (sel) {
+                        const correctIndex = current.answer_index;
+                        if (sel.index === i) {
+                          // selected option
+                          extra = sel.isRight
+                            ? { background: "#dcfce7", border: `1px solid #10b981`, color: "#065f46" }
+                            : { background: "#fee2e2", border: `1px solid #ef4444`, color: "#7f1d1d" };
+                        } else if (!sel.isRight && i === correctIndex) {
+                          // show correct option when user picked wrong
+                          extra = { background: "#dcfce7", border: `1px solid #10b981`, color: "#065f46" };
+                        } else {
+                          extra = { opacity: 0.85 };
+                        }
+                      }
 
-              <div style={styles.hr} />
-
-              {!showAnswer ? (
-                <div style={styles.revealHint}>Click to reveal answers / Haz clic para ver las respuestas</div>
+                      return (
+                        <button
+                          key={String(i)}
+                          onClick={() => handleMcqSelect(i)}
+                          disabled={disabled}
+                          style={{
+                            ...styles.buttonSecondary,
+                            textAlign: "left",
+                            padding: "10px 12px",
+                            cursor: disabled ? "default" : "pointer",
+                            ...extra,
+                          }}
+                        >
+                          {lang === "en" ? (
+                            <div style={{ fontSize: 14 }}>{opt.en}</div>
+                          ) : lang === "es" ? (
+                            <div style={{ fontSize: 14 }}>{opt.es}</div>
+                          ) : (
+                            <>
+                              <div style={{ fontSize: 14, opacity: sel ? 1 : 0.85 }}>{opt.es}</div>
+                              <div style={{ fontSize: 13, color: sel ? 'inherit' : theme.muted }}>{opt.en}</div>
+                            </>
+                          )}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </>
               ) : (
                 <>
-                  <div style={styles.aLabel}>Respuesta (ES)</div>
-                  <div style={styles.aText}>{current.answer}</div>
+                  {(lang === "both" || lang === "es") && (
+                    <>
+                      <div style={styles.qLabel}>Pregunta (ES)</div>
+                      <div style={styles.qText}>{current.question}</div>
+                      <div style={{ height: 8 }} />
+                    </>
+                  )}
+
+                  {(lang === "both" || lang === "en") && (
+                    <>
+                      <div style={styles.qLabel}>Question (EN)</div>
+                      <div style={styles.qText}>{current.question_en}</div>
+                    </>
+                  )}
 
                   <div style={styles.hr} />
 
-                  <div style={styles.aLabel}>Answer (EN)</div>
-                  <div style={styles.aText}>{current.answer_en}</div>
+                  {!showAnswer ? (
+                    <div style={styles.revealHint}>Click to reveal answers / Haz clic para ver las respuestas</div>
+                  ) : (
+                    <>
+                      {(lang === "both" || lang === "es") && (
+                        <>
+                          <div style={styles.aLabel}>Respuesta (ES)</div>
+                          <div style={styles.aText}>{current.answer}</div>
+                        </>
+                      )}
+
+                      {(lang === "both" || lang === "en") && (
+                        <>
+                          <div style={styles.hr} />
+                          <div style={styles.aLabel}>Answer (EN)</div>
+                          <div style={styles.aText}>{current.answer_en}</div>
+                        </>
+                      )}
+                    </>
+                  )}
                 </>
               )}
             </div>
@@ -503,21 +687,25 @@ export default function App() {
       </div>
 
       <div style={styles.actions}>
-        <button
-          onClick={() => mark(false)}
-          style={styles.buttonBad}
-          disabled={!current}
-        >
-          ❌ Wrong
-        </button>
+        {mode !== "mcq" && (
+          <>
+            <button
+              onClick={() => mark(false)}
+              style={styles.buttonBad}
+              disabled={!current}
+            >
+              ❌ Wrong
+            </button>
 
-        <button
-          onClick={() => mark(true)}
-          style={styles.buttonGood}
-          disabled={!current}
-        >
-          ✅ Right
-        </button>
+            <button
+              onClick={() => mark(true)}
+              style={styles.buttonGood}
+              disabled={!current}
+            >
+              ✅ Right
+            </button>
+          </>
+        )}
 
         <button onClick={prevCard} style={styles.buttonSecondary}>
           ← Prev
