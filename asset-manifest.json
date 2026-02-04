@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mexico-study-guide/static/css/main.f855e6bc.css",
-    "main.js": "/mexico-study-guide/static/js/main.35ec9c57.js",
+    "main.js": "/mexico-study-guide/static/js/main.8ea98ec7.js",
     "static/js/453.eb132a1d.chunk.js": "/mexico-study-guide/static/js/453.eb132a1d.chunk.js",
     "index.html": "/mexico-study-guide/index.html",
     "main.f855e6bc.css.map": "/mexico-study-guide/static/css/main.f855e6bc.css.map",
-    "main.35ec9c57.js.map": "/mexico-study-guide/static/js/main.35ec9c57.js.map",
+    "main.8ea98ec7.js.map": "/mexico-study-guide/static/js/main.8ea98ec7.js.map",
     "453.eb132a1d.chunk.js.map": "/mexico-study-guide/static/js/453.eb132a1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.35ec9c57.js"
+    "static/js/main.8ea98ec7.js"
   ]
 }
