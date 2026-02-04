@@ -28,8 +28,8 @@ export default function App() {
   const [category, setCategory] = useState("All");
   // Always show both Spanish and English together (no single-language toggle)
   const [order, setOrder] = useState("SHUFFLE"); // SHUFFLE | IN_ORDER
-  const [mode, setMode] = useState(() => "short"); // short | mcq
-  const [lang, setLang] = useState(() => "both"); // both | en | es
+  const [mode, setMode] = useState(() => "mcq"); // short | mcq
+  const [lang, setLang] = useState(() => "es"); // both | en | es
 
   const [deck, setDeck] = useState([]);
   const [idx, setIdx] = useState(0);
@@ -84,9 +84,9 @@ export default function App() {
         try {
           const res2 = await fetch(`${base}/naturalizacion_mcq.json`);
           const json2 = await res2.json();
-          const normalizedMcq = (Array.isArray(json2) ? json2 : []).map((m) => ({
-            qid: `mcq-${m.mcq_id}`,
-            raw_mcq_id: m.mcq_id,
+          const normalizedMcq = (Array.isArray(json2) ? json2 : []).map((m, idx) => ({
+            qid: `mcq-${m.mcq_id ?? idx}`,
+            raw_mcq_id: m.mcq_id ?? idx,
             source: "mcq",
             category: m.category ?? "General",
             stem: m.stem_es ?? m.stem_en ?? "",
@@ -123,12 +123,19 @@ export default function App() {
   }, [all, allMcq]);
 
   const counts = useMemo(() => {
-    const m = {};
-    for (const q of [...all, ...allMcq]) {
+    const mAll = {};
+    for (const q of all) {
       const k = q.category ?? "General";
-      m[k] = (m[k] || 0) + 1;
+      mAll[k] = (mAll[k] || 0) + 1;
     }
-    return m;
+
+    const mMcq = {};
+    for (const q of allMcq) {
+      const k = q.category ?? "General";
+      mMcq[k] = (mMcq[k] || 0) + 1;
+    }
+
+    return { all: mAll, mcq: mMcq };
   }, [all, allMcq]);
 
   // Load saved state
@@ -138,8 +145,8 @@ export default function App() {
     if (saved?.prefs) {
       setCategory(saved.prefs.category ?? "All");
       setOrder(saved.prefs.order ?? "SHUFFLE");
-      setMode(saved.prefs.mode ?? "short");
-      setLang(saved.prefs.lang ?? "both");
+      setMode(saved.prefs.mode ?? "mcq");
+      setLang(saved.prefs.lang ?? "es");
     }
   }, []);
 
@@ -483,7 +490,7 @@ export default function App() {
           >
             {categories.map((c) => (
               <option key={c} value={c}>
-                {`${c} (${c === "All" ? (mode === 'mcq' ? allMcq.length : all.length) : counts[c] || 0})`}
+                {`${c} (${c === "All" ? (mode === 'mcq' ? allMcq.length : all.length) : (mode === 'mcq' ? counts.mcq[c] || 0 : counts.all[c] || 0)})`}
               </option>
             ))}
           </select>
