@@ -67,8 +67,8 @@
     "stem_en": "Mention the National Flower",
     "options": [
       {
-        "es": "Dalia (puede ser una opción Nochebuena otra opción cempasúchil)",
-        "en": "Dahlia (another option can be Poinsettia or Marigold)",
+        "es": "Dalia",
+        "en": "Dahlia",
         "is_correct": true
       },
       {
