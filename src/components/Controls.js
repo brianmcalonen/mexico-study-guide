@@ -22,8 +22,37 @@ export default function Controls({
       alignItems: "center",
       marginBottom: 12,
     },
-    control: { fontSize: 15, display: "flex", alignItems: "center" },
-    tally: { fontSize: 13, opacity: 0.8, marginLeft: 10 },
+    control: {
+      display: "flex",
+      flexDirection: "column",
+      gap: 8,
+      width: "100%",
+    },
+    label: {
+      fontSize: 14,
+      fontWeight: 600,
+      opacity: 0.9,
+    },
+    selectContainer: {
+      display: "flex",
+      gap: 8,
+      alignItems: "center",
+      flexWrap: "wrap",
+    },
+    tally: {
+      fontSize: 16,
+      fontWeight: 600,
+      opacity: 0.9,
+      marginLeft: 12,
+    },
+    tallyMobile: {
+      fontSize: 16,
+      fontWeight: 600,
+      opacity: 0.9,
+      marginLeft: 0,
+      width: "100%",
+      marginTop: 6,
+    },
     select: {
       padding: "8px 10px",
       borderRadius: 10,
@@ -32,18 +61,20 @@ export default function Controls({
       color: theme.text,
       fontSize: 16,
       marginLeft: 8,
+      ...(isDesktop ? {} : { width: "100%" }),
     },
   };
 
   return (
     <div style={styles.controls}>
       <div style={styles.control}>
-        Category
-        <select
-          value={category}
-          onChange={(e) => onCategoryChange(e.target.value)}
-          style={styles.select}
-        >
+        <label style={styles.label}>Category</label>
+        <div style={styles.selectContainer}>
+          <select
+            value={category}
+            onChange={(e) => onCategoryChange(e.target.value)}
+            style={styles.select}
+          >
           {categories.map((c) => {
             const isComplete = !!completedByCategory?.[c];
             const isCurrent = category === c;
@@ -58,6 +89,7 @@ export default function Controls({
                 ? counts.mcq[c] || 0
                 : counts.all[c] || 0);
             const correct = tally?.correct ?? 0;
+            const percent = total > 0 ? Math.round((correct / total) * 100) : 0;
 
             const marker = isComplete ? "☑ " : "☐ ";
             const optionStyle = {
@@ -67,18 +99,13 @@ export default function Controls({
 
             return (
               <option key={c} value={c} style={optionStyle}>
-                {`${marker}${c} (${correct}/${total})`}
+                {`${marker}${c} (${correct}/${total}) - ${percent}%`}
               </option>
             );
           })}
-        </select>
-        {categoryTally && (
-          <span style={styles.tally}>
-            {categoryTally.correctAnswered}/{categoryTally.totalQuestions} correct · {categoryTally.percent}%
-          </span>
-        )}
+          </select>
+        </div>
       </div>
-
     </div>
   );
 }

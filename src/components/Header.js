@@ -6,7 +6,7 @@ export default function Header({ isDesktop, theme, onOpenSettings }) {
       display: "flex",
       gap: isDesktop ? 20 : 12,
       justifyContent: "space-between",
-      alignItems: "flex-start",
+      alignItems: "center",
       flexWrap: "wrap",
       marginBottom: isDesktop ? 16 : 12,
     },
@@ -34,8 +34,8 @@ export default function Header({ isDesktop, theme, onOpenSettings }) {
           style={styles.button}
           aria-label="Open settings"
         >
-          <span style={{ fontSize: 26, lineHeight: 1, marginRight: 8 }}>⚙︎</span>
-          <span style={{ fontSize: 16 }}>Settings</span>
+          <span style={{ fontSize: 26, lineHeight: 1, marginRight: isDesktop ? 8 : 0 }}>⚙︎</span>
+          {isDesktop && <span style={{ fontSize: 16 }}>Settings</span>}
         </button>
       </div>
     </div>

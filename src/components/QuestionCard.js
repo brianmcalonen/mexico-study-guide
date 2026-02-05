@@ -63,7 +63,8 @@ export default function QuestionCard({
       cursor: "pointer",
       minWidth: 80,
       flex: !isDesktop ? 1 : "unset",
-      maxWidth: isDesktop ? "unset" : 200,
+      maxWidth: isDesktop ? "unset" : "100%",
+      width: !isDesktop ? "100%" : "unset",
     },
     nextInline: {
       padding: "12px 14px",

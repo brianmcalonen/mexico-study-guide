@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState, useRef } from "react";
+import React, { useCallback, useEffect, useMemo, useState, useRef } from "react";
 import "./App.css";
 import { LS_KEY, safeParse, shuffle } from "./utils";
 import Header from "./components/Header";
@@ -199,17 +199,22 @@ export default function App() {
     };
   }, []);
 
-  function hasBeenAnsweredCorrectly(question) {
-    const row = results[String(question.qid)];
-    return (row?.right ?? 0) > 0;
-  }
+  const hasBeenAnsweredCorrectly = useCallback(
+    (question) => {
+      const row = results[String(question.qid)];
+      return (row?.right ?? 0) > 0;
+    },
+    [results]
+  );
 
   // Build deck whenever prefs change
   useEffect(() => {
     const source = mode === "mcq" ? allMcq : all;
     const filteredByCategory =
       category === "All" ? source : source.filter((q) => q.category === category);
-    const filtered = filteredByCategory.filter((q) => !hasBeenAnsweredCorrectly(q));
+    const filtered = filteredByCategory.filter(
+      (q) => (results[String(q.qid)]?.right ?? 0) === 0
+    );
     const built = order === "SHUFFLE" ? shuffle(filtered) : filtered;
 
     setDeck(built);
@@ -265,21 +270,19 @@ export default function App() {
     setMcqSelection({ index, isRight, qid });
     mcqSelectionRef.current = { index, isRight, qid };
 
-    mcqTimerRef.current = setTimeout(() => {
-      setResults((prev) => {
-        const prevRow = prev[qid] ?? { right: 0, wrong: 0, last: null };
-        return {
-          ...prev,
-          [qid]: {
-            right: prevRow.right + (isRight ? 1 : 0),
-            wrong: prevRow.wrong + (!isRight ? 1 : 0),
-            last: isRight ? "right" : "wrong",
-          },
-        };
-      });
+    setResults((prev) => {
+      const prevRow = prev[qid] ?? { right: 0, wrong: 0, last: null };
+      return {
+        ...prev,
+        [qid]: {
+          right: prevRow.right + (isRight ? 1 : 0),
+          wrong: prevRow.wrong + (!isRight ? 1 : 0),
+          last: isRight ? "right" : "wrong",
+        },
+      };
+    });
 
-      setPendingNext(true);
-    }, 800);
+    setPendingNext(true);
   }
 
   function mark(isRight) {
@@ -301,14 +304,6 @@ export default function App() {
 
     setShowAnswer(false);
     setPendingNext(true);
-  }
-
-  function prevCard() {
-    setShowAnswer(false);
-    setIdx((i) => Math.max(0, i - 1));
-    setMcqSelection(null);
-    mcqSelectionRef.current = null;
-    setPendingNext(false);
   }
 
   function nextCard() {
