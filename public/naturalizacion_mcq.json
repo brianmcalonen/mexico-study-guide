@@ -12,17 +12,17 @@
         "is_correct": true
       },
       {
-        "es": "Guanacaste tree",
+        "es": "Árbol de Guanacaste",
         "en": "Guanacaste tree",
         "is_correct": false
       },
       {
-        "es": "Cedar tree",
+        "es": "Árbol de cedro",
         "en": "Cedar tree",
         "is_correct": false
       },
       {
-        "es": "Mexican Pine",
+        "es": "Pino mexicano",
         "en": "Mexican Pine",
         "is_correct": false
       }
@@ -37,12 +37,12 @@
     "stem_en": "Mention the National Animal",
     "options": [
       {
-        "es": "Mexican wolf",
+        "es": "Lobo mexicano",
         "en": "Mexican wolf",
         "is_correct": false
       },
       {
-        "es": "Quetzal bird",
+        "es": "Pájaro quetzal",
         "en": "Quetzal bird",
         "is_correct": false
       },
@@ -72,17 +72,17 @@
         "is_correct": true
       },
       {
-        "es": "Sunflower",
+        "es": "Girasol",
         "en": "Sunflower",
         "is_correct": false
       },
       {
-        "es": "Hibiscus",
+        "es": "Hibisco",
         "en": "Hibiscus",
         "is_correct": false
       },
       {
-        "es": "Orchid",
+        "es": "Orquídea",
         "en": "Orchid",
         "is_correct": false
       }
@@ -97,22 +97,22 @@
     "stem_en": "What are the national symbols?",
     "options": [
       {
-        "es": "The national dish, the national bird, and the national dance.",
+        "es": "El platillo nacional, el ave nacional y el baile nacional.",
         "en": "The national dish, the national bird, and the national dance.",
         "is_correct": false
       },
       {
-        "es": "The national flower, the national sport, and the national tree.",
+        "es": "La flor nacional, el deporte nacional y el árbol nacional.",
         "en": "The national flower, the national sport, and the national tree.",
         "is_correct": false
       },
       {
-        "es": "La bandera, el himno nacional y el escudo",
+        "es": "La bandera, el himno nacional y el escudo de armas.",
         "en": "The flag, the national anthem, and the coat of arms.",
         "is_correct": true
       },
       {
-        "es": "The national monument, the national currency, and the national holiday.",
+        "es": "El monumento nacional, la moneda nacional y el día festivo nacional.",
         "en": "The national monument, the national currency, and the national holiday.",
         "is_correct": false
       }
@@ -127,12 +127,12 @@
     "stem_en": "The dominant theme of the Mexican national anthem is:",
     "options": [
       {
-        "es": "A tribute to the beauty of the Mexican landscape",
+        "es": "Un tributo a la belleza del paisaje mexicano",
         "en": "A tribute to the beauty of the Mexican landscape",
         "is_correct": false
       },
       {
-        "es": "A lament for historical losses and sacrifices",
+        "es": "Un lamento por las pérdidas y sacrificios históricos",
         "en": "A lament for historical losses and sacrifices",
         "is_correct": false
       },
@@ -142,7 +142,7 @@
         "is_correct": true
       },
       {
-        "es": "A celebration of national pride and unity",
+        "es": "Una celebración del orgullo nacional y la unidad",
         "en": "A celebration of national pride and unity",
         "is_correct": false
       }
@@ -217,17 +217,17 @@
     "stem_en": "Which of the national symbols was officially recognized in 1943?",
     "options": [
       {
-        "es": "The National Bird",
+        "es": "El Ave Nacional",
         "en": "The National Bird",
         "is_correct": false
       },
       {
-        "es": "The National Flag",
+        "es": "La Bandera Nacional",
         "en": "The National Flag",
         "is_correct": false
       },
       {
-        "es": "The National Flower",
+        "es": "La Flor Nacional",
         "en": "The National Flower",
         "is_correct": false
       },
@@ -337,12 +337,12 @@
     "stem_en": "In the popular speech of Mexico, the term 'marchante(a)':",
     "options": [
       {
-        "es": "It refers only to the seller in a market setting.",
+        "es": "Se refiere únicamente al vendedor en un entorno de mercado.",
         "en": "It refers only to the seller in a market setting.",
         "is_correct": false
       },
       {
-        "es": "It is a term used exclusively for street vendors.",
+        "es": "Es un término utilizado exclusivamente para los vendedores ambulantes.",
         "en": "It is a term used exclusively for street vendors.",
         "is_correct": false
       },
@@ -352,7 +352,7 @@
         "is_correct": true
       },
       {
-        "es": "It denotes a specific type of buyer in formal transactions.",
+        "es": "Denota un tipo específico de comprador en transacciones formales.",
         "en": "It denotes a specific type of buyer in formal transactions.",
         "is_correct": false
       }
@@ -367,12 +367,12 @@
     "stem_en": "The word 'chaparro' means:",
     "options": [
       {
-        "es": "A type of sweet dessert",
+        "es": "Un tipo de postre dulce",
         "en": "A type of sweet dessert",
         "is_correct": false
       },
       {
-        "es": "A common Mexican dish",
+        "es": "Un platillo mexicano común",
         "en": "A common Mexican dish",
         "is_correct": false
       },
@@ -382,7 +382,7 @@
         "is_correct": true
       },
       {
-        "es": "A traditional musical instrument",
+        "es": "Un instrumento musical tradicional",
         "en": "A traditional musical instrument",
         "is_correct": false
       }
@@ -397,22 +397,22 @@
     "stem_en": "In Mexico, a tlapalería is:",
     "options": [
       {
-        "es": "A grocery store that sells fresh produce and spices",
+        "es": "Una tienda de abarrotes que vende frutas y verduras frescas y especias",
         "en": "A grocery store that sells fresh produce and spices",
         "is_correct": false
       },
       {
-        "es": "A traditional textile shop specializing in woven goods",
+        "es": "Una tienda de textiles tradicional especializada en productos tejidos",
         "en": "A traditional textile shop specializing in woven goods",
         "is_correct": false
       },
       {
-        "es": "Una ferretería, tienda de pinturas y solventes",
+        "es": "Una ferretería, tienda de pinturas y disolventes",
         "en": "A hardware store, paint and solvent shop",
         "is_correct": true
       },
       {
-        "es": "A bakery known for its artisanal breads and pastries",
+        "es": "Una panadería conocida por sus panes y pasteles artesanales",
         "en": "A bakery known for its artisanal breads and pastries",
         "is_correct": false
       }
@@ -437,7 +437,7 @@
         "is_correct": false
       },
       {
-        "es": "Transporte Estacion",
+        "es": "Transporte Estación",
         "en": "Transporte Estacion",
         "is_correct": false
       },
@@ -467,7 +467,7 @@
         "is_correct": false
       },
       {
-        "es": "Cafeteria",
+        "es": "Cafetería",
         "en": "Cafeteria",
         "is_correct": false
       },
@@ -497,12 +497,12 @@
         "is_correct": true
       },
       {
-        "es": "Aztec Wolfdog",
+        "es": "Lobo Azteca",
         "en": "Aztec Wolfdog",
         "is_correct": false
       },
       {
-        "es": "Mexican Hairless Bull Terrier",
+        "es": "Xoloitzcuintli",
         "en": "Mexican Hairless Bull Terrier",
         "is_correct": false
       }
@@ -517,7 +517,7 @@
     "stem_en": "What do the eagle and the serpent that appear on the Mexican national coat of arms, included in the white stripe of the flag, evoke?",
     "options": [
       {
-        "es": "The legend of Quetzalcoatl's return to the Aztec Empire.",
+        "es": "La leyenda del regreso de Quetzalcóatl al Imperio Azteca.",
         "en": "The legend of Quetzalcoatl's return to the Aztec Empire.",
         "is_correct": false
       },
@@ -527,12 +527,12 @@
         "is_correct": true
       },
       {
-        "es": "The significance of the sun and moon in Aztec cosmology.",
+        "es": "La importancia del sol y la luna en la cosmología azteca.",
         "en": "The significance of the sun and moon in Aztec cosmology.",
         "is_correct": false
       },
       {
-        "es": "The ancient alliance between the Mexica and the Tlaxcalans.",
+        "es": "La antigua alianza entre los mexicas y los tlaxcaltecas.",
         "en": "The ancient alliance between the Mexica and the Tlaxcalans.",
         "is_correct": false
       }
@@ -547,12 +547,12 @@
     "stem_en": "In the national anthem, the expression 'Más si osare un extraño enemigo' means:",
     "options": [
       {
-        "es": "But if you challenge a foreign rival",
+        "es": "Pero si desafías a un rival extranjero",
         "en": "But if you challenge a foreign rival",
         "is_correct": false
       },
       {
-        "es": "Yet if a distant foe were to threaten",
+        "es": "Pero si un enemigo distante amenazara",
         "en": "Yet if a distant foe were to threaten",
         "is_correct": false
       },
@@ -562,7 +562,7 @@
         "is_correct": true
       },
       {
-        "es": "Although if an outsider attempted to invade",
+        "es": "Aunque si un extraño intentara invadir",
         "en": "Although if an outsider attempted to invade",
         "is_correct": false
       }
@@ -582,12 +582,12 @@
         "is_correct": true
       },
       {
-        "es": "Day of the Dead",
+        "es": "Día de Muertos",
         "en": "Day of the Dead",
         "is_correct": false
       },
       {
-        "es": "Revolution Day",
+        "es": "Día de la Revolución",
         "en": "Revolution Day",
         "is_correct": false
       },
@@ -607,7 +607,7 @@
     "stem_en": "What is celebrated on February 24 in Mexico?",
     "options": [
       {
-        "es": "Revolution Day",
+        "es": "Día de la Revolución",
         "en": "Revolution Day",
         "is_correct": false
       },
@@ -617,12 +617,12 @@
         "is_correct": true
       },
       {
-        "es": "Constitution Day",
+        "es": "Día de la Constitución",
         "en": "Constitution Day",
         "is_correct": false
       },
       {
-        "es": "Independence Day",
+        "es": "Día de la Independencia",
         "en": "Independence Day",
         "is_correct": false
       }
@@ -637,17 +637,17 @@
     "stem_en": "What is celebrated on May 5 in Mexico?",
     "options": [
       {
-        "es": "Day of the Dead",
+        "es": "Día de los Muertos",
         "en": "Day of the Dead",
         "is_correct": false
       },
       {
-        "es": "Mexican Independence Day",
+        "es": "Día de la Independencia de México",
         "en": "Mexican Independence Day",
         "is_correct": false
       },
       {
-        "es": "Revolution Day",
+        "es": "Día de la Revolución",
         "en": "Revolution Day",
         "is_correct": false
       },
@@ -672,17 +672,17 @@
         "is_correct": true
       },
       {
-        "es": "The Festival of the Dead (Día de Muertos)",
+        "es": "El Festival de los Muertos (Día de Muertos)",
         "en": "The Festival of the Dead (Día de Muertos)",
         "is_correct": false
       },
       {
-        "es": "The Feast of Our Lady of Guadalupe",
+        "es": "La Fiesta de Nuestra Señora de Guadalupe",
         "en": "The Feast of Our Lady of Guadalupe",
         "is_correct": false
       },
       {
-        "es": "The Day of the Cross (Día de la Cruz)",
+        "es": "El Día de la Cruz (Día de la Cruz)",
         "en": "The Day of the Cross (Día de la Cruz)",
         "is_correct": false
       }
@@ -727,17 +727,17 @@
     "stem_en": "How many archaeological zones exist in Mexico in total?",
     "options": [
       {
-        "es": "Approximately 1000",
+        "es": "Aproximadamente 1000",
         "en": "Approximately 1000",
         "is_correct": false
       },
       {
-        "es": "Around 3000",
+        "es": "Alrededor de 3000",
         "en": "Around 3000",
         "is_correct": false
       },
       {
-        "es": "Over 1500",
+        "es": "Más de 1500",
         "en": "Over 1500",
         "is_correct": false
       },
@@ -757,17 +757,17 @@
     "stem_en": "What does the monument of the Stela of Light represent?",
     "options": [
       {
-        "es": "Commemoration of the Aztec Empire and its Cultural Legacy (2021)",
+        "es": "Conmemoración del Imperio Azteca y su Legado Cultural (2021)",
         "en": "Commemoration of the Aztec Empire and its Cultural Legacy (2021)",
         "is_correct": false
       },
       {
-        "es": "Tribute to the Mexican-American War and Its Heroes (2006)",
+        "es": "Tributo a la Guerra Mexicano-Americana y sus Héroes (2006)",
         "en": "Tribute to the Mexican-American War and Its Heroes (2006)",
         "is_correct": false
       },
       {
-        "es": "Celebration of the Revolution of 1910 and Social Reforms (2005)",
+        "es": "Celebración de la Revolución de 1910 y Reformas Sociales (2005)",
         "en": "Celebration of the Revolution of 1910 and Social Reforms (2005)",
         "is_correct": false
       },
@@ -787,7 +787,7 @@
     "stem_en": "What does papalote mean?",
     "options": [
       {
-        "es": "Spider or Insect",
+        "es": "Araña o Insecto",
         "en": "Spider or Insect",
         "is_correct": false
       },
@@ -797,12 +797,12 @@
         "is_correct": true
       },
       {
-        "es": "Flower or Plant",
+        "es": "Flor o Planta",
         "en": "Flower or Plant",
         "is_correct": false
       },
       {
-        "es": "Dragonfly or Bird",
+        "es": "Libélula o Pájaro",
         "en": "Dragonfly or Bird",
         "is_correct": false
       }
@@ -817,7 +817,7 @@
     "stem_en": "Famous alley in Guanajuato",
     "options": [
       {
-        "es": "Alley of the Spirits",
+        "es": "Callejón de los Espíritus",
         "en": "Alley of the Spirits",
         "is_correct": false
       },
@@ -827,12 +827,12 @@
         "is_correct": true
       },
       {
-        "es": "Path of the Lanterns",
+        "es": "Camino de las Linternas",
         "en": "Path of the Lanterns",
         "is_correct": false
       },
       {
-        "es": "Street of the Lovers",
+        "es": "Calle de los Amantes",
         "en": "Street of the Lovers",
         "is_correct": false
       }
@@ -877,7 +877,7 @@
     "stem_en": "Which socialist politician received asylum in Mexico?",
     "options": [
       {
-        "es": "Rosa Luxemburg",
+        "es": "Rosa Luxemburgo",
         "en": "Rosa Luxemburg",
         "is_correct": false
       },
@@ -1027,22 +1027,22 @@
     "stem_en": "What does the saying 'a darle que es mole de olla' mean?",
     "options": [
       {
-        "es": "Invitación a hacer alguna cosa con buen ánimo y sin demora",
+        "es": "Invitación a hacer algo con buen espíritu y sin demora.",
         "en": "An invitation to do something with good spirit and without delay.",
         "is_correct": true
       },
       {
-        "es": "An expression indicating that something is complicated and requires careful planning.",
+        "es": "Expresión que indica que algo es complicado y requiere una planificación cuidadosa.",
         "en": "An expression indicating that something is complicated and requires careful planning.",
         "is_correct": false
       },
       {
-        "es": "A warning to be cautious and avoid hasty decisions.",
+        "es": "Advertencia para ser cauteloso y evitar decisiones apresuradas.",
         "en": "A warning to be cautious and avoid hasty decisions.",
         "is_correct": false
       },
       {
-        "es": "A suggestion to take a break and relax for a while.",
+        "es": "Sugerencia para tomar un descanso y relajarse un rato.",
         "en": "A suggestion to take a break and relax for a while.",
         "is_correct": false
       }
@@ -1057,7 +1057,7 @@
     "stem_en": "What is the National Dance of Mexico?",
     "options": [
       {
-        "es": "Jarabe Tapatio",
+        "es": "Jarabe Tapatío",
         "en": "Jarabe Tapatio",
         "is_correct": true
       },
@@ -1072,7 +1072,7 @@
         "is_correct": false
       },
       {
-        "es": "Zapata Dance",
+        "es": "Danza Zapata",
         "en": "Zapata Dance",
         "is_correct": false
       }
@@ -1122,17 +1122,17 @@
         "is_correct": true
       },
       {
-        "es": "Knowledge is the key to my future",
+        "es": "El conocimiento es la clave de mi futuro",
         "en": "Knowledge is the key to my future",
         "is_correct": false
       },
       {
-        "es": "Unity will guide our destiny",
+        "es": "La unidad guiará nuestro destino",
         "en": "Unity will guide our destiny",
         "is_correct": false
       },
       {
-        "es": "Education will illuminate our path",
+        "es": "La educación iluminará nuestro camino",
         "en": "Education will illuminate our path",
         "is_correct": false
       }
@@ -1177,12 +1177,12 @@
     "stem_en": "What is the motto of the Universidad Autónoma Metropolitana (UAM)?",
     "options": [
       {
-        "es": "Paths to Excellence",
+        "es": "Caminos hacia la Excelencia",
         "en": "Paths to Excellence",
         "is_correct": false
       },
       {
-        "es": "Knowledge is Power",
+        "es": "El conocimiento es poder",
         "en": "Knowledge is Power",
         "is_correct": false
       },
@@ -1192,7 +1192,7 @@
         "is_correct": true
       },
       {
-        "es": "Unity in Diversity",
+        "es": "Unidad en la Diversidad",
         "en": "Unity in Diversity",
         "is_correct": false
       }
@@ -1242,17 +1242,17 @@
         "is_correct": true
       },
       {
-        "es": "To the alcohol rehabilitation center",
+        "es": "Al centro de rehabilitación de alcoholismo",
         "en": "To the alcohol rehabilitation center",
         "is_correct": false
       },
       {
-        "es": "To the traffic court",
+        "es": "Al tribunal de tránsito",
         "en": "To the traffic court",
         "is_correct": false
       },
       {
-        "es": "To the community service program",
+        "es": "Al programa de servicio comunitario",
         "en": "To the community service program",
         "is_correct": false
       }
@@ -1272,17 +1272,17 @@
         "is_correct": true
       },
       {
-        "es": "Festival of the Virgen de la Luz",
+        "es": "Festival de la Virgen de la Luz",
         "en": "Festival of the Virgen de la Luz",
         "is_correct": false
       },
       {
-        "es": "Posada Celebration Series",
+        "es": "Serie de Celebración Posada",
         "en": "Posada Celebration Series",
         "is_correct": false
       },
       {
-        "es": "Christmas Fiesta Period",
+        "es": "Fiesta Navideña",
         "en": "Christmas Fiesta Period",
         "is_correct": false
       }
@@ -1297,7 +1297,7 @@
     "stem_en": "What is celebrated on May 10th?",
     "options": [
       {
-        "es": "Labor Day",
+        "es": "El día del trabajo",
         "en": "Labor Day",
         "is_correct": false
       },
@@ -1307,12 +1307,12 @@
         "is_correct": true
       },
       {
-        "es": "Children's Day",
+        "es": "El día del niño",
         "en": "Children's Day",
         "is_correct": false
       },
       {
-        "es": "Teacher's Day",
+        "es": "El día del maestro",
         "en": "Teacher's Day",
         "is_correct": false
       }
@@ -1327,7 +1327,7 @@
     "stem_en": "What is known as the beautiful windy city?",
     "options": [
       {
-        "es": "the vibrant city of Mérida",
+        "es": "La vibrante ciudad de Mérida",
         "en": "the vibrant city of Mérida",
         "is_correct": false
       },
@@ -1337,12 +1337,12 @@
         "is_correct": true
       },
       {
-        "es": "the historic city of Guadalajara",
+        "es": "La ciudad histórica de Guadalajara",
         "en": "the historic city of Guadalajara",
         "is_correct": false
       },
       {
-        "es": "the coastal city of Veracruz",
+        "es": "La ciudad costera de Veracruz",
         "en": "the coastal city of Veracruz",
         "is_correct": false
       }
@@ -1357,22 +1357,22 @@
     "stem_en": "What are the Voladores de Papantla?",
     "options": [
       {
-        "es": "Ceremonial Dance of the Yucatán Peninsula",
+        "es": "Danza Ceremonial de la Península de Yucatán",
         "en": "Ceremonial Dance of the Yucatán Peninsula",
         "is_correct": false
       },
       {
-        "es": "Danza Indígna de Veracruz.",
+        "es": "Danza Indígena de Veracruz.",
         "en": "Indigenous Dance of Veracruz.",
         "is_correct": true
       },
       {
-        "es": "Folkloric Festival of Puebla",
+        "es": "Festival Folklórico de Puebla",
         "en": "Folkloric Festival of Puebla",
         "is_correct": false
       },
       {
-        "es": "Traditional Music of Oaxaca",
+        "es": "Música Tradicional de Oaxaca",
         "en": "Traditional Music of Oaxaca",
         "is_correct": false
       }
@@ -1387,17 +1387,17 @@
     "stem_en": "What is the name of the Aqueduct System of CDMX and EDOmex?",
     "options": [
       {
-        "es": "Xochimilco Canal System",
+        "es": "Sistema de Canales de Xochimilco",
         "en": "Xochimilco Canal System",
         "is_correct": false
       },
       {
-        "es": "Teotihuacan Waterway",
+        "es": "Vía Acuática de Teotihuacan",
         "en": "Teotihuacan Waterway",
         "is_correct": false
       },
       {
-        "es": "Chalco Aqueduct",
+        "es": "Acueducto de Chalco",
         "en": "Chalco Aqueduct",
         "is_correct": false
       },
@@ -1417,7 +1417,7 @@
     "stem_en": "First Mexican Miss Universe",
     "options": [
       {
-        "es": "Rosa María de la Torre",
+        "es": "Rosa María (Rosita) de la Torre",
         "en": "Rosa María de la Torre",
         "is_correct": false
       },
@@ -1427,12 +1427,12 @@
         "is_correct": false
       },
       {
-        "es": "Maria Guadalupe (Lupita) Jones",
+        "es": "María Guadalupe (Lupita) Jones",
         "en": "Maria Guadalupe (Lupita) Jones",
         "is_correct": true
       },
       {
-        "es": "Ana Patricia González",
+        "es": "Ana Patricia (Paty) González",
         "en": "Ana Patricia González",
         "is_correct": false
       }
@@ -1447,17 +1447,17 @@
     "stem_en": "Who were the Mexican winners of Miss Universe?",
     "options": [
       {
-        "es": "Ximena Navarrete and Sofia Reyes",
+        "es": "Ximena Navarrete y Sofía Reyes",
         "en": "Ximena Navarrete and Sofia Reyes",
         "is_correct": false
       },
       {
-        "es": "Elisa Najera and Gabriela Isler",
+        "es": "Elisa Najera y Gabriela Isler",
         "en": "Elisa Najera and Gabriela Isler",
         "is_correct": false
       },
       {
-        "es": "Patricia Manterola and Andrea Meza",
+        "es": "Patricia Manterola y Andrea Meza",
         "en": "Patricia Manterola and Andrea Meza",
         "is_correct": false
       },
@@ -1602,17 +1602,17 @@
         "is_correct": true
       },
       {
-        "es": "The Constitution of 1917",
+        "es": "La Constitución de 1917",
         "en": "The Constitution of 1917",
         "is_correct": false
       },
       {
-        "es": "The Constitution of 1836",
+        "es": "La Constitución de 1836",
         "en": "The Constitution of 1836",
         "is_correct": false
       },
       {
-        "es": "The Constitution of 1824",
+        "es": "La Constitución de 1824",
         "en": "The Constitution of 1824",
         "is_correct": false
       }
@@ -1627,7 +1627,7 @@
     "stem_en": "It is customary to sing 'Las golondrinas' to:",
     "options": [
       {
-        "es": "Honor a deceased loved one",
+        "es": "Honrar a un ser querido fallecido",
         "en": "Honor a deceased loved one",
         "is_correct": false
       },
@@ -1637,12 +1637,12 @@
         "is_correct": true
       },
       {
-        "es": "Celebrate a wedding anniversary",
+        "es": "Celebrar un aniversario de boda",
         "en": "Celebrate a wedding anniversary",
         "is_correct": false
       },
       {
-        "es": "Welcome a newborn baby",
+        "es": "Dar la bienvenida a un recién nacido",
         "en": "Welcome a newborn baby",
         "is_correct": false
       }
@@ -1667,7 +1667,7 @@
         "is_correct": true
       },
       {
-        "es": "La canción del cumpleaños",
+        "es": "Spanish: La canción de cumpleaños",
         "en": "La canción del cumpleaños",
         "is_correct": false
       },
@@ -1757,7 +1757,7 @@
         "is_correct": false
       },
       {
-        "es": "Leon, Guanajuato",
+        "es": "León, Guanajuato",
         "en": "Leon, Guanajuato",
         "is_correct": true
       },
@@ -1777,7 +1777,7 @@
     "stem_en": "What was the name of the official residence of the president of Mexico before becoming a museum?",
     "options": [
       {
-        "es": "Chapultepec Castle",
+        "es": "Castillo de Chapultepec",
         "en": "Chapultepec Castle",
         "is_correct": false
       },
@@ -1867,7 +1867,7 @@
     "stem_en": "Library considered a cultural heritage by UNESCO",
     "options": [
       {
-        "es": "Library of the Mexican Academy of Sciences",
+        "es": "Biblioteca de la Academia Mexicana de Ciencias",
         "en": "Library of the Mexican Academy of Sciences",
         "is_correct": false
       },
@@ -1877,12 +1877,12 @@
         "is_correct": true
       },
       {
-        "es": "Library of the National Institute of Anthropology and History",
+        "es": "Biblioteca del Instituto Nacional de Antropología e Historia",
         "en": "Library of the National Institute of Anthropology and History",
         "is_correct": false
       },
       {
-        "es": "National Library of Mexico",
+        "es": "Biblioteca Nacional de México",
         "en": "National Library of Mexico",
         "is_correct": false
       }
@@ -1957,7 +1957,7 @@
     "stem_en": "A festivity that is intangible cultural heritage of humanity or a festival inscribed in the cultural heritage",
     "options": [
       {
-        "es": "Quinceañera Celebration",
+        "es": "Celebración de Quinceañera",
         "en": "Quinceañera Celebration",
         "is_correct": false
       },
@@ -1967,7 +1967,7 @@
         "is_correct": true
       },
       {
-        "es": "Mexican Independence Day",
+        "es": "Día de la Independencia de México",
         "en": "Mexican Independence Day",
         "is_correct": false
       },
@@ -2182,7 +2182,7 @@
         "is_correct": false
       },
       {
-        "es": "Alejandro González iñárritu (4) <br/>Emmanuel Lubezki (3) <br/>Alfonso Cuarón (2) <br/>Anthony Quinn (2) <br/>Guillermo del Toro (2) <br/>Emile Kuri (2)",
+        "es": "Alejandro González Iñárritu (4) <br/>Emmanuel Lubezki (3) <br/>Alfonso Cuarón (2) <br/>Anthony Quinn (2) <br/>Guillermo del Toro (2) <br/>Emile Kuri (2)",
         "en": "Alejandro González Iñárritu (4) <br/>Emmanuel Lubezki (3) <br/>Alfonso Cuarón (2) <br/>Anthony Quinn (2) <br/>Guillermo del Toro (2) <br/>Emile Kuri (2)",
         "is_correct": true
       }
@@ -2197,17 +2197,17 @@
     "stem_en": "Which Mexican actor has won two Oscars for Best Actor?",
     "options": [
       {
-        "es": "Gael García Bernal in 2005 and 2010",
+        "es": "Gael García Bernal en 2005 y 2010",
         "en": "Gael García Bernal in 2005 and 2010",
         "is_correct": false
       },
       {
-        "es": "Salma Hayek in 2003 and 2018",
+        "es": "Salma Hayek en 2003 y 2018",
         "en": "Salma Hayek in 2003 and 2018",
         "is_correct": false
       },
       {
-        "es": "Diego Luna in 2003 and 2007",
+        "es": "Diego Luna en 2003 y 2007",
         "en": "Diego Luna in 2003 and 2007",
         "is_correct": false
       },
@@ -2257,7 +2257,7 @@
     "stem_en": "Who won 2 Oscars for Best Director?",
     "options": [
       {
-        "es": "Alejandro Gonzalez Iñarritu",
+        "es": "Alejandro Gonzalez Iñárritu",
         "en": "Alejandro Gonzalez Iñárritu",
         "is_correct": true
       },
@@ -2332,7 +2332,7 @@
         "is_correct": false
       },
       {
-        "es": "Mario Moreno 'Cantinflas'",
+        "es": "Mario Moreno 'Cantinflas",
         "en": "Mario Moreno 'Cantinflas'",
         "is_correct": false
       }
@@ -2382,7 +2382,7 @@
         "is_correct": false
       },
       {
-        "es": "Sylvia Pinal",
+        "es": "Silvia Pinal",
         "en": "Sylvia Pinal",
         "is_correct": false
       },
@@ -2497,7 +2497,7 @@
     "stem_en": "What did the first film made in Mexico in 1896 in Chapultepec Forest show?",
     "options": [
       {
-        "es": "An aerial view of Mexico City",
+        "es": "Una vista aérea de la Ciudad de México",
         "en": "An aerial view of Mexico City",
         "is_correct": false
       },
@@ -2507,12 +2507,12 @@
         "is_correct": true
       },
       {
-        "es": "A performance of traditional mariachi music",
+        "es": "Una presentación de música tradicional de mariachi",
         "en": "A performance of traditional mariachi music",
         "is_correct": false
       },
       {
-        "es": "A parade celebrating Mexican Independence",
+        "es": "Un desfile celebrando la Independencia de México",
         "en": "A parade celebrating Mexican Independence",
         "is_correct": false
       }
@@ -2527,12 +2527,12 @@
     "stem_en": "What was the first color movie in Mexico released in 1942?",
     "options": [
       {
-        "es": "Bailando en el aire",
+        "es": "¡Bailando en el aire!",
         "en": "Bailando en el aire",
         "is_correct": false
       },
       {
-        "es": "Cielo rojo en la noche",
+        "es": "¡Cielo rojo en la noche!",
         "en": "Cielo rojo en la noche",
         "is_correct": false
       },
@@ -2587,7 +2587,7 @@
     "stem_en": "Which actor played El Chavo del Ocho?",
     "options": [
       {
-        "es": "Chespirito's partner in comedy, Ramón Valdés",
+        "es": "Ramón Valdés, compañero de comedia de Chespirito",
         "en": "Chespirito's partner in comedy, Ramón Valdés",
         "is_correct": false
       },
@@ -2597,12 +2597,12 @@
         "is_correct": true
       },
       {
-        "es": "Carlos Villagrán, known for playing Quico",
+        "es": "Carlos Villagrán, conocido por interpretar a Quico",
         "en": "Carlos Villagrán, known for playing Quico",
         "is_correct": false
       },
       {
-        "es": "Fernando Arau, famous for his roles in children's shows",
+        "es": "Fernando Arau, famoso por sus papeles en programas infantiles",
         "en": "Fernando Arau, famous for his roles in children's shows",
         "is_correct": false
       }
@@ -2647,12 +2647,12 @@
     "stem_en": "What is the Mexican cinema period from 1896 to 1931 called?",
     "options": [
       {
-        "es": "Golden Age of Mexican Cinema",
+        "es": "Época de Oro del Cine Mexicano",
         "en": "Golden Age of Mexican Cinema",
         "is_correct": false
       },
       {
-        "es": "Revolutionary Film Movement",
+        "es": "Movimiento Cinematográfico Revolucionario",
         "en": "Revolutionary Film Movement",
         "is_correct": false
       },
@@ -2662,7 +2662,7 @@
         "is_correct": true
       },
       {
-        "es": "Post-Revolutionary Cinema",
+        "es": "Cine Post-Revolucionario",
         "en": "Post-Revolutionary Cinema",
         "is_correct": false
       }
@@ -2712,17 +2712,17 @@
         "is_correct": true
       },
       {
-        "es": "Cinematic Renaissance",
+        "es": "Renacimiento Cinematográfico",
         "en": "Cinematic Renaissance",
         "is_correct": false
       },
       {
-        "es": "Golden Age",
+        "es": "Edad de Oro",
         "en": "Golden Age",
         "is_correct": false
       },
       {
-        "es": "Cultural Revolution",
+        "es": "Revolución Cultural",
         "en": "Cultural Revolution",
         "is_correct": false
       }
@@ -2767,17 +2767,17 @@
     "stem_en": "What is the Mexican cinema period from 1940 to 1952 called?",
     "options": [
       {
-        "es": "Silver Screen Era",
+        "es": "Época de la Pantalla Plateada",
         "en": "Silver Screen Era",
         "is_correct": false
       },
       {
-        "es": "Cinematic Renaissance",
+        "es": "Renacimiento Cinematográfico",
         "en": "Cinematic Renaissance",
         "is_correct": false
       },
       {
-        "es": "Classic Film Movement",
+        "es": "Movimiento de Cine Clásico",
         "en": "Classic Film Movement",
         "is_correct": false
       },
@@ -2832,17 +2832,17 @@
         "is_correct": true
       },
       {
-        "es": "Golden Age of Cinema",
+        "es": "Época Dorada del Cine",
         "en": "Golden Age of Cinema",
         "is_correct": false
       },
       {
-        "es": "Film Renaissance Era",
+        "es": "Era del Renacimiento Cinematográfico",
         "en": "Film Renaissance Era",
         "is_correct": false
       },
       {
-        "es": "Cinematic Revolution Period",
+        "es": "Período de Revolución Cinematográfica",
         "en": "Cinematic Revolution Period",
         "is_correct": false
       }
@@ -2892,17 +2892,17 @@
         "is_correct": true
       },
       {
-        "es": "Transformation of the Art Cinema Movement",
+        "es": "Transformación del Movimiento de Cine de Arte",
         "en": "Transformation of the Art Cinema Movement",
         "is_correct": false
       },
       {
-        "es": "Emergence of the Golden Age of Cinema",
+        "es": "Aparición de la Edad de Oro del Cine",
         "en": "Emergence of the Golden Age of Cinema",
         "is_correct": false
       },
       {
-        "es": "Revival of Mexican Film Noir",
+        "es": "Renacimiento del Cine Noir Mexicano",
         "en": "Revival of Mexican Film Noir",
         "is_correct": false
       }
@@ -2947,17 +2947,17 @@
     "stem_en": "What is the Mexican cinema period from 1976 to 1994, characterized by a weakened industry, called?",
     "options": [
       {
-        "es": "Decline of Golden Age Cinema",
+        "es": "Declive del Cine de la Edad de Oro",
         "en": "Decline of Golden Age Cinema",
         "is_correct": false
       },
       {
-        "es": "Crisis of the Silver Screen",
+        "es": "Crisis de la Pantalla Plateada",
         "en": "Crisis of the Silver Screen",
         "is_correct": false
       },
       {
-        "es": "The Silent Era Revival",
+        "es": "El Renacimiento de la Era Silenciosa",
         "en": "The Silent Era Revival",
         "is_correct": false
       },
@@ -3012,17 +3012,17 @@
         "is_correct": true
       },
       {
-        "es": "Cinematic Renaissance",
+        "es": "Renacimiento Cinematográfico",
         "en": "Cinematic Renaissance",
         "is_correct": false
       },
       {
-        "es": "Cultural Revival Movement",
+        "es": "Movimiento de Revitalización Cultural",
         "en": "Cultural Revival Movement",
         "is_correct": false
       },
       {
-        "es": "New Wave Cinema",
+        "es": "Cine de Nueva Ola",
         "en": "New Wave Cinema",
         "is_correct": false
       }
@@ -3137,7 +3137,7 @@
         "is_correct": false
       },
       {
-        "es": "Mario J. Molina",
+        "es": "Mario José Molina",
         "en": "Mario J. Molina",
         "is_correct": false
       },
@@ -3172,7 +3172,7 @@
         "is_correct": false
       },
       {
-        "es": "Mario J. Molina",
+        "es": "Mario José Molina",
         "en": "Mario J. Molina",
         "is_correct": false
       }
@@ -3247,17 +3247,17 @@
     "stem_en": "What was inaugurated during the presidential term of Abelardo Rodríguez Lujan?",
     "options": [
       {
-        "es": "The National Palace",
+        "es": "El Palacio Nacional",
         "en": "The National Palace",
         "is_correct": false
       },
       {
-        "es": "The National Museum of Anthropology",
+        "es": "El Museo Nacional de Antropología",
         "en": "The National Museum of Anthropology",
         "is_correct": false
       },
       {
-        "es": "The Chapultepec Castle",
+        "es": "El Castillo de Chapultepec",
         "en": "The Chapultepec Castle",
         "is_correct": false
       },
@@ -3317,7 +3317,7 @@
         "is_correct": true
       },
       {
-        "es": "Cultura Viva Award",
+        "es": "Premio Cultura Viva",
         "en": "Cultura Viva Award",
         "is_correct": false
       },
@@ -3792,17 +3792,17 @@
         "is_correct": true
       },
       {
-        "es": "The Death of Artemio Cruz",
+        "es": "La muerte de Artemio Cruz",
         "en": "The Death of Artemio Cruz",
         "is_correct": false
       },
       {
-        "es": "The Labyrinth of Solitude",
+        "es": "El Laberinto de la Soledad",
         "en": "The Labyrinth of Solitude",
         "is_correct": false
       },
       {
-        "es": "The House on Mango Street",
+        "es": "La Casa en la Calle Mango",
         "en": "The House on Mango Street",
         "is_correct": false
       }
@@ -3937,12 +3937,12 @@
     "stem_en": "Book written by Francisco I. Madero",
     "options": [
       {
-        "es": "The revolutionary manifesto",
+        "es": "El manifiesto revolucionario",
         "en": "The revolutionary manifesto",
         "is_correct": false
       },
       {
-        "es": "The call to arms",
+        "es": "La convocatoria a las armas",
         "en": "The call to arms",
         "is_correct": false
       },
@@ -3952,7 +3952,7 @@
         "is_correct": true
       },
       {
-        "es": "The principles of democracy",
+        "es": "Los principios de la democracia",
         "en": "The principles of democracy",
         "is_correct": false
       }
@@ -4242,17 +4242,17 @@
         "is_correct": true
       },
       {
-        "es": "Ode to the Land of the Sun",
+        "es": "Oda a la Tierra del Sol",
         "en": "Ode to the Land of the Sun",
         "is_correct": false
       },
       {
-        "es": "The Beauty of the New World",
+        "es": "La Belleza del Nuevo Mundo",
         "en": "The Beauty of the New World",
         "is_correct": false
       },
       {
-        "es": "Reflections on the Aztec Empire",
+        "es": "Reflexiones sobre el Imperio Azteca",
         "en": "Reflections on the Aztec Empire",
         "is_correct": false
       }
@@ -4692,17 +4692,17 @@
         "is_correct": true
       },
       {
-        "es": "Francisco Zúñiga, recognized for his large-scale figures and human forms",
+        "es": "Francisco Zúñiga, reconocido por sus figuras a gran escala y formas humanas",
         "en": "Francisco Zúñiga, recognized for his large-scale figures and human forms",
         "is_correct": false
       },
       {
-        "es": "Jorge Marín González, known for his bronze sculptures in public spaces",
+        "es": "Jorge Marín González, conocido por sus esculturas de bronce en espacios públicos",
         "en": "Jorge Marín González, known for his bronze sculptures in public spaces",
         "is_correct": false
       },
       {
-        "es": "Rufino Tamayo, famous for his modernist paintings and murals",
+        "es": "Rufino Tamayo, famoso por sus pinturas y murales modernistas",
         "en": "Rufino Tamayo, famous for his modernist paintings and murals",
         "is_correct": false
       }
@@ -4752,7 +4752,7 @@
         "is_correct": true
       },
       {
-        "es": "La Bamba de Veracru",
+        "es": "La Bamba de Veracruz",
         "en": "La Bamba de Veracru",
         "is_correct": false
       },
@@ -4807,7 +4807,7 @@
     "stem_en": "What is the name of Juan Gabriel (El Divo de Juarez)?",
     "options": [
       {
-        "es": "Fernando Araujo Gonzalez",
+        "es": "Fernando Araujo González",
         "en": "Fernando Araujo Gonzalez",
         "is_correct": false
       },
@@ -4822,7 +4822,7 @@
         "is_correct": true
       },
       {
-        "es": "Javier Solis Ramirez",
+        "es": "Javier Solís Ramírez",
         "en": "Javier Solis Ramirez",
         "is_correct": false
       }
@@ -4852,7 +4852,7 @@
         "is_correct": false
       },
       {
-        "es": "Volibol",
+        "es": "Voleibol",
         "en": "Volibol",
         "is_correct": false
       }
@@ -5077,12 +5077,12 @@
     "stem_en": "What did Mexican athletes excel in at the 2012 Olympics?",
     "options": [
       {
-        "es": "Baseball, Football, Fencing, and Gymnastics",
+        "es": "Béisbol, Fútbol, Esgrima y Gimnasia",
         "en": "Baseball, Football, Fencing, and Gymnastics",
         "is_correct": false
       },
       {
-        "es": "Volleyball, Cycling, Table Tennis, and Weightlifting",
+        "es": "Voleibol, Ciclismo, Tenis de Mesa y Halterofilia",
         "en": "Volleyball, Cycling, Table Tennis, and Weightlifting",
         "is_correct": false
       },
@@ -5092,7 +5092,7 @@
         "is_correct": true
       },
       {
-        "es": "Basketball, Wrestling, Judo, and Swimming",
+        "es": "Baloncesto, Lucha, Judo y Natación",
         "en": "Basketball, Wrestling, Judo, and Swimming",
         "is_correct": false
       }
@@ -5137,17 +5137,17 @@
     "stem_en": "In which years did Mexico host the FIFA World Cup?",
     "options": [
       {
-        "es": "1966 and 1982",
+        "es": "1966 y 1982",
         "en": "1966 and 1982",
         "is_correct": false
       },
       {
-        "es": "1984 and 1994",
+        "es": "1984 y 1994",
         "en": "1984 and 1994",
         "is_correct": false
       },
       {
-        "es": "1974 and 1990",
+        "es": "1974 y 1990",
         "en": "1974 and 1990",
         "is_correct": false
       },
@@ -5182,7 +5182,7 @@
         "is_correct": false
       },
       {
-        "es": "Oscar De La Hoya",
+        "es": "Óscar De La Hoya",
         "en": "Oscar De La Hoya",
         "is_correct": false
       }
@@ -5502,7 +5502,7 @@
         "is_correct": false
       },
       {
-        "es": "Bunuelos de Viento",
+        "es": "Buñuelos de Viento",
         "en": "Bunuelos de Viento",
         "is_correct": false
       },
@@ -5767,7 +5767,7 @@
     "stem_en": "Which larvae are taken from the maguey plant and eaten as food in Mexico?",
     "options": [
       {
-        "es": "Agave beetles",
+        "es": "Escarabajos de agave",
         "en": "Agave beetles",
         "is_correct": false
       },
@@ -5777,12 +5777,12 @@
         "is_correct": true
       },
       {
-        "es": "Cactus grubs",
+        "es": "Gusanos de cactus",
         "en": "Cactus grubs",
         "is_correct": false
       },
       {
-        "es": "Tequila larvae",
+        "es": "Larvas de tequila",
         "en": "Tequila larvae",
         "is_correct": false
       }
@@ -5837,12 +5837,12 @@
         "is_correct": true
       },
       {
-        "es": "Agave",
+        "es": "Maguey",
         "en": "Agave",
         "is_correct": false
       },
       {
-        "es": "Henequen",
+        "es": "Henequén",
         "en": "Henequen",
         "is_correct": false
       }
@@ -5927,7 +5927,7 @@
         "is_correct": false
       },
       {
-        "es": "Nectar",
+        "es": "Néctar",
         "en": "Nectar",
         "is_correct": false
       },
@@ -6217,7 +6217,7 @@
     "stem_en": "Which Mexican fruit is one of the main export products worldwide and the base of guacamole?",
     "options": [
       {
-        "es": "Pineapple",
+        "es": "Piña",
         "en": "Pineapple",
         "is_correct": false
       },
@@ -6227,7 +6227,7 @@
         "is_correct": true
       },
       {
-        "es": "Tomatillo",
+        "es": "Tomate verde",
         "en": "Tomatillo",
         "is_correct": false
       },
@@ -6282,7 +6282,7 @@
         "is_correct": false
       },
       {
-        "es": "Avocado",
+        "es": "Aguacate",
         "en": "Avocado",
         "is_correct": false
       },
@@ -6292,7 +6292,7 @@
         "is_correct": true
       },
       {
-        "es": "Chili pepper",
+        "es": "Chile",
         "en": "Chili pepper",
         "is_correct": false
       }
@@ -6307,7 +6307,7 @@
     "stem_en": "Which Mexican seed gave rise to chocolate and was considered sacred by pre-Hispanic cultures?",
     "options": [
       {
-        "es": "Chia",
+        "es": "Chía",
         "en": "Chia",
         "is_correct": false
       },
@@ -6337,7 +6337,7 @@
     "stem_en": "Which bird domesticated in Mesoamerica is known in Mexico as guajolote?",
     "options": [
       {
-        "es": "Goose",
+        "es": "Ganso",
         "en": "Goose",
         "is_correct": false
       },
@@ -6347,12 +6347,12 @@
         "is_correct": true
       },
       {
-        "es": "Duck",
+        "es": "Pato",
         "en": "Duck",
         "is_correct": false
       },
       {
-        "es": "Chicken",
+        "es": "Pollo",
         "en": "Chicken",
         "is_correct": false
       }
@@ -6367,17 +6367,17 @@
     "stem_en": "The soursop is a fruit:",
     "options": [
       {
-        "es": "With spiky skin and tart seeds",
+        "es": "De piel espinosa y semillas ácidas",
         "en": "With spiky skin and tart seeds",
         "is_correct": false
       },
       {
-        "es": "With smooth skin and red pulp",
+        "es": "De cáscara suave y pulpa roja",
         "en": "With smooth skin and red pulp",
         "is_correct": false
       },
       {
-        "es": "With yellow skin and sweet flesh",
+        "es": "De cáscara amarilla y pulpa dulce",
         "en": "With yellow skin and sweet flesh",
         "is_correct": false
       },
@@ -6432,17 +6432,17 @@
         "is_correct": true
       },
       {
-        "es": "Pork",
+        "es": "Cerdo",
         "en": "Pork",
         "is_correct": false
       },
       {
-        "es": "Lamb",
+        "es": "Cordero",
         "en": "Lamb",
         "is_correct": false
       },
       {
-        "es": "Beef",
+        "es": "Res",
         "en": "Beef",
         "is_correct": false
       }
@@ -6592,7 +6592,7 @@
         "is_correct": false
       },
       {
-        "es": "trompeta",
+        "es": "Trompeta",
         "en": "trompeta",
         "is_correct": false
       }
@@ -6607,7 +6607,7 @@
     "stem_en": "What does the name Mexico mean?",
     "options": [
       {
-        "es": "Land of the jaguar",
+        "es": "Tierra del jaguar",
         "en": "Land of the jaguar",
         "is_correct": false
       },
@@ -6617,12 +6617,12 @@
         "is_correct": true
       },
       {
-        "es": "Heart of the valley",
+        "es": "Corazón del valle",
         "en": "Heart of the valley",
         "is_correct": false
       },
       {
-        "es": "Center of the sun",
+        "es": "Centro del sol",
         "en": "Center of the sun",
         "is_correct": false
       }
@@ -6637,12 +6637,12 @@
     "stem_en": "What is the pre-Columbian skeleton discovered in 1947 on the shores of Lake Texcoco called?",
     "options": [
       {
-        "es": "Tlatelolco Man",
+        "es": "Hombre de Tlatelolco",
         "en": "Tlatelolco Man",
         "is_correct": false
       },
       {
-        "es": "Mexica Skeleton",
+        "es": "Esqueleto Mexica",
         "en": "Mexica Skeleton",
         "is_correct": false
       },
@@ -6652,7 +6652,7 @@
         "is_correct": true
       },
       {
-        "es": "Chalco Woman",
+        "es": "Mujer de Chalco",
         "en": "Chalco Woman",
         "is_correct": false
       }
@@ -6667,12 +6667,12 @@
     "stem_en": "What was used for trade in the pre-Hispanic era / what was used as currency in the pre-Hispanic era?",
     "options": [
       {
-        "es": "Cotton",
+        "es": "Algodón",
         "en": "Cotton",
         "is_correct": false
       },
       {
-        "es": "Obsidian",
+        "es": "Obsidiana",
         "en": "Obsidian",
         "is_correct": false
       },
@@ -6682,7 +6682,7 @@
         "is_correct": true
       },
       {
-        "es": "Gold",
+        "es": "Oro",
         "en": "Gold",
         "is_correct": false
       }
@@ -6697,7 +6697,7 @@
     "stem_en": "Who is credited with the creation of Zero?",
     "options": [
       {
-        "es": "The Aztecs",
+        "es": "A los aztecas",
         "en": "The Aztecs",
         "is_correct": false
       },
@@ -6707,12 +6707,12 @@
         "is_correct": true
       },
       {
-        "es": "The Incas",
+        "es": "A los incas",
         "en": "The Incas",
         "is_correct": false
       },
       {
-        "es": "The Sumerians",
+        "es": "A los sumerios",
         "en": "The Sumerians",
         "is_correct": false
       }
@@ -6742,7 +6742,7 @@
         "is_correct": true
       },
       {
-        "es": "Mixtec",
+        "es": "Mixteco",
         "en": "Mixtec",
         "is_correct": false
       }
@@ -6762,7 +6762,7 @@
         "is_correct": true
       },
       {
-        "es": "Zapotec",
+        "es": "Zapoteco",
         "en": "Zapotec",
         "is_correct": false
       },
@@ -6787,7 +6787,7 @@
     "stem_en": "Which indigenous people native to Michoacán, also called Tarascan, developed a pre-Hispanic civilization around Lake Pátzcuaro?",
     "options": [
       {
-        "es": "Mazahua",
+        "es": "Mazahuas",
         "en": "Mazahua",
         "is_correct": false
       },
@@ -6797,7 +6797,7 @@
         "is_correct": false
       },
       {
-        "es": "Otomí",
+        "es": "Otomíes",
         "en": "Otomí",
         "is_correct": false
       },
@@ -6817,7 +6817,7 @@
     "stem_en": "Which indigenous people of Tabasco, known for living near rivers and jungles, preserve ancestral traditions and their own language?",
     "options": [
       {
-        "es": "Mixtec",
+        "es": "Mixteco",
         "en": "Mixtec",
         "is_correct": false
       },
@@ -6832,7 +6832,7 @@
         "is_correct": true
       },
       {
-        "es": "Huastec",
+        "es": "Huasteco",
         "en": "Huastec",
         "is_correct": false
       }
@@ -6887,7 +6887,7 @@
         "is_correct": false
       },
       {
-        "es": "Chichen Itza",
+        "es": "Chichén Itzá",
         "en": "Chichen Itza",
         "is_correct": false
       },
@@ -6907,12 +6907,12 @@
     "stem_en": "When were the pyramids of the sun and moon built?",
     "options": [
       {
-        "es": "Between the year 400 and 600 AD",
+        "es": "Entre el año 400 y 600 DC",
         "en": "Between the year 400 and 600 AD",
         "is_correct": false
       },
       {
-        "es": "Between the year 300 and 500 AD",
+        "es": "Entre el año 300 y 500 DC",
         "en": "Between the year 300 and 500 AD",
         "is_correct": false
       },
@@ -6922,7 +6922,7 @@
         "is_correct": true
       },
       {
-        "es": "Between the year 100 and 300 BC",
+        "es": "Entre el año 100 y 300 a.C.",
         "en": "Between the year 100 and 300 BC",
         "is_correct": false
       }
@@ -6937,17 +6937,17 @@
     "stem_en": "What does Teotihuacán mean?",
     "options": [
       {
-        "es": "Place of Eternal Light",
+        "es": "Lugar de Luz Eterna",
         "en": "Place of Eternal Light",
         "is_correct": false
       },
       {
-        "es": "Home of the Ancients",
+        "es": "Hogar de los Antiguos",
         "en": "Home of the Ancients",
         "is_correct": false
       },
       {
-        "es": "Land of the Rising Sun",
+        "es": "Tierra del Sol Naciente",
         "en": "Land of the Rising Sun",
         "is_correct": false
       },
@@ -6967,7 +6967,7 @@
     "stem_en": "Where were remnants of Teotihuacan culture found?",
     "options": [
       {
-        "es": "Chichen Itza",
+        "es": "Chichén Itzá",
         "en": "Chichen Itza",
         "is_correct": false
       },
@@ -6977,7 +6977,7 @@
         "is_correct": false
       },
       {
-        "es": "Monte Alban",
+        "es": "Monte Albán",
         "en": "Monte Alban",
         "is_correct": false
       },
@@ -6997,17 +6997,17 @@
     "stem_en": "What does the word Altepetl mean, which the tlatoanis use to refer to their cities?",
     "options": [
       {
-        "es": "Place of the gods",
+        "es": "Lugar de los dioses",
         "en": "Place of the gods",
         "is_correct": false
       },
       {
-        "es": "Valley of the mountains",
+        "es": "Valle de las montañas",
         "en": "Valley of the mountains",
         "is_correct": false
       },
       {
-        "es": "Land of the sun",
+        "es": "Tierra del sol",
         "en": "Land of the sun",
         "is_correct": false
       },
@@ -7032,12 +7032,12 @@
         "is_correct": false
       },
       {
-        "es": "Teotihuacan",
+        "es": "Teotihuacán",
         "en": "Teotihuacan",
         "is_correct": false
       },
       {
-        "es": "Chichen Itza",
+        "es": "Chichén Itzá",
         "en": "Chichen Itza",
         "is_correct": false
       },
@@ -7087,12 +7087,12 @@
     "stem_en": "What were the two major ethnic groups that inhabited Teotihuacán?",
     "options": [
       {
-        "es": "Purepechas and Huichols",
+        "es": "Purepechas y Huicholes",
         "en": "Purepechas and Huichols",
         "is_correct": false
       },
       {
-        "es": "Mixtecs and Zapotecs",
+        "es": "Mixtecos y Zapotecos",
         "en": "Mixtecs and Zapotecs",
         "is_correct": false
       },
@@ -7102,7 +7102,7 @@
         "is_correct": true
       },
       {
-        "es": "Tarascans and Chichimecas",
+        "es": "Tarascos y Chichimecas",
         "en": "Tarascans and Chichimecas",
         "is_correct": false
       }
@@ -7132,7 +7132,7 @@
         "is_correct": false
       },
       {
-        "es": "Teotihuacan, State of Mexico",
+        "es": "Teotihuacan, Estado de México",
         "en": "Teotihuacan, State of Mexico",
         "is_correct": false
       }
@@ -7152,17 +7152,17 @@
         "is_correct": true
       },
       {
-        "es": "Emperor's Quarters",
+        "es": "Cuartos del Emperador",
         "en": "Emperor's Quarters",
         "is_correct": false
       },
       {
-        "es": "Great Palace",
+        "es": "Gran Palacio",
         "en": "Great Palace",
         "is_correct": false
       },
       {
-        "es": "Royal Abode",
+        "es": "Morada Real",
         "en": "Royal Abode",
         "is_correct": false
       }
@@ -7182,17 +7182,17 @@
         "is_correct": true
       },
       {
-        "es": "A prominent priest in Tenochtitlán",
+        "es": "Un sacerdote prominente en Tenochtitlán",
         "en": "A prominent priest in Tenochtitlán",
         "is_correct": false
       },
       {
-        "es": "A famous Aztec warrior",
+        "es": "Un famoso guerrero azteca",
         "en": "A famous Aztec warrior",
         "is_correct": false
       },
       {
-        "es": "The last ruler of the Aztec Empire",
+        "es": "El último gobernante del Imperio Azteca",
         "en": "The last ruler of the Aztec Empire",
         "is_correct": false
       }
@@ -7207,7 +7207,7 @@
     "stem_en": "What is the meaning of the word Cuauhtémoc?",
     "options": [
       {
-        "es": "the guardian of the rain",
+        "es": "El guardián de la lluvia",
         "en": "the guardian of the rain",
         "is_correct": false
       },
@@ -7217,12 +7217,12 @@
         "is_correct": true
       },
       {
-        "es": "the warrior of the sun",
+        "es": "El guerrero del sol",
         "en": "the warrior of the sun",
         "is_correct": false
       },
       {
-        "es": "the serpent of the mountains",
+        "es": "La serpiente de las montañas",
         "en": "the serpent of the mountains",
         "is_correct": false
       }
@@ -7237,7 +7237,7 @@
     "stem_en": "Which is one of the most widespread indigenous peoples in Mexico whose language was spoken by the Mexicas?",
     "options": [
       {
-        "es": "Mixtec",
+        "es": "Mixteco",
         "en": "Mixtec",
         "is_correct": false
       },
@@ -7247,7 +7247,7 @@
         "is_correct": true
       },
       {
-        "es": "Zapotec",
+        "es": "Zapoteco",
         "en": "Zapotec",
         "is_correct": false
       },
@@ -7267,17 +7267,17 @@
     "stem_en": "Which indigenous people from southeastern Mexico developed great cities such as Chichén Itzá and Palenque?",
     "options": [
       {
-        "es": "Aztec",
+        "es": "Azteca",
         "en": "Aztec",
         "is_correct": false
       },
       {
-        "es": "Mixtec",
+        "es": "Mixteco",
         "en": "Mixtec",
         "is_correct": false
       },
       {
-        "es": "Zapotec",
+        "es": "Zapoteca",
         "en": "Zapotec",
         "is_correct": false
       },
@@ -7297,12 +7297,12 @@
     "stem_en": "Which indigenous people from Oaxaca are known for their cultural heritage at Monte Albán?",
     "options": [
       {
-        "es": "Tarascan",
+        "es": "Tarascos",
         "en": "Tarascan",
         "is_correct": false
       },
       {
-        "es": "Mixtec",
+        "es": "Mixtecos",
         "en": "Mixtec",
         "is_correct": false
       },
@@ -7337,7 +7337,7 @@
         "is_correct": false
       },
       {
-        "es": "Zapotec",
+        "es": "Zapotecos",
         "en": "Zapotec",
         "is_correct": false
       },
@@ -7372,7 +7372,7 @@
         "is_correct": false
       },
       {
-        "es": "Nahuatl",
+        "es": "Náhuatl",
         "en": "Nahuatl",
         "is_correct": false
       }
@@ -7392,17 +7392,17 @@
         "is_correct": true
       },
       {
-        "es": "Huastec",
+        "es": "Huasteco",
         "en": "Huastec",
         "is_correct": false
       },
       {
-        "es": "Mixtec",
+        "es": "Mixteco",
         "en": "Mixtec",
         "is_correct": false
       },
       {
-        "es": "Zapotec",
+        "es": "Zapoteca",
         "en": "Zapotec",
         "is_correct": false
       }
@@ -7477,7 +7477,7 @@
     "stem_en": "What type of tree, popularly known for the Night of Sadness episode, is where Hernán Cortés is said to have cried?",
     "options": [
       {
-        "es": "Pine",
+        "es": "El pino",
         "en": "Pine",
         "is_correct": false
       },
@@ -7487,12 +7487,12 @@
         "is_correct": true
       },
       {
-        "es": "Jacaranda",
+        "es": "La jacaranda",
         "en": "Jacaranda",
         "is_correct": false
       },
       {
-        "es": "Cypress",
+        "es": "El ciprés",
         "en": "Cypress",
         "is_correct": false
       }
@@ -7657,7 +7657,7 @@
     "stem_en": "What was the Mexica school present in each calpulli that taught youths skills to serve their community and for warfare called?",
     "options": [
       {
-        "es": "Tlatelolco School",
+        "es": "Escuela Tlatelolco",
         "en": "Tlatelolco School",
         "is_correct": false
       },
@@ -7672,7 +7672,7 @@
         "is_correct": true
       },
       {
-        "es": "Cuicacalli Institute",
+        "es": "Instituto Cuicacalli",
         "en": "Cuicacalli Institute",
         "is_correct": false
       }
@@ -7687,12 +7687,12 @@
     "stem_en": "Which Maya deity, associated with trade, cacao, and also war, is one of the most depicted in the codices?",
     "options": [
       {
-        "es": "Kukulkan",
+        "es": "Kukulkán",
         "en": "Kukulkan",
         "is_correct": false
       },
       {
-        "es": "Itzamna",
+        "es": "Itzamná",
         "en": "Itzamna",
         "is_correct": false
       },
@@ -7717,12 +7717,12 @@
     "stem_en": "Which Maya goddess is associated with the moon, fertility, and weaving?",
     "options": [
       {
-        "es": "Xibalba",
+        "es": "Xibalbá",
         "en": "Xibalba",
         "is_correct": false
       },
       {
-        "es": "Kukulkan",
+        "es": "Kukulkán",
         "en": "Kukulkan",
         "is_correct": false
       },
@@ -7747,17 +7747,17 @@
     "stem_en": "Which Maya deity is known as the sun god?",
     "options": [
       {
-        "es": "Kukulkan, the feathered serpent",
+        "es": "Kukulkán, la serpiente emplumada",
         "en": "Kukulkan, the feathered serpent",
         "is_correct": false
       },
       {
-        "es": "Chac, the rain god",
+        "es": "Chac, el dios de la lluvia",
         "en": "Chac, the rain god",
         "is_correct": false
       },
       {
-        "es": "Itzamnah, the creator god",
+        "es": "Itzamná, el dios creador",
         "en": "Itzamnah, the creator god",
         "is_correct": false
       },
@@ -7777,12 +7777,12 @@
     "stem_en": "Which Maya deity is the rain god, depicted with a long nose and fangs?",
     "options": [
       {
-        "es": "Kukulkan",
+        "es": "Kukulkán",
         "en": "Kukulkan",
         "is_correct": false
       },
       {
-        "es": "Itzamna",
+        "es": "Itzamná",
         "en": "Itzamna",
         "is_correct": false
       },
@@ -7807,12 +7807,12 @@
     "stem_en": "Which Maya deity is the god of maize, the basis of Mesoamerican diet?",
     "options": [
       {
-        "es": "Kukulkan",
+        "es": "Kukulkán",
         "en": "Kukulkan",
         "is_correct": false
       },
       {
-        "es": "Itzamna",
+        "es": "Itzamná",
         "en": "Itzamna",
         "is_correct": false
       },
@@ -7842,12 +7842,12 @@
         "is_correct": false
       },
       {
-        "es": "Kukulkan",
+        "es": "Kukulkán",
         "en": "Kukulkan",
         "is_correct": false
       },
       {
-        "es": "Itzamna",
+        "es": "Itzamná",
         "en": "Itzamna",
         "is_correct": false
       },
@@ -7867,12 +7867,12 @@
     "stem_en": "What was the union formed in 1427 by Tenochtitlán, Texcoco, and Tlacopan for political and economic purposes in the Valley of Mexico called?",
     "options": [
       {
-        "es": "The Valley Coalition",
+        "es": "La Coalición del Valle",
         "en": "The Valley Coalition",
         "is_correct": false
       },
       {
-        "es": "The Mesoamerican League",
+        "es": "La Liga Mesoamericana",
         "en": "The Mesoamerican League",
         "is_correct": false
       },
@@ -7882,7 +7882,7 @@
         "is_correct": true
       },
       {
-        "es": "The Aztec Confederation",
+        "es": "La Confederación Azteca",
         "en": "The Aztec Confederation",
         "is_correct": false
       }
@@ -7927,12 +7927,12 @@
     "stem_en": "What does the mythical name Aztlán, the place of origin of the Mexicas believed to have been an island, mean?",
     "options": [
       {
-        "es": "Land of the eagles",
+        "es": "Lugar de las águilas",
         "en": "Land of the eagles",
         "is_correct": false
       },
       {
-        "es": "Home of the serpents",
+        "es": "Lugar de las serpientes",
         "en": "Home of the serpents",
         "is_correct": false
       },
@@ -7942,7 +7942,7 @@
         "is_correct": true
       },
       {
-        "es": "Place of the sun",
+        "es": "Lugar del sol",
         "en": "Place of the sun",
         "is_correct": false
       }
@@ -8002,7 +8002,7 @@
         "is_correct": true
       },
       {
-        "es": "Teotihuacán Pyramid Complex",
+        "es": "Complejo de Pirámides de Teotihuacán",
         "en": "Teotihuacán Pyramid Complex",
         "is_correct": false
       }
@@ -8017,17 +8017,17 @@
     "stem_en": "Period in which Mesoamerican culture developed",
     "options": [
       {
-        "es": "500 AD – 1200 AD",
+        "es": "500 d. C. – 1200 d. C.",
         "en": "500 AD – 1200 AD",
         "is_correct": false
       },
       {
-        "es": "1200 BC – 300 AD",
+        "es": "1200 a. C. – 300 d. C.",
         "en": "1200 BC – 300 AD",
         "is_correct": false
       },
       {
-        "es": "1000 BC – 500 AD",
+        "es": "1000 a. C. – 500 d. C.",
         "en": "1000 BC – 500 AD",
         "is_correct": false
       },
@@ -8047,7 +8047,7 @@
     "stem_en": "Which Mexica deity, depicted with a hummingbird and associated with war and the rising sun, was the main god of Tenochtitlan?",
     "options": [
       {
-        "es": "Quetzalcoatl",
+        "es": "Quetzalcóatl",
         "en": "Quetzalcoatl",
         "is_correct": false
       },
@@ -8092,7 +8092,7 @@
         "is_correct": false
       },
       {
-        "es": "Quetzalcoatl",
+        "es": "Quetzalcóatl",
         "en": "Quetzalcoatl",
         "is_correct": false
       }
@@ -8112,7 +8112,7 @@
         "is_correct": true
       },
       {
-        "es": "Quetzalcoatl",
+        "es": "Quetzalcóatl",
         "en": "Quetzalcoatl",
         "is_correct": false
       },
@@ -8152,7 +8152,7 @@
         "is_correct": false
       },
       {
-        "es": "Quetzalcoatl",
+        "es": "Quetzalcóatl",
         "en": "Quetzalcoatl",
         "is_correct": false
       }
@@ -8172,7 +8172,7 @@
         "is_correct": false
       },
       {
-        "es": "Quetzalcoatl",
+        "es": "Quetzalcóatl",
         "en": "Quetzalcoatl",
         "is_correct": false
       },
@@ -8197,7 +8197,7 @@
     "stem_en": "Which Mexica deity is the lord of the underworld and is depicted as a skeleton?",
     "options": [
       {
-        "es": "Quetzalcoatl",
+        "es": "Quetzalcóatl",
         "en": "Quetzalcoatl",
         "is_correct": false
       },
@@ -8232,17 +8232,17 @@
         "is_correct": true
       },
       {
-        "es": "Mesoamerican Terracing",
+        "es": "Terracería Mesoamericana",
         "en": "Mesoamerican Terracing",
         "is_correct": false
       },
       {
-        "es": "Floating Gardens of Teotihuacan",
+        "es": "Jardines Flotantes de Teotihuacan",
         "en": "Floating Gardens of Teotihuacan",
         "is_correct": false
       },
       {
-        "es": "Aztec Tenochtitlan",
+        "es": "Tenochtitlán azteca",
         "en": "Aztec Tenochtitlan",
         "is_correct": false
       }
@@ -8262,7 +8262,7 @@
         "is_correct": false
       },
       {
-        "es": "Chichen Itza",
+        "es": "Chichén Itzá",
         "en": "Chichen Itza",
         "is_correct": false
       },
@@ -8297,12 +8297,12 @@
         "is_correct": false
       },
       {
-        "es": "Teotihuacan",
+        "es": "Teotihuacán",
         "en": "Teotihuacan",
         "is_correct": false
       },
       {
-        "es": "Chichen Itza",
+        "es": "Chichén Itzá",
         "en": "Chichen Itza",
         "is_correct": false
       }
@@ -8442,7 +8442,7 @@
         "is_correct": false
       },
       {
-        "es": "Teotihuacan",
+        "es": "Teotihuacán",
         "en": "Teotihuacan",
         "is_correct": false
       },
@@ -8502,17 +8502,17 @@
         "is_correct": true
       },
       {
-        "es": "Palace of the Ancestors",
+        "es": "Palacio de los Ancestros",
         "en": "Palace of the Ancestors",
         "is_correct": false
       },
       {
-        "es": "Hall of the Warriors",
+        "es": "Salón de los Guerreros",
         "en": "Hall of the Warriors",
         "is_correct": false
       },
       {
-        "es": "Chamber of the Spirits",
+        "es": "Cámara de los Espíritus",
         "en": "Chamber of the Spirits",
         "is_correct": false
       }
@@ -8527,7 +8527,7 @@
     "stem_en": "In which municipality and state is the archaeological site of El Tajín located, where the Pyramid of the Niches is found?",
     "options": [
       {
-        "es": "Chichen Itza, Yucatan",
+        "es": "Chichén Itzá, Yucatán",
         "en": "Chichen Itza, Yucatan",
         "is_correct": false
       },
@@ -8557,7 +8557,7 @@
     "stem_en": "Which Maya base-20 calendrical system allowed events to be dated from a known starting point?",
     "options": [
       {
-        "es": "Calendar Round",
+        "es": "Ronda Calendárica",
         "en": "Calendar Round",
         "is_correct": false
       },
@@ -8567,12 +8567,12 @@
         "is_correct": true
       },
       {
-        "es": "Haab' Calendar",
+        "es": "Calendario Haab",
         "en": "Haab' Calendar",
         "is_correct": false
       },
       {
-        "es": "Tzolk'in Calendar",
+        "es": "Calendario Tzolk'in",
         "en": "Tzolk'in Calendar",
         "is_correct": false
       }
@@ -8587,17 +8587,17 @@
     "stem_en": "What culture was Chichén Itzá a powerful city of?",
     "options": [
       {
-        "es": "The Aztec civilization",
+        "es": "La civilización azteca",
         "en": "The Aztec civilization",
         "is_correct": false
       },
       {
-        "es": "The Toltec culture",
+        "es": "La cultura Tolteca",
         "en": "The Toltec culture",
         "is_correct": false
       },
       {
-        "es": "The Olmec society",
+        "es": "La sociedad olmeca",
         "en": "The Olmec society",
         "is_correct": false
       },
@@ -8617,12 +8617,12 @@
     "stem_en": "What is the common name of the pyramid dedicated to Kukulkán at Chichén Itzá?",
     "options": [
       {
-        "es": "The serpent mound",
+        "es": "El montículo de la serpiente",
         "en": "The serpent mound",
         "is_correct": false
       },
       {
-        "es": "The sun temple",
+        "es": "El Templo del Sol",
         "en": "The sun temple",
         "is_correct": false
       },
@@ -8632,7 +8632,7 @@
         "is_correct": true
       },
       {
-        "es": "The great pyramid",
+        "es": "La gran pirámide",
         "en": "The great pyramid",
         "is_correct": false
       }
@@ -8647,22 +8647,22 @@
     "stem_en": "What was one of the most important artisanal products of Ancient Mexico?",
     "options": [
       {
-        "es": "La cerámica anaranjado fino",
+        "es": "La cerámica naranja fina",
         "en": "Fine orange pottery",
         "is_correct": true
       },
       {
-        "es": "Carved jade sculptures",
+        "es": "Las esculturas de jade tallado",
         "en": "Carved jade sculptures",
         "is_correct": false
       },
       {
-        "es": "Intricate feather headdresses",
+        "es": "Los intrincados tocados de plumas",
         "en": "Intricate feather headdresses",
         "is_correct": false
       },
       {
-        "es": "Woven cotton textiles",
+        "es": "Los textiles de algodón tejidos",
         "en": "Woven cotton textiles",
         "is_correct": false
       }
@@ -8677,17 +8677,17 @@
     "stem_en": "When was Villa Rica de la Vera Cruz founded, considered the first town council in continental America?",
     "options": [
       {
-        "es": "August 10, 1520",
+        "es": "10 de agosto de 1520",
         "en": "August 10, 1520",
         "is_correct": false
       },
       {
-        "es": "March 15, 1521",
+        "es": "15 de marzo de 1521",
         "en": "March 15, 1521",
         "is_correct": false
       },
       {
-        "es": "June 30, 1518",
+        "es": "30 de junio de 1518",
         "en": "June 30, 1518",
         "is_correct": false
       },
@@ -8722,7 +8722,7 @@
         "is_correct": false
       },
       {
-        "es": "Hernan Cortés",
+        "es": "Hernán Cortés",
         "en": "Hernan Cortés",
         "is_correct": true
       }
@@ -8742,17 +8742,17 @@
         "is_correct": true
       },
       {
-        "es": "Zapotec Society",
+        "es": "Sociedad Zapoteca",
         "en": "Zapotec Society",
         "is_correct": false
       },
       {
-        "es": "Olmec Civilization",
+        "es": "Civilización Olmeca",
         "en": "Olmec Civilization",
         "is_correct": false
       },
       {
-        "es": "Aztec Empire",
+        "es": "Imperio Azteca",
         "en": "Aztec Empire",
         "is_correct": false
       }
@@ -8767,12 +8767,12 @@
     "stem_en": "Culture that developed in the city of Palenque",
     "options": [
       {
-        "es": "Zapotec Culture",
+        "es": "Cultura Zapoteca",
         "en": "Zapotec Culture",
         "is_correct": false
       },
       {
-        "es": "Olmec Culture",
+        "es": "Cultura Olmeca",
         "en": "Olmec Culture",
         "is_correct": false
       },
@@ -8782,7 +8782,7 @@
         "is_correct": true
       },
       {
-        "es": "Toltec Culture",
+        "es": "Cultura Tolteca",
         "en": "Toltec Culture",
         "is_correct": false
       }
@@ -8797,17 +8797,17 @@
     "stem_en": "What was the main reason that motivated the voyages leading to the discovery of America, originally aiming to reach Asia?",
     "options": [
       {
-        "es": "Religious expansion",
+        "es": "Expansión religiosa",
         "en": "Religious expansion",
         "is_correct": false
       },
       {
-        "es": "Search for new colonies",
+        "es": "Buscar nuevas colonias",
         "en": "Search for new colonies",
         "is_correct": false
       },
       {
-        "es": "Quest for gold and silver",
+        "es": "Búsqueda de oro y plata",
         "en": "Quest for gold and silver",
         "is_correct": false
       },
@@ -8827,7 +8827,7 @@
     "stem_en": "Why did the conquerors/Spaniards leave Spain?",
     "options": [
       {
-        "es": "Searching for new trade routes",
+        "es": "Buscando nuevas rutas comerciales",
         "en": "Searching for new trade routes",
         "is_correct": false
       },
@@ -8837,12 +8837,12 @@
         "is_correct": true
       },
       {
-        "es": "Fleeing religious persecution",
+        "es": "Huyendo de la persecución religiosa",
         "en": "Fleeing religious persecution",
         "is_correct": false
       },
       {
-        "es": "Escaping political unrest",
+        "es": "Escapando de la inestabilidad política",
         "en": "Escaping political unrest",
         "is_correct": false
       }
@@ -8857,17 +8857,17 @@
     "stem_en": "In which stage of pre-Hispanic culture did the lordships develop?",
     "options": [
       {
-        "es": "Maya civilization",
+        "es": "Civilización maya",
         "en": "Maya civilization",
         "is_correct": false
       },
       {
-        "es": "Teotihuacan civilization",
+        "es": "Civilización teotihuacana",
         "en": "Teotihuacan civilization",
         "is_correct": false
       },
       {
-        "es": "Zapotec culture",
+        "es": "Cultura zapoteca",
         "en": "Zapotec culture",
         "is_correct": false
       },
@@ -8887,7 +8887,7 @@
     "stem_en": "Which Mesoamerican culture from the Preclassic period is known for its colossal heads and is considered the \"mother culture\"?",
     "options": [
       {
-        "es": "Zapotec",
+        "es": "Zapoteca",
         "en": "Zapotec",
         "is_correct": false
       },
@@ -8947,12 +8947,12 @@
     "stem_en": "Manuscript on amate paper or leather with pictorial representations that narrated historical and religious matters of ancient Mexico",
     "options": [
       {
-        "es": "Pyramid",
+        "es": "Pirámide",
         "en": "Pyramid",
         "is_correct": false
       },
       {
-        "es": "Tablet",
+        "es": "Tableta",
         "en": "Tablet",
         "is_correct": false
       },
@@ -8962,7 +8962,7 @@
         "is_correct": true
       },
       {
-        "es": "Scroll",
+        "es": "Desplazar",
         "en": "Scroll",
         "is_correct": false
       }
@@ -8977,17 +8977,17 @@
     "stem_en": "The staple food of Mesoamerican peoples was",
     "options": [
       {
-        "es": "Amaranth",
+        "es": "El amaranto",
         "en": "Amaranth",
         "is_correct": false
       },
       {
-        "es": "Squash",
+        "es": "El squash",
         "en": "Squash",
         "is_correct": false
       },
       {
-        "es": "Beans",
+        "es": "Los frijoles",
         "en": "Beans",
         "is_correct": false
       },
@@ -9072,12 +9072,12 @@
         "is_correct": false
       },
       {
-        "es": "Chichen Itza, Yucatán",
+        "es": "Chichén Itzá, Yucatán",
         "en": "Chichen Itza, Yucatán",
         "is_correct": false
       },
       {
-        "es": "Teotihuacán, State of Mexico",
+        "es": "Teotihuacán, Estado de México",
         "en": "Teotihuacán, State of Mexico",
         "is_correct": false
       },
@@ -9097,12 +9097,12 @@
     "stem_en": "What does Tula mean in Nahuatl?",
     "options": [
       {
-        "es": "Valley of the mountains",
+        "es": "Valle de las montañas",
         "en": "Valley of the mountains",
         "is_correct": false
       },
       {
-        "es": "Place of the sun",
+        "es": "Lugar del sol",
         "en": "Place of the sun",
         "is_correct": false
       },
@@ -9112,7 +9112,7 @@
         "is_correct": true
       },
       {
-        "es": "Home of the jaguar",
+        "es": "Hogar del jaguar",
         "en": "Home of the jaguar",
         "is_correct": false
       }
@@ -9127,7 +9127,7 @@
     "stem_en": "What is the Mesoamerican period associated with the rise of the Olmecs called?",
     "options": [
       {
-        "es": "Classical",
+        "es": "Clásico",
         "en": "Classical",
         "is_correct": false
       },
@@ -9137,12 +9137,12 @@
         "is_correct": true
       },
       {
-        "es": "Postclassic",
+        "es": "Posclásico",
         "en": "Postclassic",
         "is_correct": false
       },
       {
-        "es": "Formative",
+        "es": "Formativo",
         "en": "Formative",
         "is_correct": false
       }
@@ -9157,7 +9157,7 @@
     "stem_en": "What is the Mesoamerican period in which the great Maya cities flourished called?",
     "options": [
       {
-        "es": "Preclassic",
+        "es": "Preclásico",
         "en": "Preclassic",
         "is_correct": false
       },
@@ -9167,12 +9167,12 @@
         "is_correct": true
       },
       {
-        "es": "Epiclassic",
+        "es": "Epiclásico",
         "en": "Epiclassic",
         "is_correct": false
       },
       {
-        "es": "Postclassic",
+        "es": "Posclásico",
         "en": "Postclassic",
         "is_correct": false
       }
@@ -9187,17 +9187,17 @@
     "stem_en": "What is the Mesoamerican period associated with the rise of the Zapotecs and Mexicas called?",
     "options": [
       {
-        "es": "Formative",
+        "es": "Formativo",
         "en": "Formative",
         "is_correct": false
       },
       {
-        "es": "Early Colonial",
+        "es": "Temprano Colonial",
         "en": "Early Colonial",
         "is_correct": false
       },
       {
-        "es": "Classic",
+        "es": "Clásico",
         "en": "Classic",
         "is_correct": false
       },
@@ -9217,12 +9217,12 @@
     "stem_en": "Name of Mexico during the colonial period",
     "options": [
       {
-        "es": "Aztec Territories",
+        "es": "Territorios Aztecas",
         "en": "Aztec Territories",
         "is_correct": false
       },
       {
-        "es": "Spanish Empire",
+        "es": "Imperio Español",
         "en": "Spanish Empire",
         "is_correct": false
       },
@@ -9232,7 +9232,7 @@
         "is_correct": true
       },
       {
-        "es": "Mesoamerican Dominion",
+        "es": "Dominio Mesoamericano",
         "en": "Mesoamerican Dominion",
         "is_correct": false
       }
@@ -9252,17 +9252,17 @@
         "is_correct": true
       },
       {
-        "es": "The Audiencia President",
+        "es": "El Presidente de la Audiencia",
         "en": "The Audiencia President",
         "is_correct": false
       },
       {
-        "es": "The Captain General",
+        "es": "El Capitán General",
         "en": "The Captain General",
         "is_correct": false
       },
       {
-        "es": "The Colonial Governor",
+        "es": "El Gobernador Colonial",
         "en": "The Colonial Governor",
         "is_correct": false
       }
@@ -9337,17 +9337,17 @@
     "stem_en": "What was the first intendancy of New Spain called, established in the northern territory and predecessor of Sonora and Sinaloa?",
     "options": [
       {
-        "es": "Intendancy of Guadalajara",
+        "es": "Intendencia de Guadalajara",
         "en": "Intendancy of Guadalajara",
         "is_correct": false
       },
       {
-        "es": "Intendancy of Culiacán",
+        "es": "Intendencia de Culiacán",
         "en": "Intendancy of Culiacán",
         "is_correct": false
       },
       {
-        "es": "Intendancy of Durango",
+        "es": "Intendencia de Durango",
         "en": "Intendancy of Durango",
         "is_correct": false
       },
@@ -9462,12 +9462,12 @@
         "is_correct": false
       },
       {
-        "es": "Republican",
+        "es": "Republicano",
         "en": "Republican",
         "is_correct": false
       },
       {
-        "es": "Modern",
+        "es": "Modernos",
         "en": "Modern",
         "is_correct": false
       },
@@ -9522,17 +9522,17 @@
         "is_correct": true
       },
       {
-        "es": "The Metropolitan Cathedral",
+        "es": "La Catedral Metropolitana",
         "en": "The Metropolitan Cathedral",
         "is_correct": false
       },
       {
-        "es": "The Palacio de Bellas Artes",
+        "es": "El Palacio de Bellas Artes",
         "en": "The Palacio de Bellas Artes",
         "is_correct": false
       },
       {
-        "es": "The Chapultepec Castle",
+        "es": "El Castillo de Chapultepec",
         "en": "The Chapultepec Castle",
         "is_correct": false
       }
@@ -9667,12 +9667,12 @@
     "stem_en": "In colonial times, what were the salaried workers who labored on agricultural and livestock estates under the authority of the landowner called?",
     "options": [
       {
-        "es": "campesinos",
+        "es": "Campesinos",
         "en": "campesinos",
         "is_correct": false
       },
       {
-        "es": "serfs",
+        "es": "Siervos",
         "en": "serfs",
         "is_correct": false
       },
@@ -9682,7 +9682,7 @@
         "is_correct": true
       },
       {
-        "es": "haciendados",
+        "es": "Haciendados",
         "en": "haciendados",
         "is_correct": false
       }
@@ -9697,17 +9697,17 @@
     "stem_en": "What was the law enacted in 1542 by the Spanish Crown to improve the treatment and protection of indigenous people in the Indies called?",
     "options": [
       {
-        "es": "Treaty of Tordesillas II",
+        "es": "Tratado de Tordesillas II",
         "en": "Treaty of Tordesillas II",
         "is_correct": false
       },
       {
-        "es": "Royal Ordinance of 1537",
+        "es": "Real Ordenanza de 1537",
         "en": "Royal Ordinance of 1537",
         "is_correct": false
       },
       {
-        "es": "Requerimiento Decree",
+        "es": "Decreto de Requerimiento",
         "en": "Requerimiento Decree",
         "is_correct": false
       },
@@ -9762,17 +9762,17 @@
         "is_correct": true
       },
       {
-        "es": "Committee for Colonial Revenue",
+        "es": "Junta de Ingresos Coloniales",
         "en": "Committee for Colonial Revenue",
         "is_correct": false
       },
       {
-        "es": "Board of Fiscal Administration",
+        "es": "Junta de Administración Fiscal",
         "en": "Board of Fiscal Administration",
         "is_correct": false
       },
       {
-        "es": "Council of Colonial Affairs",
+        "es": "Consejo de Asuntos Coloniales",
         "en": "Council of Colonial Affairs",
         "is_correct": false
       }
@@ -9792,12 +9792,12 @@
         "is_correct": false
       },
       {
-        "es": "Military Tribute Law",
+        "es": "Ley de Tributo Militar",
         "en": "Military Tribute Law",
         "is_correct": false
       },
       {
-        "es": "Royal Taxation System",
+        "es": "Sistema de tributación real",
         "en": "Royal Taxation System",
         "is_correct": false
       },
@@ -9847,17 +9847,17 @@
     "stem_en": "What was the summary judicial court created in 1719 in New Spain to compensate for shortcomings of the ordinary judicial system called?",
     "options": [
       {
-        "es": "Unknown",
+        "es": "Desconocido",
         "en": "Unknown",
         "is_correct": false
       },
       {
-        "es": "Not specified",
+        "es": "No especificado",
         "en": "Not specified",
         "is_correct": false
       },
       {
-        "es": "Other",
+        "es": "Otro",
         "en": "Other",
         "is_correct": false
       },
@@ -9877,17 +9877,17 @@
     "stem_en": "What was the 1809 criollo movement in New Spain called that sought to form a sovereign junta in the name of Ferdinand VII?",
     "options": [
       {
-        "es": "The Revolution of Querétaro",
+        "es": "La Revolución de Querétaro",
         "en": "The Revolution of Querétaro",
         "is_correct": false
       },
       {
-        "es": "The Plan of Iguala",
+        "es": "El Plan de Iguala",
         "en": "The Plan of Iguala",
         "is_correct": false
       },
       {
-        "es": "The Insurrection of Guadalajara",
+        "es": "La Insurrección de Guadalajara",
         "en": "The Insurrection of Guadalajara",
         "is_correct": false
       },
@@ -9972,17 +9972,17 @@
         "is_correct": true
       },
       {
-        "es": "The Bourbon Reforms of 1759",
+        "es": "Las Reformas Borbónicas de 1759",
         "en": "The Bourbon Reforms of 1759",
         "is_correct": false
       },
       {
-        "es": "The Treaty of Guadalupe Hidalgo",
+        "es": "El Tratado de Guadalupe Hidalgo",
         "en": "The Treaty of Guadalupe Hidalgo",
         "is_correct": false
       },
       {
-        "es": "The Constitution of 1824",
+        "es": "La Constitución de 1824",
         "en": "The Constitution of 1824",
         "is_correct": false
       }
@@ -9997,7 +9997,7 @@
     "stem_en": "What is the place where the cry of Independence was given?",
     "options": [
       {
-        "es": "Mexico City, Mexico",
+        "es": "Ciudad de México, México",
         "en": "Mexico City, Mexico",
         "is_correct": false
       },
@@ -10097,7 +10097,7 @@
         "is_correct": true
       },
       {
-        "es": "José María Morelos",
+        "es": "José María Morelos y Pavón",
         "en": "José María Morelos",
         "is_correct": false
       },
@@ -10117,17 +10117,17 @@
     "stem_en": "What was the first educational institution in Mexico dedicated to the teaching of sciences and arts, founded in Oaxaca in 1826?",
     "options": [
       {
-        "es": "School of Liberal Arts",
+        "es": "Escuela de Artes Liberales",
         "en": "School of Liberal Arts",
         "is_correct": false
       },
       {
-        "es": "Academy of Fine Arts",
+        "es": "Academia de Bellas Artes",
         "en": "Academy of Fine Arts",
         "is_correct": false
       },
       {
-        "es": "College of Arts and Sciences",
+        "es": "Colegio de Artes y Ciencias",
         "en": "College of Arts and Sciences",
         "is_correct": false
       },
@@ -10177,12 +10177,12 @@
     "stem_en": "Text in which the separation of powers and the rights of indigenous people appear. Document that states that America must be free and proclaims the division of powers and equality of citizens:",
     "options": [
       {
-        "es": "Declaration of the Rights of Man",
+        "es": "Declaración de los Derechos del Hombre",
         "en": "Declaration of the Rights of Man",
         "is_correct": false
       },
       {
-        "es": "Constitution of 1917",
+        "es": "Constitución de 1917",
         "en": "Constitution of 1917",
         "is_correct": false
       },
@@ -10272,17 +10272,17 @@
         "is_correct": true
       },
       {
-        "es": "Constitution of 1824",
+        "es": "Constitución de 1824",
         "en": "Constitution of 1824",
         "is_correct": false
       },
       {
-        "es": "Constitution of Cadiz",
+        "es": "Constitución de Cádiz",
         "en": "Constitution of Cadiz",
         "is_correct": false
       },
       {
-        "es": "Constitution of Mexico City",
+        "es": "Constitución de la Ciudad de México",
         "en": "Constitution of Mexico City",
         "is_correct": false
       }
@@ -10327,12 +10327,12 @@
     "stem_en": "What was the document called that proclaimed New Spain as a sovereign and independent country?",
     "options": [
       {
-        "es": "The Treaty of Guadalupe Hidalgo",
+        "es": "El Tratado de Guadalupe Hidalgo",
         "en": "The Treaty of Guadalupe Hidalgo",
         "is_correct": false
       },
       {
-        "es": "The Grito de Dolores",
+        "es": "El Grito de Dolores",
         "en": "The Grito de Dolores",
         "is_correct": false
       },
@@ -10342,7 +10342,7 @@
         "is_correct": true
       },
       {
-        "es": "The Constitution of 1917",
+        "es": "La Constitución de 1917",
         "en": "The Constitution of 1917",
         "is_correct": false
       }
@@ -10362,17 +10362,17 @@
         "is_correct": true
       },
       {
-        "es": "January 6, 1821",
+        "es": "6 de enero de 1821",
         "en": "January 6, 1821",
         "is_correct": false
       },
       {
-        "es": "April 15, 1821",
+        "es": "15 de abril de 1821",
         "en": "April 15, 1821",
         "is_correct": false
       },
       {
-        "es": "March 21, 1821",
+        "es": "21 de marzo de 1821",
         "en": "March 21, 1821",
         "is_correct": false
       }
@@ -10447,12 +10447,12 @@
     "stem_en": "It is a document in which the independence of Mexico and the withdrawal of Spanish troops from the capital of Mexico are agreed upon, signed in Veracruz.",
     "options": [
       {
-        "es": "Treaty of Tordesillas",
+        "es": "Tratado de Tordesillas",
         "en": "Treaty of Tordesillas",
         "is_correct": false
       },
       {
-        "es": "Treaty of San Ildefonso",
+        "es": "Tratado de San Ildefonso",
         "en": "Treaty of San Ildefonso",
         "is_correct": false
       },
@@ -10462,7 +10462,7 @@
         "is_correct": true
       },
       {
-        "es": "Treaty of Guadalupe Hidalgo",
+        "es": "Tratado de Guadalupe Hidalgo",
         "en": "Treaty of Guadalupe Hidalgo",
         "is_correct": false
       }
@@ -10507,7 +10507,7 @@
     "stem_en": "What was the movement proclaimed in 1823 that rejected Iturbide, annulled the Empire, and restored Congress called?",
     "options": [
       {
-        "es": "The Plan of Ayutla",
+        "es": "El Plan de Ayutla",
         "en": "The Plan of Ayutla",
         "is_correct": false
       },
@@ -10517,12 +10517,12 @@
         "is_correct": true
       },
       {
-        "es": "The Plan of Tuxtepec",
+        "es": "El Plan de Tuxtepec",
         "en": "The Plan of Tuxtepec",
         "is_correct": false
       },
       {
-        "es": "The Plan of Iguala",
+        "es": "El Plan de Iguala",
         "en": "The Plan of Iguala",
         "is_correct": false
       }
@@ -10717,12 +10717,12 @@
     "stem_en": "What was the liberal proclamation called that sought to end Santa Anna’s dictatorship in 1854?",
     "options": [
       {
-        "es": "Plan of Iguala",
+        "es": "Plan de Iguala",
         "en": "Plan of Iguala",
         "is_correct": false
       },
       {
-        "es": "Plan of Tacubaya",
+        "es": "Plan de Tacubaya",
         "en": "Plan of Tacubaya",
         "is_correct": false
       },
@@ -10732,7 +10732,7 @@
         "is_correct": true
       },
       {
-        "es": "Plan of San Luis",
+        "es": "Plan de San Luis",
         "en": "Plan of San Luis",
         "is_correct": false
       }
@@ -10752,17 +10752,17 @@
         "is_correct": true
       },
       {
-        "es": "March 1, 1861",
+        "es": "1 de marzo de 1861",
         "en": "March 1, 1861",
         "is_correct": false
       },
       {
-        "es": "February 5, 1855",
+        "es": "5 de febrero de 1855",
         "en": "February 5, 1855",
         "is_correct": false
       },
       {
-        "es": "April 12, 1853",
+        "es": "12 de abril de 1853",
         "en": "April 12, 1853",
         "is_correct": false
       }
@@ -10837,12 +10837,12 @@
     "stem_en": "What was the set of constitutional provisions enacted in 1836 that replaced the federal system with a centralist one in Mexico called?",
     "options": [
       {
-        "es": "The Reform Laws",
+        "es": "Las Leyes de Reforma",
         "en": "The Reform Laws",
         "is_correct": false
       },
       {
-        "es": "The Federalist Papers",
+        "es": "Los Documentos Federalistas",
         "en": "The Federalist Papers",
         "is_correct": false
       },
@@ -10852,7 +10852,7 @@
         "is_correct": true
       },
       {
-        "es": "The Constitutional Act",
+        "es": "El Acta Constitucional",
         "en": "The Constitutional Act",
         "is_correct": false
       }
@@ -10867,7 +10867,7 @@
     "stem_en": "What type of Constitution did the Seven Laws establish by turning Mexico into a Centralist Republic?",
     "options": [
       {
-        "es": "Political Constitution of 1917",
+        "es": "Constitución Política de 1917",
         "en": "Political Constitution of 1917",
         "is_correct": false
       },
@@ -10877,12 +10877,12 @@
         "is_correct": true
       },
       {
-        "es": "Federal Constitution of 1824",
+        "es": "Constitución Federal de 1824",
         "en": "Federal Constitution of 1824",
         "is_correct": false
       },
       {
-        "es": "Reform Constitution of 1857",
+        "es": "Reforma Constitución de 1857",
         "en": "Reform Constitution of 1857",
         "is_correct": false
       }
@@ -10897,12 +10897,12 @@
     "stem_en": "What nickname did the Port of Veracruz receive for being the site of four historic defenses of national sovereignty?",
     "options": [
       {
-        "es": "Crucible of Courage",
+        "es": "Crisol de Valor",
         "en": "Crucible of Courage",
         "is_correct": false
       },
       {
-        "es": "Gateway to the Gulf",
+        "es": "Puerta al Golfo",
         "en": "Gateway to the Gulf",
         "is_correct": false
       },
@@ -10912,7 +10912,7 @@
         "is_correct": true
       },
       {
-        "es": "Guardian of the Coast",
+        "es": "Guardia de la Costa",
         "en": "Guardian of the Coast",
         "is_correct": false
       }
@@ -11022,17 +11022,17 @@
         "is_correct": true
       },
       {
-        "es": "French Intervention in Mexico",
+        "es": "Intervención Francesa en México",
         "en": "French Intervention in Mexico",
         "is_correct": false
       },
       {
-        "es": "Mexican Civil War",
+        "es": "Guerra Civil Mexicana",
         "en": "Mexican Civil War",
         "is_correct": false
       },
       {
-        "es": "Spanish-American War",
+        "es": "Guerra Hispanoamericana",
         "en": "Spanish-American War",
         "is_correct": false
       }
@@ -11047,7 +11047,7 @@
     "stem_en": "Which Texan general defeated Santa Anna in the Battle of San Jacinto during the war for Texas?",
     "options": [
       {
-        "es": "William Travis",
+        "es": "Guillermo Travis",
         "en": "William Travis",
         "is_correct": false
       },
@@ -11057,12 +11057,12 @@
         "is_correct": true
       },
       {
-        "es": "Stephen Austin",
+        "es": "Esteban Austin",
         "en": "Stephen Austin",
         "is_correct": false
       },
       {
-        "es": "James Fannin",
+        "es": "Santiago Fannin",
         "en": "James Fannin",
         "is_correct": false
       }
@@ -11197,17 +11197,17 @@
     "stem_en": "What was the treaty signed in 1848 called that forced Mexico to cede more than half of its territory after the war with the United States?",
     "options": [
       {
-        "es": "Treaty of Veracruz",
+        "es": "Tratado de Veracruz",
         "en": "Treaty of Veracruz",
         "is_correct": false
       },
       {
-        "es": "Treaty of Tijuana",
+        "es": "Tratado de Tijuana",
         "en": "Treaty of Tijuana",
         "is_correct": false
       },
       {
-        "es": "Treaty of San Andrés",
+        "es": "Tratado de San Andrés",
         "en": "Treaty of San Andrés",
         "is_correct": false
       },
@@ -11232,17 +11232,17 @@
         "is_correct": true
       },
       {
-        "es": "April 25, 1850",
+        "es": "25 de abril de 1850",
         "en": "April 25, 1850",
         "is_correct": false
       },
       {
-        "es": "January 15, 1847",
+        "es": "15 de enero de 1847",
         "en": "January 15, 1847",
         "is_correct": false
       },
       {
-        "es": "March 10, 1846",
+        "es": "10 de marzo de 1846",
         "en": "March 10, 1846",
         "is_correct": false
       }
@@ -11317,7 +11317,7 @@
     "stem_en": "Between which two political groups was the Reform War fought in Mexico?",
     "options": [
       {
-        "es": "Monarchists and republicans",
+        "es": "Monárquicos y republicanos",
         "en": "Monarchists and republicans",
         "is_correct": false
       },
@@ -11327,12 +11327,12 @@
         "is_correct": true
       },
       {
-        "es": "Federalists and nationalists",
+        "es": "Federalistas y nacionalistas",
         "en": "Federalists and nationalists",
         "is_correct": false
       },
       {
-        "es": "Socialists and capitalists",
+        "es": "Socialistas y capitalistas",
         "en": "Socialists and capitalists",
         "is_correct": false
       }
@@ -11357,12 +11357,12 @@
         "is_correct": false
       },
       {
-        "es": "Conservatives",
+        "es": "Conservadores",
         "en": "Conservatives",
         "is_correct": false
       },
       {
-        "es": "Revolutionaries",
+        "es": "Revolucionarios",
         "en": "Revolutionaries",
         "is_correct": false
       }
@@ -11467,17 +11467,17 @@
     "stem_en": "Date when the first birth certificate was issued in Nuevo León",
     "options": [
       {
-        "es": "March 15, 1862",
+        "es": "15 de marzo de 1862",
         "en": "March 15, 1862",
         "is_correct": false
       },
       {
-        "es": "January 23, 1845",
+        "es": "23 de enero de 1845",
         "en": "January 23, 1845",
         "is_correct": false
       },
       {
-        "es": "July 4, 1865",
+        "es": "4 de julio de 1865",
         "en": "July 4, 1865",
         "is_correct": false
       },
@@ -11497,17 +11497,17 @@
     "stem_en": "Date when the first birth certificate was issued",
     "options": [
       {
-        "es": "January 5, 1871",
+        "es": "5 de enero de 1871",
         "en": "January 5, 1871",
         "is_correct": false
       },
       {
-        "es": "August 10, 1845",
+        "es": "10 de agosto de 1845",
         "en": "August 10, 1845",
         "is_correct": false
       },
       {
-        "es": "March 15, 1862",
+        "es": "15 de marzo de 1862",
         "en": "March 15, 1862",
         "is_correct": false
       },
@@ -11587,17 +11587,17 @@
     "stem_en": "What was Paseo de la Reforma originally called during the Second Mexican Empire?",
     "options": [
       {
-        "es": "The Grand Royal Road",
+        "es": "El Gran Camino Real",
         "en": "The Grand Royal Road",
         "is_correct": false
       },
       {
-        "es": "Boulevard of the Monarchs",
+        "es": "Boulevard de los Monarcas",
         "en": "Boulevard of the Monarchs",
         "is_correct": false
       },
       {
-        "es": "Imperial Avenue of the Empire",
+        "es": "Avenida Imperial del Imperio",
         "en": "Imperial Avenue of the Empire",
         "is_correct": false
       },
@@ -11617,7 +11617,7 @@
     "stem_en": "In which city was Maximilian of Habsburg executed after the fall of the Second Empire?",
     "options": [
       {
-        "es": "Mexico City",
+        "es": "Ciudad de México",
         "en": "Mexico City",
         "is_correct": false
       },
@@ -11647,7 +11647,7 @@
     "stem_en": "On what date did Maximilian of Habsburg die?",
     "options": [
       {
-        "es": "May 15, 1865",
+        "es": "15 de mayo de 1865",
         "en": "May 15, 1865",
         "is_correct": false
       },
@@ -11657,12 +11657,12 @@
         "is_correct": true
       },
       {
-        "es": "July 14, 1868",
+        "es": "14 de julio de 1868",
         "en": "July 14, 1868",
         "is_correct": false
       },
       {
-        "es": "April 2, 1870",
+        "es": "2 de abril de 1870",
         "en": "April 2, 1870",
         "is_correct": false
       }
@@ -11767,17 +11767,17 @@
     "stem_en": "In which battle did Porfirio Díaz participate during the French intervention in Mexico?",
     "options": [
       {
-        "es": "Battle of La Resistencia",
+        "es": "Batalla de La Resistencia",
         "en": "Battle of La Resistencia",
         "is_correct": false
       },
       {
-        "es": "Battle of Puebla",
+        "es": "Batalla de Puebla",
         "en": "Battle of Puebla",
         "is_correct": false
       },
       {
-        "es": "Battle of Querétaro",
+        "es": "Batalla de Querétaro",
         "en": "Battle of Querétaro",
         "is_correct": false
       },
@@ -11797,17 +11797,17 @@
     "stem_en": "Which transportation system expanded significantly during Porfirio Díaz's rule?",
     "options": [
       {
-        "es": "Highway network",
+        "es": "Red de carreteras",
         "en": "Highway network",
         "is_correct": false
       },
       {
-        "es": "Aviation industry",
+        "es": "Industria de la aviación",
         "en": "Aviation industry",
         "is_correct": false
       },
       {
-        "es": "Canal system",
+        "es": "Sistema de canales",
         "en": "Canal system",
         "is_correct": false
       },
@@ -11827,17 +11827,17 @@
     "stem_en": "Which communication service was inaugurated during Porfirio Díaz's rule?",
     "options": [
       {
-        "es": "Telegraph service",
+        "es": "Servicio telegráfico",
         "en": "Telegraph service",
         "is_correct": false
       },
       {
-        "es": "Radio broadcasting",
+        "es": "Transmisión de radio",
         "en": "Radio broadcasting",
         "is_correct": false
       },
       {
-        "es": "Postal service",
+        "es": "Servicio postal",
         "en": "Postal service",
         "is_correct": false
       },
@@ -11857,7 +11857,7 @@
     "stem_en": "What was the plan proclaimed by Porfirio Díaz in 1871 to oppose the reelection of Benito Juárez called?",
     "options": [
       {
-        "es": "Plan of San Luis",
+        "es": "Plan de San Luis",
         "en": "Plan of San Luis",
         "is_correct": false
       },
@@ -11867,7 +11867,7 @@
         "is_correct": false
       },
       {
-        "es": "Plan of Tuxtepec",
+        "es": "Plan de Tuxtepec",
         "en": "Plan of Tuxtepec",
         "is_correct": false
       },
@@ -11917,7 +11917,7 @@
     "stem_en": "What constitutional principle did the Plan of La Noria defend against presidential reelection?",
     "options": [
       {
-        "es": "Civil liberties protection",
+        "es": "Protección de las libertades civiles",
         "en": "Civil liberties protection",
         "is_correct": false
       },
@@ -11927,12 +11927,12 @@
         "is_correct": true
       },
       {
-        "es": "Separation of powers",
+        "es": "Separación de poderes",
         "en": "Separation of powers",
         "is_correct": false
       },
       {
-        "es": "Universal suffrage",
+        "es": "Sufragio universal",
         "en": "Universal suffrage",
         "is_correct": false
       }
@@ -11982,17 +11982,17 @@
         "is_correct": true
       },
       {
-        "es": "Plan of San Luis",
+        "es": "Plan de San Luis",
         "en": "Plan of San Luis",
         "is_correct": false
       },
       {
-        "es": "Plan of Iguala",
+        "es": "Plan de Iguala",
         "en": "Plan of Iguala",
         "is_correct": false
       },
       {
-        "es": "Plan of Ayutla",
+        "es": "Plan de Ayutla",
         "en": "Plan of Ayutla",
         "is_correct": false
       }
@@ -12042,17 +12042,17 @@
         "is_correct": true
       },
       {
-        "es": "Plan of Guadalupe",
+        "es": "Plan de Guadalupe",
         "en": "Plan of Guadalupe",
         "is_correct": false
       },
       {
-        "es": "Manifesto of the Revolution",
+        "es": "Manifiesto de la Revolución",
         "en": "Manifesto of the Revolution",
         "is_correct": false
       },
       {
-        "es": "Plan of Ayala",
+        "es": "Plan de Ayala",
         "en": "Plan of Ayala",
         "is_correct": false
       }
@@ -12067,12 +12067,12 @@
     "stem_en": "What was the political proclamation signed by Emiliano Zapata in 1911 during the Mexican Revolution called?",
     "options": [
       {
-        "es": "Plan of Morelos",
+        "es": "Plan de Morelos",
         "en": "Plan of Morelos",
         "is_correct": false
       },
       {
-        "es": "Plan of San Luis",
+        "es": "Plan de San Luis",
         "en": "Plan of San Luis",
         "is_correct": false
       },
@@ -12082,7 +12082,7 @@
         "is_correct": true
       },
       {
-        "es": "Plan of Guadalupe",
+        "es": "Plan de Guadalupe",
         "en": "Plan of Guadalupe",
         "is_correct": false
       }
@@ -12132,17 +12132,17 @@
         "is_correct": true
       },
       {
-        "es": "March 21, 1910",
+        "es": "21 de marzo de 1910",
         "en": "March 21, 1910",
         "is_correct": false
       },
       {
-        "es": "February 5, 1917",
+        "es": "5 de febrero de 1917",
         "en": "February 5, 1917",
         "is_correct": false
       },
       {
-        "es": "July 16, 1913",
+        "es": "16 de julio de 1913",
         "en": "July 16, 1913",
         "is_correct": false
       }
@@ -12157,7 +12157,7 @@
     "stem_en": "What was the plan proclaimed in 1913 to reject the government of Victoriano Huerta called?",
     "options": [
       {
-        "es": "Plan of San Luis",
+        "es": "Plan de San Luis",
         "en": "Plan of San Luis",
         "is_correct": false
       },
@@ -12167,12 +12167,12 @@
         "is_correct": true
       },
       {
-        "es": "Plan of Morelos",
+        "es": "Plan de Morelos",
         "en": "Plan of Morelos",
         "is_correct": false
       },
       {
-        "es": "Plan of Ayala",
+        "es": "Plan de Ayala",
         "en": "Plan of Ayala",
         "is_correct": false
       }
@@ -12247,12 +12247,12 @@
     "stem_en": "Group that promoted economic development without affecting the church and the military",
     "options": [
       {
-        "es": "Liberals",
+        "es": "Liberales",
         "en": "Liberals",
         "is_correct": false
       },
       {
-        "es": "Socialists",
+        "es": "Socialistas",
         "en": "Socialists",
         "is_correct": false
       },
@@ -12262,7 +12262,7 @@
         "is_correct": true
       },
       {
-        "es": "Nationalists",
+        "es": "Nacionalistas",
         "en": "Nationalists",
         "is_correct": false
       }
@@ -12277,7 +12277,7 @@
     "stem_en": "Group that promoted national integration and paved the way for capitalism",
     "options": [
       {
-        "es": "Conservatives",
+        "es": "Conservadores",
         "en": "Conservatives",
         "is_correct": false
       },
@@ -12287,12 +12287,12 @@
         "is_correct": true
       },
       {
-        "es": "Socialists",
+        "es": "Socialistas",
         "en": "Socialists",
         "is_correct": false
       },
       {
-        "es": "Nationalists",
+        "es": "Nacionalistas",
         "en": "Nationalists",
         "is_correct": false
       }
@@ -12312,17 +12312,17 @@
         "is_correct": true
       },
       {
-        "es": "Indigenous Shamanism",
+        "es": "El chamanismo indígena",
         "en": "Indigenous Shamanism",
         "is_correct": false
       },
       {
-        "es": "Protestantism",
+        "es": "El protestantismo",
         "en": "Protestantism",
         "is_correct": false
       },
       {
-        "es": "Buddhism",
+        "es": "El budismo",
         "en": "Buddhism",
         "is_correct": false
       }
@@ -12342,7 +12342,7 @@
         "is_correct": false
       },
       {
-        "es": "Our Lady of Sorrows",
+        "es": "Nuestra Señora de los Dolores",
         "en": "Our Lady of Sorrows",
         "is_correct": false
       },
@@ -12367,7 +12367,7 @@
     "stem_en": "Image present on the Standard of Hidalgo (Coat of Arms of Hidalgo)",
     "options": [
       {
-        "es": "Saint James the Apostle",
+        "es": "Santiago Apóstol",
         "en": "Saint James the Apostle",
         "is_correct": false
       },
@@ -12377,12 +12377,12 @@
         "is_correct": true
       },
       {
-        "es": "The Virgin of the Rosary",
+        "es": "La Virgen del Rosario",
         "en": "The Virgin of the Rosary",
         "is_correct": false
       },
       {
-        "es": "Our Lady of Sorrows",
+        "es": "Nuestra Señora de los Dolores",
         "en": "Our Lady of Sorrows",
         "is_correct": false
       }
@@ -12427,7 +12427,7 @@
     "stem_en": "Who was known as 'The Crybaby of Icamole'?",
     "options": [
       {
-        "es": "Porfirio Diaz",
+        "es": "Porfirio Díaz",
         "en": "Porfirio Diaz",
         "is_correct": true
       },
@@ -12492,17 +12492,17 @@
         "is_correct": true
       },
       {
-        "es": "Telegraph lines",
+        "es": "Líneas telegráficas",
         "en": "Telegraph lines",
         "is_correct": false
       },
       {
-        "es": "Airports",
+        "es": "Aeropuertos",
         "en": "Airports",
         "is_correct": false
       },
       {
-        "es": "Highways",
+        "es": "Carreteras",
         "en": "Highways",
         "is_correct": false
       }
@@ -12522,7 +12522,7 @@
         "is_correct": false
       },
       {
-        "es": "Telegraph",
+        "es": "Telégrafo",
         "en": "Telegraph",
         "is_correct": false
       },
@@ -12532,7 +12532,7 @@
         "is_correct": true
       },
       {
-        "es": "Postal service",
+        "es": "Servicio postal",
         "en": "Postal service",
         "is_correct": false
       }
@@ -12557,12 +12557,12 @@
         "is_correct": false
       },
       {
-        "es": "National Museum of Anthropology",
+        "es": "Museo Nacional de Antropología",
         "en": "National Museum of Anthropology",
         "is_correct": false
       },
       {
-        "es": "Chapultepec Castle",
+        "es": "Castillo de Chapultepec",
         "en": "Chapultepec Castle",
         "is_correct": false
       }
@@ -12577,7 +12577,7 @@
     "stem_en": "Which commemorative monument of Independence was inaugurated during the Porfiriato?",
     "options": [
       {
-        "es": "Paseo de la Reforma Arch",
+        "es": "Arco de Paseo de la Reforma",
         "en": "Paseo de la Reforma Arch",
         "is_correct": false
       },
@@ -12587,12 +12587,12 @@
         "is_correct": true
       },
       {
-        "es": "Monument to the Revolution",
+        "es": "Monumento a la Revolución",
         "en": "Monument to the Revolution",
         "is_correct": false
       },
       {
-        "es": "Victory Column of Mexico City",
+        "es": "Columna de la Victoria de la Ciudad de México",
         "en": "Victory Column of Mexico City",
         "is_correct": false
       }
@@ -12607,12 +12607,12 @@
     "stem_en": "Which iconic postal service building was constructed during the Porfiriato?",
     "options": [
       {
-        "es": "Cultural Center of Mexico",
+        "es": "Centro Cultural de México",
         "en": "Cultural Center of Mexico",
         "is_correct": false
       },
       {
-        "es": "National Palace",
+        "es": "Palacio Nacional",
         "en": "National Palace",
         "is_correct": false
       },
@@ -12622,7 +12622,7 @@
         "is_correct": true
       },
       {
-        "es": "Museum of Fine Arts",
+        "es": "Museo de Bellas Artes",
         "en": "Museum of Fine Arts",
         "is_correct": false
       }
@@ -12637,17 +12637,17 @@
     "stem_en": "School in the Colonial era 1st elementary school:",
     "options": [
       {
-        "es": "San Juan de los Reyes in Guadalajara",
+        "es": "San Juan de los Reyes en Guadalajara",
         "en": "San Juan de los Reyes in Guadalajara",
         "is_correct": false
       },
       {
-        "es": "Santa Cruz in Mexico City",
+        "es": "Santa Cruz en la Ciudad de México",
         "en": "Santa Cruz in Mexico City",
         "is_correct": false
       },
       {
-        "es": "San Pedro in Puebla",
+        "es": "San Pedro en Puebla",
         "en": "San Pedro in Puebla",
         "is_correct": false
       },
@@ -12942,17 +12942,17 @@
         "is_correct": true
       },
       {
-        "es": "the telegraph",
+        "es": "El telégrafo",
         "en": "the telegraph",
         "is_correct": false
       },
       {
-        "es": "the electric streetcar",
+        "es": "el tranvía eléctrico",
         "en": "the electric streetcar",
         "is_correct": false
       },
       {
-        "es": "the radio transmission",
+        "es": "la transmisión de radio",
         "en": "the radio transmission",
         "is_correct": false
       }
@@ -12972,17 +12972,17 @@
         "is_correct": true
       },
       {
-        "es": "Cultural Center of Mexico City",
+        "es": "Centro Cultural de la Ciudad de México",
         "en": "Cultural Center of Mexico City",
         "is_correct": false
       },
       {
-        "es": "Federal Palace",
+        "es": "Palacio Federal",
         "en": "Federal Palace",
         "is_correct": false
       },
       {
-        "es": "National Palace",
+        "es": "Palacio Nacional",
         "en": "National Palace",
         "is_correct": false
       }
@@ -12997,22 +12997,22 @@
     "stem_en": "What is the Postal Palace also known as for being the fifth headquarters of the Mexican postal service?",
     "options": [
       {
-        "es": "Central Mail Hub",
+        "es": "Centro de Correos Central",
         "en": "Central Mail Hub",
         "is_correct": false
       },
       {
-        "es": "National Postal Building",
+        "es": "Edificio Nacional de Correos",
         "en": "National Postal Building",
         "is_correct": false
       },
       {
-        "es": "Historic Post Office",
+        "es": "Oficina de Correos Histórica",
         "en": "Historic Post Office",
         "is_correct": false
       },
       {
-        "es": "Quinta Casa de Correos",
+        "es": "Quinta Oficina de Correos",
         "en": "Fifth Post Office",
         "is_correct": true
       }
@@ -13027,12 +13027,12 @@
     "stem_en": "According to the structures built between the 16th century and the early 20th century that are currently used as museums or government buildings, El Zócalo in Mexico City is known as:",
     "options": [
       {
-        "es": "The Garden of Heritage",
+        "es": "El Jardín del Patrimonio",
         "en": "The Garden of Heritage",
         "is_correct": false
       },
       {
-        "es": "The Square of Echoes",
+        "es": "La Plaza de los Ecos",
         "en": "The Square of Echoes",
         "is_correct": false
       },
@@ -13042,7 +13042,7 @@
         "is_correct": true
       },
       {
-        "es": "The Plaza of Statues",
+        "es": "La Plaza de las Estatuas",
         "en": "The Plaza of Statues",
         "is_correct": false
       }
@@ -13212,17 +13212,17 @@
         "is_correct": true
       },
       {
-        "es": "Reforma Law",
+        "es": "Ley de Reforma",
         "en": "Reforma Law",
         "is_correct": false
       },
       {
-        "es": "Press Freedom Declaration",
+        "es": "Declaración de Libertad de Prensa",
         "en": "Press Freedom Declaration",
         "is_correct": false
       },
       {
-        "es": "Liberty Act",
+        "es": "Ley de Libertad",
         "en": "Liberty Act",
         "is_correct": false
       }
@@ -13237,7 +13237,7 @@
     "stem_en": "What was the printing law enacted in 1853 during Santa Anna’s government called?",
     "options": [
       {
-        "es": "Press Regulation Act",
+        "es": "Ley de Regulación de Prensa",
         "en": "Press Regulation Act",
         "is_correct": false
       },
@@ -13247,12 +13247,12 @@
         "is_correct": true
       },
       {
-        "es": "Censorship Order",
+        "es": "Orden de Censura",
         "en": "Censorship Order",
         "is_correct": false
       },
       {
-        "es": "Freedom of Expression Law",
+        "es": "Ley de Libertad de Expresión",
         "en": "Freedom of Expression Law",
         "is_correct": false
       }
@@ -13267,7 +13267,7 @@
     "stem_en": "Which major historical process in Mexico began in 1519 with the arrival of the Spaniards?",
     "options": [
       {
-        "es": "Independence Movement",
+        "es": "Movimiento de Independencia",
         "en": "Independence Movement",
         "is_correct": false
       },
@@ -13277,12 +13277,12 @@
         "is_correct": true
       },
       {
-        "es": "Cultural Exchange",
+        "es": "Intercambio Cultural",
         "en": "Cultural Exchange",
         "is_correct": false
       },
       {
-        "es": "Colonial Trade",
+        "es": "Comercio Colonial",
         "en": "Colonial Trade",
         "is_correct": false
       }
@@ -13297,17 +13297,17 @@
     "stem_en": "Which historical movement began in 1810 with the Grito de Dolores?",
     "options": [
       {
-        "es": "Constitutionalism",
+        "es": "Constitucionalismo",
         "en": "Constitutionalism",
         "is_correct": false
       },
       {
-        "es": "Federalism",
+        "es": "Federalismo",
         "en": "Federalism",
         "is_correct": false
       },
       {
-        "es": "Reform",
+        "es": "Reforma",
         "en": "Reform",
         "is_correct": false
       },
@@ -13327,17 +13327,17 @@
     "stem_en": "Which historical process began in 1910 to end the Porfiriato?",
     "options": [
       {
-        "es": "Reform Movement",
+        "es": "Movimiento de Reforma",
         "en": "Reform Movement",
         "is_correct": false
       },
       {
-        "es": "Constitutional Change",
+        "es": "Cambio Constitucional",
         "en": "Constitutional Change",
         "is_correct": false
       },
       {
-        "es": "Mexican Independence",
+        "es": "Independencia de México",
         "en": "Mexican Independence",
         "is_correct": false
       },
@@ -13392,17 +13392,17 @@
         "is_correct": true
       },
       {
-        "es": "First Monday of August",
+        "es": "Primer lunes de agosto",
         "en": "First Monday of August",
         "is_correct": false
       },
       {
-        "es": "Second Tuesday of July",
+        "es": "Segundo martes de julio",
         "en": "Second Tuesday of July",
         "is_correct": false
       },
       {
-        "es": "Last Sunday of June",
+        "es": "Último domingo de junio",
         "en": "Last Sunday of June",
         "is_correct": false
       }
@@ -13477,17 +13477,17 @@
     "stem_en": "When was the Angel of Independence inaugurated?",
     "options": [
       {
-        "es": "November 20, 1910",
+        "es": "20 de noviembre de 1910",
         "en": "November 20, 1910",
         "is_correct": false
       },
       {
-        "es": "September 16, 1921",
+        "es": "16 de septiembre de 1921",
         "en": "September 16, 1921",
         "is_correct": false
       },
       {
-        "es": "October 5, 1910",
+        "es": "5 de octubre de 1910",
         "en": "October 5, 1910",
         "is_correct": false
       },
@@ -13597,12 +13597,12 @@
     "stem_en": "What is celebrated on November 20, 1910?",
     "options": [
       {
-        "es": "Day of the Independence of Mexico",
+        "es": "Día de la Independencia de México",
         "en": "Day of the Independence of Mexico",
         "is_correct": false
       },
       {
-        "es": "Anniversary of the Mexican Constitution",
+        "es": "Aniversario de la Constitución Mexicana",
         "en": "Anniversary of the Mexican Constitution",
         "is_correct": false
       },
@@ -13612,7 +13612,7 @@
         "is_correct": true
       },
       {
-        "es": "Day of the Revolution of 1848",
+        "es": "Día de la Revolución de 1848",
         "en": "Day of the Revolution of 1848",
         "is_correct": false
       }
@@ -13687,17 +13687,17 @@
     "stem_en": "Where was Emiliano Zapata assassinated during the Mexican Revolution?",
     "options": [
       {
-        "es": "Tierra Blanca Ranch, Guerrero",
+        "es": "Rancho Tierra Blanca, Guerrero",
         "en": "Tierra Blanca Ranch, Guerrero",
         "is_correct": false
       },
       {
-        "es": "La Cañada Estate, Puebla",
+        "es": "La Cañada, Puebla",
         "en": "La Cañada Estate, Puebla",
         "is_correct": false
       },
       {
-        "es": "San Luis Potosí Plaza, San Luis Potosí",
+        "es": "Plaza de San Luis Potosí, San Luis Potosí",
         "en": "San Luis Potosí Plaza, San Luis Potosí",
         "is_correct": false
       },
@@ -13722,17 +13722,17 @@
         "is_correct": true
       },
       {
-        "es": "March 21, 1920",
+        "es": "21 de marzo de 1920",
         "en": "March 21, 1920",
         "is_correct": false
       },
       {
-        "es": "May 1, 1921",
+        "es": "1 de mayo de 1921",
         "en": "May 1, 1921",
         "is_correct": false
       },
       {
-        "es": "February 25, 1918",
+        "es": "25 de febrero de 1918",
         "en": "February 25, 1918",
         "is_correct": false
       }
@@ -13757,7 +13757,7 @@
         "is_correct": false
       },
       {
-        "es": "Alvaro Obregón",
+        "es": "Álvaro Obregón",
         "en": "Alvaro Obregón",
         "is_correct": false
       },
@@ -13812,17 +13812,17 @@
         "is_correct": true
       },
       {
-        "es": "Minister of War",
+        "es": "Ministro de Guerra",
         "en": "Minister of War",
         "is_correct": false
       },
       {
-        "es": "Governor of Coahuila",
+        "es": "Gobernador de Coahuila",
         "en": "Governor of Coahuila",
         "is_correct": false
       },
       {
-        "es": "Chief of the Revolutionary Army",
+        "es": "Jefe del Ejército Revolucionario",
         "en": "Chief of the Revolutionary Army",
         "is_correct": false
       }
@@ -13837,7 +13837,7 @@
     "stem_en": "What was the mining strike in Sonora called that preceded the Mexican Revolution?",
     "options": [
       {
-        "es": "Rio Blanco Strike",
+        "es": "Huelga de Rio Blanco",
         "en": "Rio Blanco Strike",
         "is_correct": false
       },
@@ -13847,12 +13847,12 @@
         "is_correct": true
       },
       {
-        "es": "Torreón Rebellion",
+        "es": "Rebelión de Torreón",
         "en": "Torreón Rebellion",
         "is_correct": false
       },
       {
-        "es": "Puebla Insurrection",
+        "es": "Insurrección de Puebla",
         "en": "Puebla Insurrection",
         "is_correct": false
       }
@@ -13962,17 +13962,17 @@
         "is_correct": true
       },
       {
-        "es": "April 15, 1921",
+        "es": "15 de abril de 1921",
         "en": "April 15, 1921",
         "is_correct": false
       },
       {
-        "es": "March 5, 1924",
+        "es": "5 de marzo de 1924",
         "en": "March 5, 1924",
         "is_correct": false
       },
       {
-        "es": "September 30, 1922",
+        "es": "30 de septiembre de 1922",
         "en": "September 30, 1922",
         "is_correct": false
       }
@@ -14022,17 +14022,17 @@
         "is_correct": true
       },
       {
-        "es": "Mexican-American War",
+        "es": "Guerra Mexicano-Americana",
         "en": "Mexican-American War",
         "is_correct": false
       },
       {
-        "es": "War of Independence",
+        "es": "Guerra de Independencia",
         "en": "War of Independence",
         "is_correct": false
       },
       {
-        "es": "Cristero War",
+        "es": "Guerra Cristera",
         "en": "Cristero War",
         "is_correct": false
       }
@@ -14197,12 +14197,12 @@
     "stem_en": "What was the practice during the Porfiriato called of simulating a prisoner's escape to justify executing them?",
     "options": [
       {
-        "es": "Law of Dissent",
+        "es": "Ley de Disenso",
         "en": "Law of Dissent",
         "is_correct": false
       },
       {
-        "es": "Regulation of Disappearance",
+        "es": "Reglamento de Desaparición",
         "en": "Regulation of Disappearance",
         "is_correct": false
       },
@@ -14212,7 +14212,7 @@
         "is_correct": true
       },
       {
-        "es": "Policy of Exile",
+        "es": "Política de Exilio",
         "en": "Policy of Exile",
         "is_correct": false
       }
@@ -14227,12 +14227,12 @@
     "stem_en": "What was the common form of murder during the revolution?",
     "options": [
       {
-        "es": "Extra-judicial Execution",
+        "es": "Ejecución Extrajudicial",
         "en": "Extra-judicial Execution",
         "is_correct": false
       },
       {
-        "es": "Political Assassination",
+        "es": "Asesinato Político",
         "en": "Political Assassination",
         "is_correct": false
       },
@@ -14242,7 +14242,7 @@
         "is_correct": true
       },
       {
-        "es": "Forced Disappearance",
+        "es": "Desaparición Forzada",
         "en": "Forced Disappearance",
         "is_correct": false
       }
@@ -14257,12 +14257,12 @@
     "stem_en": "In what year was the current constitution that governs us signed?",
     "options": [
       {
-        "es": "March 27th, 1913",
+        "es": "27 de marzo de 1913",
         "en": "March 27th, 1913",
         "is_correct": false
       },
       {
-        "es": "November 20th, 1920",
+        "es": "20 de noviembre de 1920",
         "en": "November 20th, 1920",
         "is_correct": false
       },
@@ -14272,7 +14272,7 @@
         "is_correct": true
       },
       {
-        "es": "September 16th, 1810",
+        "es": "16 de septiembre de 1810",
         "en": "September 16th, 1810",
         "is_correct": false
       }
@@ -14317,12 +14317,12 @@
     "stem_en": "What was the armed conflict in Mexico between 1926 and 1929 over religious issues called?",
     "options": [
       {
-        "es": "Zapatista Uprising",
+        "es": "Levantamiento Zapatista",
         "en": "Zapatista Uprising",
         "is_correct": false
       },
       {
-        "es": "War of the Reform",
+        "es": "Guerra de la Reforma",
         "en": "War of the Reform",
         "is_correct": false
       },
@@ -14332,7 +14332,7 @@
         "is_correct": true
       },
       {
-        "es": "Mexican Revolution",
+        "es": "Revolución Mexicana",
         "en": "Mexican Revolution",
         "is_correct": false
       }
@@ -14387,12 +14387,12 @@
         "is_correct": true
       },
       {
-        "es": "Constitution of 1917",
+        "es": "Constitución de 1917",
         "en": "Constitution of 1917",
         "is_correct": false
       },
       {
-        "es": "Lázaro Cárdenas Reform",
+        "es": "Reforma Lázaro Cárdenas",
         "en": "Lázaro Cárdenas Reform",
         "is_correct": false
       }
@@ -14557,17 +14557,17 @@
     "stem_en": "What was the political party called that governed Mexico for much of the 20th century for around seven decades?",
     "options": [
       {
-        "es": "Socialist Workers' Party",
+        "es": "Partido de los Trabajadores Socialistas",
         "en": "Socialist Workers' Party",
         "is_correct": false
       },
       {
-        "es": "Democratic Revolution Party",
+        "es": "Partido de la Revolución Democrática",
         "en": "Democratic Revolution Party",
         "is_correct": false
       },
       {
-        "es": "National Action Party",
+        "es": "Partido Acción Nacional",
         "en": "National Action Party",
         "is_correct": false
       },
@@ -14647,12 +14647,12 @@
     "stem_en": "What historic action did President Lázaro Cárdenas carry out on March 18, 1938 regarding the oil industry?",
     "options": [
       {
-        "es": "Establishment of land reform policies",
+        "es": "Establecimiento de políticas de reforma agraria",
         "en": "Establishment of land reform policies",
         "is_correct": false
       },
       {
-        "es": "Creation of the PEMEX corporation",
+        "es": "Creación de la corporación PEMEX",
         "en": "Creation of the PEMEX corporation",
         "is_correct": false
       },
@@ -14662,7 +14662,7 @@
         "is_correct": true
       },
       {
-        "es": "Nationalization of railways",
+        "es": "Nacionalización de ferrocarriles",
         "en": "Nationalization of railways",
         "is_correct": false
       }
@@ -14707,17 +14707,17 @@
     "stem_en": "What is the scientific name of petroleum?",
     "options": [
       {
-        "es": "Bitumen",
+        "es": "Betún",
         "en": "Bitumen",
         "is_correct": false
       },
       {
-        "es": "Asphalt",
+        "es": "Asfalto",
         "en": "Asphalt",
         "is_correct": false
       },
       {
-        "es": "Kerosene",
+        "es": "Keroseno",
         "en": "Kerosene",
         "is_correct": false
       },
@@ -14797,17 +14797,17 @@
     "stem_en": "What is another name for the Diana Cazadora?",
     "options": [
       {
-        "es": "Protector of the Skies",
+        "es": "Protectora de los Cielos",
         "en": "Protector of the Skies",
         "is_correct": false
       },
       {
-        "es": "Goddess of the Moonlight",
+        "es": "Diosa de la Luz de la Luna",
         "en": "Goddess of the Moonlight",
         "is_correct": false
       },
       {
-        "es": "Guardian of the Stars",
+        "es": "Guardiana de las Estrellas",
         "en": "Guardian of the Stars",
         "is_correct": false
       },
@@ -14887,7 +14887,7 @@
     "stem_en": "On what date was the Mexican Institute of Social Security created?",
     "options": [
       {
-        "es": "February 12, 1944",
+        "es": "12 de febrero de 1944",
         "en": "February 12, 1944",
         "is_correct": false
       },
@@ -14897,12 +14897,12 @@
         "is_correct": true
       },
       {
-        "es": "December 1, 1945",
+        "es": "1 de diciembre de 1945",
         "en": "December 1, 1945",
         "is_correct": false
       },
       {
-        "es": "March 15, 1942",
+        "es": "15 de marzo de 1942",
         "en": "March 15, 1942",
         "is_correct": false
       }
@@ -14952,12 +14952,12 @@
         "is_correct": false
       },
       {
-        "es": "Brigada Aérea Mexicana",
+        "es": "Escuadrón Aéreo Mexicano",
         "en": "Brigada Aérea Mexicana",
         "is_correct": false
       },
       {
-        "es": "Grupo Aéreo de México",
+        "es": "Escuadrón Aéreo de México",
         "en": "Grupo Aéreo de México",
         "is_correct": false
       },
@@ -14977,7 +14977,7 @@
     "stem_en": "How did Mexico support the Allied war effort by sending agricultural and industrial workers to the United States between 1942 and 1947?",
     "options": [
       {
-        "es": "Mexican Labor Agreement",
+        "es": "Acuerdo Laboral Mexicano",
         "en": "Mexican Labor Agreement",
         "is_correct": false
       },
@@ -14987,12 +14987,12 @@
         "is_correct": true
       },
       {
-        "es": "Agricultural Assistance Program",
+        "es": "Programa de Asistencia Agrícola",
         "en": "Agricultural Assistance Program",
         "is_correct": false
       },
       {
-        "es": "Worker Exchange Initiative",
+        "es": "Iniciativa de Intercambio de Trabajadores",
         "en": "Worker Exchange Initiative",
         "is_correct": false
       }
@@ -15007,12 +15007,12 @@
     "stem_en": "Besides sending Squadron 201, in what other way did Mexico contribute to World War II by supplying the United States with strategic inputs?",
     "options": [
       {
-        "es": "Deployment of naval forces to the Atlantic",
+        "es": "Despliegue de fuerzas navales en el Atlántico",
         "en": "Deployment of naval forces to the Atlantic",
         "is_correct": false
       },
       {
-        "es": "Donation of financial aid to European allies",
+        "es": "Donación de ayuda financiera a aliados europeos",
         "en": "Donation of financial aid to European allies",
         "is_correct": false
       },
@@ -15022,7 +15022,7 @@
         "is_correct": true
       },
       {
-        "es": "Provision of military training for U.S. troops",
+        "es": "Provisión de entrenamiento militar para tropas estadounidenses",
         "en": "Provision of military training for U.S. troops",
         "is_correct": false
       }
@@ -15067,17 +15067,17 @@
     "stem_en": "On what date was the constitutional reform published that granted Mexican women the right to vote in federal elections?",
     "options": [
       {
-        "es": "September 2, 1954",
+        "es": "2 de septiembre de 1954",
         "en": "September 2, 1954",
         "is_correct": false
       },
       {
-        "es": "November 20, 1952",
+        "es": "20 de noviembre de 1952",
         "en": "November 20, 1952",
         "is_correct": false
       },
       {
-        "es": "March 5, 1956",
+        "es": "5 de marzo de 1956",
         "en": "March 5, 1956",
         "is_correct": false
       },
@@ -15127,7 +15127,7 @@
     "stem_en": "When did women vote for the first time?",
     "options": [
       {
-        "es": "May 1, 1954",
+        "es": "1 de mayo de 1954",
         "en": "May 1, 1954",
         "is_correct": false
       },
@@ -15137,12 +15137,12 @@
         "is_correct": true
       },
       {
-        "es": "March 20, 1947",
+        "es": "20 de marzo de 1947",
         "en": "March 20, 1947",
         "is_correct": false
       },
       {
-        "es": "September 15, 1960",
+        "es": "15 de septiembre de 1960",
         "en": "September 15, 1960",
         "is_correct": false
       }
@@ -15157,12 +15157,12 @@
     "stem_en": "At what age can you vote in Mexico?",
     "options": [
       {
-        "es": "21 years old",
+        "es": "21 años",
         "en": "21 years old",
         "is_correct": false
       },
       {
-        "es": "20 years old",
+        "es": "20 años",
         "en": "20 years old",
         "is_correct": false
       },
@@ -15172,7 +15172,7 @@
         "is_correct": true
       },
       {
-        "es": "16 years old",
+        "es": "16 años",
         "en": "16 years old",
         "is_correct": false
       }
@@ -15187,7 +15187,7 @@
     "stem_en": "When did the Angel of Independence fall?",
     "options": [
       {
-        "es": "May 5, 1950",
+        "es": "5 de mayo de 1950",
         "en": "May 5, 1950",
         "is_correct": false
       },
@@ -15197,12 +15197,12 @@
         "is_correct": true
       },
       {
-        "es": "August 15, 1966",
+        "es": "15 de agosto de 1966",
         "en": "August 15, 1966",
         "is_correct": false
       },
       {
-        "es": "September 16, 1948",
+        "es": "16 de septiembre de 1948",
         "en": "September 16, 1948",
         "is_correct": false
       }
@@ -15217,12 +15217,12 @@
     "stem_en": "What is the event that occurred on October 2, 1968 at the Plaza de las Tres Culturas in Tlatelolco, where state forces repressed a student demonstration known as?",
     "options": [
       {
-        "es": "The Mexico City Riots",
+        "es": "Los Disturbios de la Ciudad de México",
         "en": "The Mexico City Riots",
         "is_correct": false
       },
       {
-        "es": "The Day of the Dead Uprising",
+        "es": "La Revuelta del Día de Muertos",
         "en": "The Day of the Dead Uprising",
         "is_correct": false
       },
@@ -15232,7 +15232,7 @@
         "is_correct": true
       },
       {
-        "es": "The Zocalo Protests",
+        "es": "Las Protestas del Zócalo",
         "en": "The Zocalo Protests",
         "is_correct": false
       }
@@ -15247,17 +15247,17 @@
     "stem_en": "When was the Tlatelolco massacre?",
     "options": [
       {
-        "es": "September 16, 1968",
+        "es": "16 de septiembre de 1968",
         "en": "September 16, 1968",
         "is_correct": false
       },
       {
-        "es": "August 1, 1969",
+        "es": "1 de agosto de 1969",
         "en": "August 1, 1969",
         "is_correct": false
       },
       {
-        "es": "November 20, 1970",
+        "es": "20 de noviembre de 1970",
         "en": "November 20, 1970",
         "is_correct": false
       },
@@ -15312,17 +15312,17 @@
         "is_correct": true
       },
       {
-        "es": "October 1, 1980",
+        "es": "1 de octubre de 1980",
         "en": "October 1, 1980",
         "is_correct": false
       },
       {
-        "es": "June 12, 1968",
+        "es": "12 de junio de 1968",
         "en": "June 12, 1968",
         "is_correct": false
       },
       {
-        "es": "August 15, 1971",
+        "es": "15 de agosto de 1971",
         "en": "August 15, 1971",
         "is_correct": false
       }
@@ -15367,17 +15367,17 @@
     "stem_en": "What do the initials CONALEP stand for, a Mexican public technical high school institution created to train professional technicians?",
     "options": [
       {
-        "es": "National Council of Advanced Learning Programs",
+        "es": "Consejo Nacional de Programas Avanzados de Aprendizaje",
         "en": "National Council of Advanced Learning Programs",
         "is_correct": false
       },
       {
-        "es": "Center for National Educational Leadership and Professionalism",
+        "es": "Centro Nacional de Liderazgo Educativo y Profesionalismo",
         "en": "Center for National Educational Leadership and Professionalism",
         "is_correct": false
       },
       {
-        "es": "Comprehensive Network of Adult Learning and Education Programs",
+        "es": "Red Integral de Programas de Aprendizaje y Educación para Adultos",
         "en": "Comprehensive Network of Adult Learning and Education Programs",
         "is_correct": false
       },
@@ -15397,12 +15397,12 @@
     "stem_en": "In what month and year was CONALEP created as a public technical education institution in Mexico during the government of José López Portillo?",
     "options": [
       {
-        "es": "March 1977",
+        "es": "Marzo de 1977",
         "en": "March 1977",
         "is_correct": false
       },
       {
-        "es": "May 1980",
+        "es": "Mayo de 1980",
         "en": "May 1980",
         "is_correct": false
       },
@@ -15412,7 +15412,7 @@
         "is_correct": true
       },
       {
-        "es": "January 1979",
+        "es": "Enero de 1979",
         "en": "January 1979",
         "is_correct": false
       }
@@ -15427,12 +15427,12 @@
     "stem_en": "Which Mexican public higher education institution was created specifically to train engineers, scientists, and technicians for the country's industrial development?",
     "options": [
       {
-        "es": "Technological University of Mexico",
+        "es": "Universidad Tecnológica de México",
         "en": "Technological University of Mexico",
         "is_correct": false
       },
       {
-        "es": "National Institute of Higher Studies",
+        "es": "Instituto Nacional de Estudios Superiores",
         "en": "National Institute of Higher Studies",
         "is_correct": false
       },
@@ -15442,7 +15442,7 @@
         "is_correct": true
       },
       {
-        "es": "Mexican Institute of Industrial Technology",
+        "es": "Instituto Mexicano de Tecnología Industrial",
         "en": "Mexican Institute of Industrial Technology",
         "is_correct": false
       }
@@ -15487,17 +15487,17 @@
     "stem_en": "Which Mexican technical university has the motto 'Technology at the service of the homeland'?",
     "options": [
       {
-        "es": "National Institute of Technology and Science",
+        "es": "Instituto Nacional de Tecnología y Ciencia",
         "en": "National Institute of Technology and Science",
         "is_correct": false
       },
       {
-        "es": "Technological Institute of Monterrey",
+        "es": "Instituto Tecnológico de Monterrey",
         "en": "Technological Institute of Monterrey",
         "is_correct": false
       },
       {
-        "es": "Autonomous University of Mexico City",
+        "es": "Universidad Autónoma de la Ciudad de México",
         "en": "Autonomous University of Mexico City",
         "is_correct": false
       },
@@ -15517,7 +15517,7 @@
     "stem_en": "What is the official motto of the National Polytechnic Institute, a phrase created by the student Jesús Robles?",
     "options": [
       {
-        "es": "Education as a pillar of national progress",
+        "es": "La educación como pilar del progreso nacional",
         "en": "Education as a pillar of national progress",
         "is_correct": false
       },
@@ -15527,12 +15527,12 @@
         "is_correct": true
       },
       {
-        "es": "Innovation for the future of Mexico",
+        "es": "Innovación para el futuro de México",
         "en": "Innovation for the future of Mexico",
         "is_correct": false
       },
       {
-        "es": "Excellence in science and technology",
+        "es": "Excelencia en ciencia y tecnología",
         "en": "Excellence in science and technology",
         "is_correct": false
       }
@@ -15637,12 +15637,12 @@
     "stem_en": "On what date was the nationalization of the banking system in Mexico decreed?",
     "options": [
       {
-        "es": "August 15, 1983",
+        "es": "15 de agosto de 1983",
         "en": "August 15, 1983",
         "is_correct": false
       },
       {
-        "es": "July 12, 1984",
+        "es": "12 de julio de 1984",
         "en": "July 12, 1984",
         "is_correct": false
       },
@@ -15652,7 +15652,7 @@
         "is_correct": true
       },
       {
-        "es": "October 5, 1981",
+        "es": "5 de octubre de 1981",
         "en": "October 5, 1981",
         "is_correct": false
       }
@@ -15757,12 +15757,12 @@
     "stem_en": "When was the free trade agreement (TLC, NAFTA) signed?",
     "options": [
       {
-        "es": "May 5, 1992",
+        "es": "5 de mayo de 1992",
         "en": "May 5, 1992",
         "is_correct": false
       },
       {
-        "es": "January 1, 1994",
+        "es": "1 de enero de 1994",
         "en": "January 1, 1994",
         "is_correct": false
       },
@@ -15772,7 +15772,7 @@
         "is_correct": true
       },
       {
-        "es": "November 15, 1993",
+        "es": "15 de noviembre de 1993",
         "en": "November 15, 1993",
         "is_correct": false
       }
@@ -15787,12 +15787,12 @@
     "stem_en": "When did the free trade agreement (TLC, NAFTA) come into effect?",
     "options": [
       {
-        "es": "March 15, 1995",
+        "es": "15 de marzo de 1995",
         "en": "March 15, 1995",
         "is_correct": false
       },
       {
-        "es": "January 1, 1992",
+        "es": "01 de enero de 1992",
         "en": "January 1, 1992",
         "is_correct": false
       },
@@ -15802,7 +15802,7 @@
         "is_correct": true
       },
       {
-        "es": "July 4, 1996",
+        "es": "04 de julio de 1996",
         "en": "July 4, 1996",
         "is_correct": false
       }
@@ -15817,7 +15817,7 @@
     "stem_en": "Which president signed the NAFTA free trade agreement?",
     "options": [
       {
-        "es": "Felipe Calderón",
+        "es": "Felipe Calderón Hinojosa",
         "en": "Felipe Calderón",
         "is_correct": false
       },
@@ -15827,7 +15827,7 @@
         "is_correct": true
       },
       {
-        "es": "Vicente Fox",
+        "es": "Vicente Fox Quesada",
         "en": "Vicente Fox",
         "is_correct": false
       },
@@ -15847,17 +15847,17 @@
     "stem_en": "Which countries did Mexico celebrate the trade agreement known as NAFTA?",
     "options": [
       {
-        "es": "Germany and France",
+        "es": "Alemania y Francia",
         "en": "Germany and France",
         "is_correct": false
       },
       {
-        "es": "Japan and South Korea",
+        "es": "Japón y Corea del Sur",
         "en": "Japan and South Korea",
         "is_correct": false
       },
       {
-        "es": "Brazil and Argentina",
+        "es": "Brasil y Argentina",
         "en": "Brazil and Argentina",
         "is_correct": false
       },
@@ -15882,17 +15882,17 @@
         "is_correct": true
       },
       {
-        "es": "Chiapas Liberation Army (CLA)",
+        "es": "Ejército de Liberación de Chiapas (ELC)",
         "en": "Chiapas Liberation Army (CLA)",
         "is_correct": false
       },
       {
-        "es": "National Indigenous Congress (CNI)",
+        "es": "Congreso Nacional Indígena (CNI)",
         "en": "National Indigenous Congress (CNI)",
         "is_correct": false
       },
       {
-        "es": "Mayan Revolutionary Front (MRF)",
+        "es": "Frente Revolucionario Maya (FRM)",
         "en": "Mayan Revolutionary Front (MRF)",
         "is_correct": false
       }
@@ -15907,7 +15907,7 @@
     "stem_en": "What is the social and political conflict in Chiapas during the 1990s related to the EZLN known as?",
     "options": [
       {
-        "es": "Indigenous rights movement",
+        "es": "Movimiento de derechos indígenas",
         "en": "Indigenous rights movement",
         "is_correct": false
       },
@@ -15917,12 +15917,12 @@
         "is_correct": true
       },
       {
-        "es": "Mayan rebellion",
+        "es": "Rebelión maya",
         "en": "Mayan rebellion",
         "is_correct": false
       },
       {
-        "es": "Zapatista uprising",
+        "es": "Levantamiento zapatista",
         "en": "Zapatista uprising",
         "is_correct": false
       }
@@ -15937,17 +15937,17 @@
     "stem_en": "What movement emerged in Chiapas as a response to neoliberal policies after the signing of NAFTA?",
     "options": [
       {
-        "es": "Mexican Workers' Alliance",
+        "es": "Alianza de Trabajadores Mexicanos",
         "en": "Mexican Workers' Alliance",
         "is_correct": false
       },
       {
-        "es": "Chiapas Agricultural Reform",
+        "es": "Reforma Agraria Chiapas",
         "en": "Chiapas Agricultural Reform",
         "is_correct": false
       },
       {
-        "es": "Mayan Revival Movement",
+        "es": "Movimiento de Renacimiento Maya",
         "en": "Mayan Revival Movement",
         "is_correct": false
       },
@@ -15967,17 +15967,17 @@
     "stem_en": "On what date did the analog blackout occur in Mexico, marking the end of analog television broadcasts?",
     "options": [
       {
-        "es": "November 30, 2014",
+        "es": "30 de noviembre de 2014",
         "en": "November 30, 2014",
         "is_correct": false
       },
       {
-        "es": "July 1, 2016",
+        "es": "1 de julio de 2016",
         "en": "July 1, 2016",
         "is_correct": false
       },
       {
-        "es": "January 15, 2017",
+        "es": "15 de enero de 2017",
         "en": "January 15, 2017",
         "is_correct": false
       },
@@ -15997,17 +15997,17 @@
     "stem_en": "What technological change officially began in Mexico after the analog blackout?",
     "options": [
       {
-        "es": "Satellite radio",
+        "es": "La radio satelital",
         "en": "Satellite radio",
         "is_correct": false
       },
       {
-        "es": "Streaming video services",
+        "es": "Servicios de video en streaming",
         "en": "Streaming video services",
         "is_correct": false
       },
       {
-        "es": "HD radio broadcasting",
+        "es": "La radiodifusión de radio HD",
         "en": "HD radio broadcasting",
         "is_correct": false
       },
@@ -16067,7 +16067,7 @@
         "is_correct": true
       },
       {
-        "es": "Angel of Independence",
+        "es": "Ángel de la Independencia",
         "en": "Angel of Independence",
         "is_correct": false
       },
@@ -16147,12 +16147,12 @@
     "stem_en": "Which natural reserve in Sonora, known for its volcanic fields, craters, and dunes in the Altar Desert, is recognized as a UNESCO World Heritage Site?",
     "options": [
       {
-        "es": "Desierto de los Leones Biosphere Reserve",
+        "es": "Reserva de la Biosfera del Desierto de los Leones",
         "en": "Desierto de los Leones Biosphere Reserve",
         "is_correct": false
       },
       {
-        "es": "Sierra de Órganos National Park",
+        "es": "Parque Nacional Sierra de Órganos",
         "en": "Sierra de Órganos National Park",
         "is_correct": false
       },
@@ -16162,7 +16162,7 @@
         "is_correct": true
       },
       {
-        "es": "Cumbres del Ajusco National Park",
+        "es": "Parque Nacional Cumbres del Ajusco",
         "en": "Cumbres del Ajusco National Park",
         "is_correct": false
       }
@@ -16177,12 +16177,12 @@
     "stem_en": "What is the name of the natural reserve in Sonora that protects one of Mexico’s most important desert and volcanic landscapes?",
     "options": [
       {
-        "es": "Cumbres de Monterrey National Park",
+        "es": "Parque Nacional Cumbres de Monterrey",
         "en": "Cumbres de Monterrey National Park",
         "is_correct": false
       },
       {
-        "es": "Desierto de los Leones National Park",
+        "es": "Parque Nacional Desierto de los Leones",
         "en": "Desierto de los Leones National Park",
         "is_correct": false
       },
@@ -16192,7 +16192,7 @@
         "is_correct": true
       },
       {
-        "es": "Sierra de Órganos National Park",
+        "es": "Parque Nacional Sierra de Órganos",
         "en": "Sierra de Órganos National Park",
         "is_correct": false
       }
@@ -16207,17 +16207,17 @@
     "stem_en": "What is the name of the protected natural reserve in the Gulf of Mexico?",
     "options": [
       {
-        "es": "The Yucatán Marine Park",
+        "es": "El Parque Marino de Yucatán",
         "en": "The Yucatán Marine Park",
         "is_correct": false
       },
       {
-        "es": "The Sian Ka'an Biosphere",
+        "es": "La Biosfera de Sian Ka'an",
         "en": "The Sian Ka'an Biosphere",
         "is_correct": false
       },
       {
-        "es": "The Isla Contoy National Park",
+        "es": "El Parque Nacional Isla Contoy",
         "en": "The Isla Contoy National Park",
         "is_correct": false
       },
@@ -16237,17 +16237,17 @@
     "stem_en": "Which natural reserve located in the Gulf of California, in Baja California Sur, is recognized for having one of the oldest and best-preserved coral reefs in the Mexican Pacific and protected as a National Park?",
     "options": [
       {
-        "es": "Marietas Islands National Park",
+        "es": "Parque Nacional Islas Marietas",
         "en": "Marietas Islands National Park",
         "is_correct": false
       },
       {
-        "es": "Loreto Bay National Park",
+        "es": "Parque Nacional Bahía Loreto",
         "en": "Loreto Bay National Park",
         "is_correct": false
       },
       {
-        "es": "Isla Contoy National Park",
+        "es": "Parque Nacional Isla Contoy",
         "en": "Isla Contoy National Park",
         "is_correct": false
       },
@@ -16267,17 +16267,17 @@
     "stem_en": "Place in Mexico where whales, sea lions, or where humpback whales are observed in the wild?",
     "options": [
       {
-        "es": "Pacific Ocean",
+        "es": "Océano Pacífico",
         "en": "Pacific Ocean",
         "is_correct": false
       },
       {
-        "es": "Bay of Banderas",
+        "es": "Bahía de Banderas",
         "en": "Bay of Banderas",
         "is_correct": false
       },
       {
-        "es": "Gulf of Mexico",
+        "es": "Golfo de México",
         "en": "Gulf of Mexico",
         "is_correct": false
       },
@@ -16297,7 +16297,7 @@
     "stem_en": "Where is the Sea of Cortez or Red Sea?",
     "options": [
       {
-        "es": "Gulf of Mexico",
+        "es": "Golfo de México",
         "en": "Gulf of Mexico",
         "is_correct": false
       },
@@ -16307,12 +16307,12 @@
         "is_correct": true
       },
       {
-        "es": "Pacific Ocean",
+        "es": "Océano Pacífico",
         "en": "Pacific Ocean",
         "is_correct": false
       },
       {
-        "es": "Caribbean Sea",
+        "es": "Mar Caribe",
         "en": "Caribbean Sea",
         "is_correct": false
       }
@@ -16327,17 +16327,17 @@
     "stem_en": "Baja California Norte, Baja California Sur, Sonora, and Sinaloa are the states that surround this sea, also known as the Gulf of California:",
     "options": [
       {
-        "es": "Gulf of Tehuantepec",
+        "es": "Golfo de Tehuantepec",
         "en": "Gulf of Tehuantepec",
         "is_correct": false
       },
       {
-        "es": "Bay of Campeche",
+        "es": "Bahía de Campeche",
         "en": "Bay of Campeche",
         "is_correct": false
       },
       {
-        "es": "Caribbean Sea",
+        "es": "Mar Caribe",
         "en": "Caribbean Sea",
         "is_correct": false
       },
@@ -16432,7 +16432,7 @@
         "is_correct": true
       },
       {
-        "es": "Querétaro City, Querétaro",
+        "es": "Querétaro, Querétaro",
         "en": "Querétaro City, Querétaro",
         "is_correct": false
       }
@@ -16457,7 +16457,7 @@
         "is_correct": false
       },
       {
-        "es": "Brazil",
+        "es": "Brasil",
         "en": "Brazil",
         "is_correct": false
       },
@@ -16482,17 +16482,17 @@
         "is_correct": true
       },
       {
-        "es": "15th place",
+        "es": "15° lugar",
         "en": "15th place",
         "is_correct": false
       },
       {
-        "es": "11th place",
+        "es": "11° lugar",
         "en": "11th place",
         "is_correct": false
       },
       {
-        "es": "10th place",
+        "es": "10° lugar",
         "en": "10th place",
         "is_correct": false
       }
@@ -16612,7 +16612,7 @@
         "is_correct": true
       },
       {
-        "es": "Mexico City",
+        "es": "Ciudad de México",
         "en": "Mexico City",
         "is_correct": false
       }
@@ -16812,12 +16812,12 @@
         "is_correct": true
       },
       {
-        "es": "Sombrerete",
+        "es": "Sombrerete de García Salinas",
         "en": "Sombrerete",
         "is_correct": false
       },
       {
-        "es": "Zacatecas City",
+        "es": "Zacatecas de García Salinas",
         "en": "Zacatecas City",
         "is_correct": false
       },
@@ -17077,7 +17077,7 @@
     "stem_en": "Skyscraper with 43 floors in the center that has withstood 3 earthquakes?",
     "options": [
       {
-        "es": "World Trade Center Mexico City",
+        "es": "Centro Nacional de Comercio Mundial Ciudad de México",
         "en": "World Trade Center Mexico City",
         "is_correct": false
       },
@@ -17167,12 +17167,12 @@
     "stem_en": "When was the earthquake that toppled a church in Puebla?",
     "options": [
       {
-        "es": "August 21, 2018",
+        "es": "21 de agosto de 2018",
         "en": "August 21, 2018",
         "is_correct": false
       },
       {
-        "es": "October 10, 2015",
+        "es": "10 de octubre de 2015",
         "en": "October 10, 2015",
         "is_correct": false
       },
@@ -17182,7 +17182,7 @@
         "is_correct": true
       },
       {
-        "es": "April 20, 2016",
+        "es": "20 de abril de 2016",
         "en": "April 20, 2016",
         "is_correct": false
       }
@@ -17227,17 +17227,17 @@
     "stem_en": "Which countries border Mexico?",
     "options": [
       {
-        "es": "Cuba, Nicaragua, and Costa Rica",
+        "es": "Cuba, Nicaragua y Costa Rica",
         "en": "Cuba, Nicaragua, and Costa Rica",
         "is_correct": false
       },
       {
-        "es": "The United States, Jamaica, and Haiti",
+        "es": "Estados Unidos, Jamaica y Haití",
         "en": "The United States, Jamaica, and Haiti",
         "is_correct": false
       },
       {
-        "es": "Canada, Honduras, and El Salvador",
+        "es": "Canadá, Honduras y El Salvador",
         "en": "Canada, Honduras, and El Salvador",
         "is_correct": false
       },
@@ -17257,17 +17257,17 @@
     "stem_en": "What is the approximate population of Mexico in 2025 according to the most recent official estimates?",
     "options": [
       {
-        "es": "Just over 140 million",
+        "es": "Un poco más de 140 millones",
         "en": "Just over 140 million",
         "is_correct": false
       },
       {
-        "es": "Approximately 120 million",
+        "es": "Alrededor de 120 millones",
         "en": "Approximately 120 million",
         "is_correct": false
       },
       {
-        "es": "Close to 150 million",
+        "es": "Cerca de 150 millones",
         "en": "Close to 150 million",
         "is_correct": false
       },
@@ -17287,12 +17287,12 @@
     "stem_en": "Approximately what rank does Mexico occupy among the world’s most populous countries with over 130 million inhabitants?",
     "options": [
       {
-        "es": "Around 8th",
+        "es": "Octavo o alrededor de ese puesto",
         "en": "Around 8th",
         "is_correct": false
       },
       {
-        "es": "Around 14th",
+        "es": "Décimo cuarto o alrededor de ese puesto",
         "en": "Around 14th",
         "is_correct": false
       },
@@ -17302,7 +17302,7 @@
         "is_correct": true
       },
       {
-        "es": "Around 9th",
+        "es": "Noveno o alrededor de ese puesto",
         "en": "Around 9th",
         "is_correct": false
       }
@@ -17317,12 +17317,12 @@
     "stem_en": "How many peninsulas does Mexico have and which are they?",
     "options": [
       {
-        "es": "4, including Baja California, Yucatán, Isla de la Pasión, and Isla de la Reunión",
+        "es": "4, incluyendo Baja California, Yucatán, Isla de la Pasión e Isla de la Reunión",
         "en": "4, including Baja California, Yucatán, Isla de la Pasión, and Isla de la Reunión",
         "is_correct": false
       },
       {
-        "es": "3, which are Baja California, Yucatán, and Isla de la Juventud",
+        "es": "3, que son Baja California, Yucatán e Isla de la Juventud",
         "en": "3, which are Baja California, Yucatán, and Isla de la Juventud",
         "is_correct": false
       },
@@ -17332,7 +17332,7 @@
         "is_correct": true
       },
       {
-        "es": "1, which is the Yucatán Peninsula",
+        "es": "1, que es la Península de Yucatán",
         "en": "1, which is the Yucatán Peninsula",
         "is_correct": false
       }
@@ -17587,17 +17587,17 @@
     "stem_en": "Which Mexican volcanoes are popularly known as 'Don Goyo' and 'The Sleeping Woman' due to their silhouette and folklore?",
     "options": [
       {
-        "es": "Citlaltépetl and La Mujer Dormida",
+        "es": "Citlaltépetl y La Mujer Dormida",
         "en": "Citlaltépetl and La Mujer Dormida",
         "is_correct": false
       },
       {
-        "es": "Orizaba and La Sierra de la Mujer",
+        "es": "Orizaba y La Sierra de la Mujer",
         "en": "Orizaba and La Sierra de la Mujer",
         "is_correct": false
       },
       {
-        "es": "Nevado de Toluca and La Llorona",
+        "es": "Nevado de Toluca y La Llorona",
         "en": "Nevado de Toluca and La Llorona",
         "is_correct": false
       },
@@ -17617,7 +17617,7 @@
     "stem_en": "What is the highest mountain and volcano in Mexico, located between Puebla and Veracruz?",
     "options": [
       {
-        "es": "Iztaccíhuatl",
+        "es": "Iztaccíhuatl (Mujer Blanca)",
         "en": "Iztaccíhuatl",
         "is_correct": false
       },
@@ -17627,12 +17627,12 @@
         "is_correct": true
       },
       {
-        "es": "Nevado de Toluca",
+        "es": "Nevado de Toluca (Xinantécatl)",
         "en": "Nevado de Toluca",
         "is_correct": false
       },
       {
-        "es": "Popocatépetl",
+        "es": "Popocatépetl (Iztaccíhuatl)",
         "en": "Popocatépetl",
         "is_correct": false
       }
@@ -17682,17 +17682,17 @@
         "is_correct": true
       },
       {
-        "es": "Rio Lerma",
+        "es": "Río Lerma",
         "en": "Rio Lerma",
         "is_correct": false
       },
       {
-        "es": "Rio Usumacinta",
+        "es": "Río Usumacinta",
         "en": "Rio Usumacinta",
         "is_correct": false
       },
       {
-        "es": "Rio Colorado",
+        "es": "Río Colorado",
         "en": "Rio Colorado",
         "is_correct": false
       }
@@ -17712,17 +17712,17 @@
         "is_correct": true
       },
       {
-        "es": "Rio Colorado",
+        "es": "Río Colorado",
         "en": "Rio Colorado",
         "is_correct": false
       },
       {
-        "es": "Rio San Juan",
+        "es": "Río San Juan",
         "en": "Rio San Juan",
         "is_correct": false
       },
       {
-        "es": "Rio Grande",
+        "es": "Río Grande",
         "en": "Rio Grande",
         "is_correct": false
       }
@@ -17737,17 +17737,17 @@
     "stem_en": "Which river crosses the states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas and serves as a natural border between Mexico and the United States?",
     "options": [
       {
-        "es": "Rio San Juan",
+        "es": "Río San Juan",
         "en": "Rio San Juan",
         "is_correct": false
       },
       {
-        "es": "Rio Colorado",
+        "es": "Río Colorado",
         "en": "Rio Colorado",
         "is_correct": false
       },
       {
-        "es": "Rio Grande",
+        "es": "Río Grande",
         "en": "Rio Grande",
         "is_correct": false
       },
@@ -17767,12 +17767,12 @@
     "stem_en": "During the 17th and 18th centuries, Acapulco was a key port of New Spain for controlling navigation and transpacific trade in the …?",
     "options": [
       {
-        "es": "Atlantic Ocean",
+        "es": "Océano Atlántico",
         "en": "Atlantic Ocean",
         "is_correct": false
       },
       {
-        "es": "Caribbean Sea",
+        "es": "Mar Caribe",
         "en": "Caribbean Sea",
         "is_correct": false
       },
@@ -17782,7 +17782,7 @@
         "is_correct": true
       },
       {
-        "es": "Gulf of Mexico",
+        "es": "Golfo de México",
         "en": "Gulf of Mexico",
         "is_correct": false
       }
@@ -18042,17 +18042,17 @@
         "is_correct": true
       },
       {
-        "es": "The Eagle's Peak",
+        "es": "El Pico del Águila",
         "en": "The Eagle's Peak",
         "is_correct": false
       },
       {
-        "es": "The Sunlit Summit",
+        "es": "El Pico Soleado",
         "en": "The Sunlit Summit",
         "is_correct": false
       },
       {
-        "es": "The Steel Mountain",
+        "es": "La Montaña de Acero",
         "en": "The Steel Mountain",
         "is_correct": false
       }
@@ -18067,7 +18067,7 @@
     "stem_en": "Which of the following sites is not part of Mexico's World Heritage Sites because it is located in another country?",
     "options": [
       {
-        "es": "Palenque, Mexico",
+        "es": "Palenque, México",
         "en": "Palenque, Mexico",
         "is_correct": false
       },
@@ -18077,12 +18077,12 @@
         "is_correct": true
       },
       {
-        "es": "Teotihuacan, Mexico",
+        "es": "Teotihuacan, México",
         "en": "Teotihuacan, Mexico",
         "is_correct": false
       },
       {
-        "es": "Chichen Itza, Mexico",
+        "es": "Chichén Itzá, México",
         "en": "Chichen Itza, Mexico",
         "is_correct": false
       }
@@ -18112,7 +18112,7 @@
         "is_correct": true
       },
       {
-        "es": "State",
+        "es": "Estado",
         "en": "State",
         "is_correct": false
       }
@@ -18132,17 +18132,17 @@
         "is_correct": true
       },
       {
-        "es": "Province",
+        "es": "Provincia",
         "en": "Province",
         "is_correct": false
       },
       {
-        "es": "Region",
+        "es": "Región",
         "en": "Region",
         "is_correct": false
       },
       {
-        "es": "District",
+        "es": "Distrital",
         "en": "District",
         "is_correct": false
       }
@@ -18157,7 +18157,7 @@
     "stem_en": "Which level of government is closest to the population and administers municipalities?",
     "options": [
       {
-        "es": "State",
+        "es": "Estado",
         "en": "State",
         "is_correct": false
       },
@@ -18187,7 +18187,7 @@
     "stem_en": "Which power is responsible for governing and administering the country according to the Mexican Constitution?",
     "options": [
       {
-        "es": "Legislative",
+        "es": "Legislativo",
         "en": "Legislative",
         "is_correct": false
       },
@@ -18217,7 +18217,7 @@
     "stem_en": "Which power is responsible for creating and modifying laws in Mexico?",
     "options": [
       {
-        "es": "Executive",
+        "es": "Ejecutivo",
         "en": "Executive",
         "is_correct": false
       },
@@ -18227,7 +18227,7 @@
         "is_correct": false
       },
       {
-        "es": "Constitutional",
+        "es": "Constitucional",
         "en": "Constitutional",
         "is_correct": false
       },
@@ -18252,17 +18252,17 @@
         "is_correct": true
       },
       {
-        "es": "Executive",
+        "es": "Ejecutivo",
         "en": "Executive",
         "is_correct": false
       },
       {
-        "es": "Constitutional",
+        "es": "Constitucional",
         "en": "Constitutional",
         "is_correct": false
       },
       {
-        "es": "Legislative",
+        "es": "Legislativo",
         "en": "Legislative",
         "is_correct": false
       }
@@ -18282,17 +18282,17 @@
         "is_correct": true
       },
       {
-        "es": "National Council of the Judiciary",
+        "es": "Consejo Nacional de la Judicatura",
         "en": "National Council of the Judiciary",
         "is_correct": false
       },
       {
-        "es": "Constitutional Court of Mexico",
+        "es": "Corte Constitucional de México",
         "en": "Constitutional Court of Mexico",
         "is_correct": false
       },
       {
-        "es": "Federal Electoral Tribunal",
+        "es": "Tribunal Electoral del Poder Judicial de la Federación",
         "en": "Federal Electoral Tribunal",
         "is_correct": false
       }
@@ -18307,17 +18307,17 @@
     "stem_en": "Which body of the Judicial Power is responsible for resolving electoral disputes?",
     "options": [
       {
-        "es": "Federal Electoral Commission",
+        "es": "Comisión Federal de Elecciones",
         "en": "Federal Electoral Commission",
         "is_correct": false
       },
       {
-        "es": "Supreme Court of Justice",
+        "es": "Suprema Corte de Justicia",
         "en": "Supreme Court of Justice",
         "is_correct": false
       },
       {
-        "es": "National Institute of Elections",
+        "es": "Instituto Nacional de Elecciones",
         "en": "National Institute of Elections",
         "is_correct": false
       },
@@ -18337,17 +18337,17 @@
     "stem_en": "Which bodies of the Judicial Power are made up of collegiate and unitary courts?",
     "options": [
       {
-        "es": "District Courts",
+        "es": "Tribunales de Distrito",
         "en": "District Courts",
         "is_correct": false
       },
       {
-        "es": "Administrative Courts",
+        "es": "Tribunales Administrativos",
         "en": "Administrative Courts",
         "is_correct": false
       },
       {
-        "es": "Supreme Courts",
+        "es": "Cortes Supremas",
         "en": "Supreme Courts",
         "is_correct": false
       },
@@ -18367,7 +18367,7 @@
     "stem_en": "Which bodies of the Judicial Power handle federal matters in the first instance throughout the country?",
     "options": [
       {
-        "es": "Supreme Court",
+        "es": "Corte Suprema",
         "en": "Supreme Court",
         "is_correct": false
       },
@@ -18377,12 +18377,12 @@
         "is_correct": true
       },
       {
-        "es": "Circuit Courts",
+        "es": "Juzgados de Circuito",
         "en": "Circuit Courts",
         "is_correct": false
       },
       {
-        "es": "Judicial Review Boards",
+        "es": "Juntas de Revisión Judicial",
         "en": "Judicial Review Boards",
         "is_correct": false
       }
@@ -18397,17 +18397,17 @@
     "stem_en": "Which body of the Judicial Power administers, oversees, and disciplines federal judges and magistrates?",
     "options": [
       {
-        "es": "Judicial Review Board",
+        "es": "Consejo de Revisión Judicial",
         "en": "Judicial Review Board",
         "is_correct": false
       },
       {
-        "es": "National Commission of Human Rights",
+        "es": "Comisión Nacional de los Derechos Humanos",
         "en": "National Commission of Human Rights",
         "is_correct": false
       },
       {
-        "es": "Supreme Court of Justice",
+        "es": "Suprema Corte de Justicia",
         "en": "Supreme Court of Justice",
         "is_correct": false
       },
@@ -18427,12 +18427,12 @@
     "stem_en": "What is the body that holds the Legislative Power in Mexico and is responsible for creating laws?",
     "options": [
       {
-        "es": "The Federal Electoral Institute",
+        "es": "El Instituto Federal Electoral",
         "en": "The Federal Electoral Institute",
         "is_correct": false
       },
       {
-        "es": "The National Institute of Statistics",
+        "es": "El Instituto Nacional de Estadística",
         "en": "The National Institute of Statistics",
         "is_correct": false
       },
@@ -18442,7 +18442,7 @@
         "is_correct": true
       },
       {
-        "es": "The Supreme Court of Justice",
+        "es": "La Suprema Corte de Justicia",
         "en": "The Supreme Court of Justice",
         "is_correct": false
       }
@@ -18457,17 +18457,17 @@
     "stem_en": "Which representatives of the Congress of the Union participate in discussing and approving federal laws?",
     "options": [
       {
-        "es": "City Council Members and Advisors",
+        "es": "Miembros y Asesores del Ayuntamiento",
         "en": "City Council Members and Advisors",
         "is_correct": false
       },
       {
-        "es": "Governors and Mayors",
+        "es": "Gobernadores y Alcaldes",
         "en": "Governors and Mayors",
         "is_correct": false
       },
       {
-        "es": "Judges and Magistrates",
+        "es": "Jueces y Magistrados",
         "en": "Judges and Magistrates",
         "is_correct": false
       },
@@ -18487,17 +18487,17 @@
     "stem_en": "Who does the federal deputy represent?",
     "options": [
       {
-        "es": "The political party",
+        "es": "El partido político",
         "en": "The political party",
         "is_correct": false
       },
       {
-        "es": "The local community",
+        "es": "A la comunidad local",
         "en": "The local community",
         "is_correct": false
       },
       {
-        "es": "The president's agenda",
+        "es": "La agenda del presidente",
         "en": "The president's agenda",
         "is_correct": false
       },
@@ -18517,17 +18517,17 @@
     "stem_en": "What territorial entity do federal deputies represent in the Congress of the Union?",
     "options": [
       {
-        "es": "states",
+        "es": "estados",
         "en": "states",
         "is_correct": false
       },
       {
-        "es": "federal territories",
+        "es": "territorios federales",
         "en": "federal territories",
         "is_correct": false
       },
       {
-        "es": "municipalities",
+        "es": "municipios",
         "en": "municipalities",
         "is_correct": false
       },
@@ -18577,7 +18577,7 @@
     "stem_en": "Who do the Senators of the Republic represent in Mexico?",
     "options": [
       {
-        "es": "Political parties",
+        "es": "Partidos políticos",
         "en": "Political parties",
         "is_correct": false
       },
@@ -18587,12 +18587,12 @@
         "is_correct": true
       },
       {
-        "es": "National organizations",
+        "es": "Organizaciones nacionales",
         "en": "National organizations",
         "is_correct": false
       },
       {
-        "es": "Local municipalities",
+        "es": "Municipios locales",
         "en": "Local municipalities",
         "is_correct": false
       }
@@ -18642,17 +18642,17 @@
         "is_correct": true
       },
       {
-        "es": "Office of Trade Regulation",
+        "es": "Oficina de Regulación Comercial",
         "en": "Office of Trade Regulation",
         "is_correct": false
       },
       {
-        "es": "National Fair Pricing Bureau",
+        "es": "Procuraduría Nacional de Precios Justos",
         "en": "National Fair Pricing Bureau",
         "is_correct": false
       },
       {
-        "es": "Consumer Advocacy Council",
+        "es": "Consejo de Defensa del Consumidor",
         "en": "Consumer Advocacy Council",
         "is_correct": false
       }
@@ -18667,7 +18667,7 @@
     "stem_en": "How many years does primary education last in Mexico within the mandatory basic education system?",
     "options": [
       {
-        "es": "4 years",
+        "es": "4 años",
         "en": "4 years",
         "is_correct": false
       },
@@ -18677,12 +18677,12 @@
         "is_correct": true
       },
       {
-        "es": "5 years",
+        "es": "5 años",
         "en": "5 years",
         "is_correct": false
       },
       {
-        "es": "8 years",
+        "es": "8 años",
         "en": "8 years",
         "is_correct": false
       }
@@ -18702,17 +18702,17 @@
         "is_correct": true
       },
       {
-        "es": "2 years",
+        "es": "2 años",
         "en": "2 years",
         "is_correct": false
       },
       {
-        "es": "4 years",
+        "es": "4 años",
         "en": "4 years",
         "is_correct": false
       },
       {
-        "es": "5 years",
+        "es": "5 años",
         "en": "5 years",
         "is_correct": false
       }
@@ -18732,17 +18732,17 @@
         "is_correct": true
       },
       {
-        "es": "2 years",
+        "es": "2 años",
         "en": "2 years",
         "is_correct": false
       },
       {
-        "es": "4 years",
+        "es": "4 años",
         "en": "4 years",
         "is_correct": false
       },
       {
-        "es": "5 years",
+        "es": "5 años",
         "en": "5 years",
         "is_correct": false
       }
@@ -18757,12 +18757,12 @@
     "stem_en": "How many years does upper secondary education (high school) last in Mexico?",
     "options": [
       {
-        "es": "5 years",
+        "es": "5 años",
         "en": "5 years",
         "is_correct": false
       },
       {
-        "es": "2 years",
+        "es": "2 años",
         "en": "2 years",
         "is_correct": false
       },
@@ -18772,7 +18772,7 @@
         "is_correct": true
       },
       {
-        "es": "4 years",
+        "es": "4 años",
         "en": "4 years",
         "is_correct": false
       }
@@ -18787,7 +18787,7 @@
     "stem_en": "Who is the supreme commander of the armed forces?",
     "options": [
       {
-        "es": "The minister of defense",
+        "es": "El ministro de defensa",
         "en": "The minister of defense",
         "is_correct": false
       },
@@ -18797,12 +18797,12 @@
         "is_correct": true
       },
       {
-        "es": "The head of the national guard",
+        "es": "El jefe de la guardia nacional",
         "en": "The head of the national guard",
         "is_correct": false
       },
       {
-        "es": "The chief of the navy",
+        "es": "El jefe de la marina",
         "en": "The chief of the navy",
         "is_correct": false
       }
@@ -18817,7 +18817,7 @@
     "stem_en": "How long is the presidential term in Mexico?",
     "options": [
       {
-        "es": "5 years",
+        "es": "5 años",
         "en": "5 years",
         "is_correct": false
       },
@@ -18827,12 +18827,12 @@
         "is_correct": true
       },
       {
-        "es": "8 years",
+        "es": "8 años",
         "en": "8 years",
         "is_correct": false
       },
       {
-        "es": "4 years",
+        "es": "4 años",
         "en": "4 years",
         "is_correct": false
       }
@@ -18847,7 +18847,7 @@
     "stem_en": "Which federal government agency is responsible for fiscal policy and tax collection in Mexico?",
     "options": [
       {
-        "es": "Secretariat of Public Administration (SFP)",
+        "es": "Secretaría de la Función Pública (SFP)",
         "en": "Secretariat of Public Administration (SFP)",
         "is_correct": false
       },
@@ -18857,12 +18857,12 @@
         "is_correct": true
       },
       {
-        "es": "National Banking and Securities Commission (CNBV)",
+        "es": "Comisión Nacional Bancaria y de Valores (CNBV)",
         "en": "National Banking and Securities Commission (CNBV)",
         "is_correct": false
       },
       {
-        "es": "Ministry of Economy (SE)",
+        "es": "Secretaría de Economía (SE)",
         "en": "Ministry of Economy (SE)",
         "is_correct": false
       }
@@ -18882,17 +18882,17 @@
         "is_correct": true
       },
       {
-        "es": "Customs Administration Authority (AAC)",
+        "es": "Autoridad de Administración de Aduanas (AAC)",
         "en": "Customs Administration Authority (AAC)",
         "is_correct": false
       },
       {
-        "es": "Ministry of Finance and Public Credit (SHCP)",
+        "es": "Secretaría de Hacienda y Crédito Público (SHCP)",
         "en": "Ministry of Finance and Public Credit (SHCP)",
         "is_correct": false
       },
       {
-        "es": "National Institute of Statistics and Geography (INEGI)",
+        "es": "Instituto Nacional de Estadística y Geografía (INEGI)",
         "en": "National Institute of Statistics and Geography (INEGI)",
         "is_correct": false
       }
@@ -18907,12 +18907,12 @@
     "stem_en": "In which document is it established that education in Mexico must be secular, free, mandatory, and of quality?",
     "options": [
       {
-        "es": "The General Law of Education",
+        "es": "La Ley General de Educación",
         "en": "The General Law of Education",
         "is_correct": false
       },
       {
-        "es": "The National Education Policy",
+        "es": "La Política Nacional de Educación",
         "en": "The National Education Policy",
         "is_correct": false
       },
@@ -18922,7 +18922,7 @@
         "is_correct": true
       },
       {
-        "es": "The Education Reform Act",
+        "es": "La Ley de Reforma Educativa",
         "en": "The Education Reform Act",
         "is_correct": false
       }
@@ -18942,17 +18942,17 @@
         "is_correct": true
       },
       {
-        "es": "The General Law of Education",
+        "es": "La Ley General de Educación",
         "en": "The General Law of Education",
         "is_correct": false
       },
       {
-        "es": "The National Education Act",
+        "es": "La Ley Nacional de Educación",
         "en": "The National Education Act",
         "is_correct": false
       },
       {
-        "es": "The Federal Education Code",
+        "es": "El Código Federal de Educación",
         "en": "The Federal Education Code",
         "is_correct": false
       }
@@ -19027,7 +19027,7 @@
     "stem_en": "What is the name of the fundamental law of Mexico?",
     "options": [
       {
-        "es": "National Governance Framework of Mexico",
+        "es": "Marco Nacional de Gobernanza de México",
         "en": "National Governance Framework of Mexico",
         "is_correct": false
       },
@@ -19037,12 +19037,12 @@
         "is_correct": true
       },
       {
-        "es": "Fundamental Charter of Mexico",
+        "es": "Carta Fundamental de México",
         "en": "Fundamental Charter of Mexico",
         "is_correct": false
       },
       {
-        "es": "Constitutional Law of the Mexican Republic",
+        "es": "Ley Constitucional de la República Mexicana",
         "en": "Constitutional Law of the Mexican Republic",
         "is_correct": false
       }
@@ -19057,12 +19057,12 @@
     "stem_en": "What document governs foreigners and Mexicans in the national territory or grants rights to Mexicans?",
     "options": [
       {
-        "es": "Federal Law on the Rights of Women",
+        "es": "Ley Federal de los Derechos de las Mujeres",
         "en": "Federal Law on the Rights of Women",
         "is_correct": false
       },
       {
-        "es": "Law on Migration and Foreign Affairs",
+        "es": "Ley de Migración y Asuntos Exteriores",
         "en": "Law on Migration and Foreign Affairs",
         "is_correct": false
       },
@@ -19072,7 +19072,7 @@
         "is_correct": true
       },
       {
-        "es": "General Law of Human Rights",
+        "es": "Ley General de Derechos Humanos",
         "en": "General Law of Human Rights",
         "is_correct": false
       }
@@ -19092,17 +19092,17 @@
         "is_correct": true
       },
       {
-        "es": "Treaty of Montevideo",
+        "es": "Tratado de Montevideo",
         "en": "Treaty of Montevideo",
         "is_correct": false
       },
       {
-        "es": "Treaty of Caracas",
+        "es": "Tratado de Caracas",
         "en": "Treaty of Caracas",
         "is_correct": false
       },
       {
-        "es": "Treaty of San Francisco",
+        "es": "Tratado de San Francisco",
         "en": "Treaty of San Francisco",
         "is_correct": false
       }
@@ -19117,7 +19117,7 @@
     "stem_en": "Which article of the Political Constitution of the United Mexican States prohibits slavery, guarantees human rights, and prohibits discrimination?",
     "options": [
       {
-        "es": "Article 4",
+        "es": "Artículo 4",
         "en": "Article 4",
         "is_correct": false
       },
@@ -19127,12 +19127,12 @@
         "is_correct": true
       },
       {
-        "es": "Article 5",
+        "es": "Artículo 5",
         "en": "Article 5",
         "is_correct": false
       },
       {
-        "es": "Article 3",
+        "es": "Artículo 3",
         "en": "Article 3",
         "is_correct": false
       }
@@ -19147,7 +19147,7 @@
     "stem_en": "Which article of the Political Constitution of the United Mexican States recognizes and guarantees the rights of indigenous peoples and communities?",
     "options": [
       {
-        "es": "Article 4",
+        "es": "Artículo 4",
         "en": "Article 4",
         "is_correct": false
       },
@@ -19157,12 +19157,12 @@
         "is_correct": true
       },
       {
-        "es": "Article 1",
+        "es": "Artículo 1",
         "en": "Article 1",
         "is_correct": false
       },
       {
-        "es": "Article 9",
+        "es": "Artículo 9",
         "en": "Article 9",
         "is_correct": false
       }
@@ -19177,12 +19177,12 @@
     "stem_en": "Which article of the Political Constitution of the United Mexican States establishes that education provided by the State must be secular, free, and compulsory at the basic levels?",
     "options": [
       {
-        "es": "Article 31",
+        "es": "Artículo 31",
         "en": "Article 31",
         "is_correct": false
       },
       {
-        "es": "Article 5",
+        "es": "Artículo 5",
         "en": "Article 5",
         "is_correct": false
       },
@@ -19192,7 +19192,7 @@
         "is_correct": true
       },
       {
-        "es": "Article 12",
+        "es": "Artículo 12",
         "en": "Article 12",
         "is_correct": false
       }
@@ -19207,17 +19207,17 @@
     "stem_en": "Which article of the Political Constitution of the United Mexican States establishes the freedom to engage in any lawful profession, industry, trade, or work?",
     "options": [
       {
-        "es": "Article 14",
+        "es": "Artículo 14",
         "en": "Article 14",
         "is_correct": false
       },
       {
-        "es": "Article 3",
+        "es": "Artículo 3",
         "en": "Article 3",
         "is_correct": false
       },
       {
-        "es": "Article 12",
+        "es": "Artículo 12",
         "en": "Article 12",
         "is_correct": false
       },
@@ -19237,12 +19237,12 @@
     "stem_en": "Which article of the Political Constitution of the United Mexican States recognizes the right of petition before authorities?",
     "options": [
       {
-        "es": "Article 14",
+        "es": "Artículo 14",
         "en": "Article 14",
         "is_correct": false
       },
       {
-        "es": "Article 16",
+        "es": "Artículo 16",
         "en": "Article 16",
         "is_correct": false
       },
@@ -19252,7 +19252,7 @@
         "is_correct": true
       },
       {
-        "es": "Article 10",
+        "es": "Artículo 10",
         "en": "Article 10",
         "is_correct": false
       }
@@ -19267,7 +19267,7 @@
     "stem_en": "Which article of the Political Constitution of the United Mexican States establishes the obligations of citizens, such as contributing to public expenses and sending their children to school?",
     "options": [
       {
-        "es": "Article 29",
+        "es": "Artículo 29",
         "en": "Article 29",
         "is_correct": false
       },
@@ -19277,12 +19277,12 @@
         "is_correct": true
       },
       {
-        "es": "Article 73",
+        "es": "Artículo 73",
         "en": "Article 73",
         "is_correct": false
       },
       {
-        "es": "Article 36",
+        "es": "Artículo 36",
         "en": "Article 36",
         "is_correct": false
       }
@@ -19302,17 +19302,17 @@
         "is_correct": true
       },
       {
-        "es": "Article 36",
+        "es": "Artículo 36",
         "en": "Article 36",
         "is_correct": false
       },
       {
-        "es": "Article 29",
+        "es": "Artículo 29",
         "en": "Article 29",
         "is_correct": false
       },
       {
-        "es": "Article 27",
+        "es": "Artículo 27",
         "en": "Article 27",
         "is_correct": false
       }
@@ -19327,17 +19327,17 @@
     "stem_en": "Which article of the Political Constitution of the United Mexican States establishes the rights of citizens, such as voting and being elected in popular elections?",
     "options": [
       {
-        "es": "Article 37",
+        "es": "Artículo 37",
         "en": "Article 37",
         "is_correct": false
       },
       {
-        "es": "Article 34",
+        "es": "Artículo 34",
         "en": "Article 34",
         "is_correct": false
       },
       {
-        "es": "Article 36",
+        "es": "Artículo 36",
         "en": "Article 36",
         "is_correct": false
       },
@@ -19362,17 +19362,17 @@
         "is_correct": true
       },
       {
-        "es": "Article 39",
+        "es": "Artículo 39",
         "en": "Article 39",
         "is_correct": false
       },
       {
-        "es": "Article 36",
+        "es": "Artículo 36",
         "en": "Article 36",
         "is_correct": false
       },
       {
-        "es": "Article 38",
+        "es": "Artículo 38",
         "en": "Article 38",
         "is_correct": false
       }
@@ -19387,12 +19387,12 @@
     "stem_en": "Which autonomous constitutional body in Mexico is responsible for organizing elections and regulating the participation of political parties in electoral processes?",
     "options": [
       {
-        "es": "National Institute of Statistics and Geography",
+        "es": "Instituto Nacional de Estadística y Geografía",
         "en": "National Institute of Statistics and Geography",
         "is_correct": false
       },
       {
-        "es": "Ministry of the Interior",
+        "es": "Secretaría de Gobernación",
         "en": "Ministry of the Interior",
         "is_correct": false
       },
@@ -19402,7 +19402,7 @@
         "is_correct": true
       },
       {
-        "es": "Federal Electoral Tribunal",
+        "es": "Tribunal Electoral del Poder Judicial de la Federación",
         "en": "Federal Electoral Tribunal",
         "is_correct": false
       }
@@ -19417,17 +19417,17 @@
     "stem_en": "What was the name of the body responsible for organizing federal elections in Mexico before 2014?",
     "options": [
       {
-        "es": "Electoral Oversight Board",
+        "es": "Junta de Supervisión Electoral",
         "en": "Electoral Oversight Board",
         "is_correct": false
       },
       {
-        "es": "National Electoral Authority",
+        "es": "Autoridad Nacional Electoral",
         "en": "National Electoral Authority",
         "is_correct": false
       },
       {
-        "es": "Federal Voting Commission",
+        "es": "Comisión Federal de Elecciones",
         "en": "Federal Voting Commission",
         "is_correct": false
       },
@@ -19452,17 +19452,17 @@
         "is_correct": true
       },
       {
-        "es": "March 15, 2012",
+        "es": "15 de marzo de 2012",
         "en": "March 15, 2012",
         "is_correct": false
       },
       {
-        "es": "January 10, 2013",
+        "es": "10 de enero de 2013",
         "en": "January 10, 2013",
         "is_correct": false
       },
       {
-        "es": "May 1, 2015",
+        "es": "1 de mayo de 2015",
         "en": "May 1, 2015",
         "is_correct": false
       }
@@ -19482,17 +19482,17 @@
         "is_correct": true
       },
       {
-        "es": "National Electoral Council",
+        "es": "Consejo Nacional Electoral",
         "en": "National Electoral Council",
         "is_correct": false
       },
       {
-        "es": "Electoral Oversight Commission",
+        "es": "Comisión de Supervisión Electoral",
         "en": "Electoral Oversight Commission",
         "is_correct": false
       },
       {
-        "es": "Federal Voting Authority",
+        "es": "Autoridad Federal de Votación",
         "en": "Federal Voting Authority",
         "is_correct": false
       }
@@ -19727,7 +19727,7 @@
         "is_correct": false
       },
       {
-        "es": "Vicente Fox",
+        "es": "Vicente Fox Quesada",
         "en": "Vicente Fox",
         "is_correct": false
       },

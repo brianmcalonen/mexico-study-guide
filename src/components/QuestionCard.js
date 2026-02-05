@@ -215,12 +215,7 @@ export default function QuestionCard({
 
         <div style={styles.cardFooter}>
           <div style={styles.small}>
-            {curStats ? (
-              <>
-                This card: ✅ {curStats.right} · ❌ {curStats.wrong} · last:{" "}
-                {curStats.last}
-              </>
-            ) : null}
+            ✅ {curStats?.right ?? 0} - ❌ {curStats?.wrong ?? 0}
           </div>
           <div style={styles.smallMuted} />
         </div>

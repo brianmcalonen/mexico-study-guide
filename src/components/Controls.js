@@ -68,7 +68,7 @@ export default function Controls({
   return (
     <div style={styles.controls}>
       <div style={styles.control}>
-        <label style={styles.label}>Category</label>
+        <label style={styles.label}>Categoría</label>
         <div style={styles.selectContainer}>
           <select
             value={category}
@@ -91,10 +91,10 @@ export default function Controls({
             const correct = tally?.correct ?? 0;
             const percent = total > 0 ? Math.round((correct / total) * 100) : 0;
 
-            const marker = isComplete ? "☑ " : "☐ ";
+            const marker = !isCurrent && isComplete ? "☑ " : !isCurrent ? "☐ " : "";
             const optionStyle = {
-              ...(isComplete ? { textDecoration: "line-through" } : {}),
-              ...(isCurrent ? { backgroundColor: theme.border, fontWeight: 700 } : {}),
+              ...(isComplete && !isCurrent ? { textDecoration: "line-through" } : {}),
+              ...(isCurrent ? { backgroundColor: theme.accentBg || theme.accent, fontWeight: 700 } : {}),
             };
 
             return (

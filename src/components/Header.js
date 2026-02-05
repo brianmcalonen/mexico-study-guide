@@ -25,7 +25,7 @@ export default function Header({ isDesktop, theme, onOpenSettings }) {
   return (
     <div style={styles.header}>
       <div>
-        <div style={styles.title}>Naturalización Trainer</div>
+        <div style={styles.title}>Naturalización 🇲🇽</div>
       </div>
 
       <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
